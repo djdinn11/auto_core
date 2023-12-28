@@ -19,6 +19,17 @@ void close_program() {
     CoUninitialize();
 }
 
+HWND CreateMessageWindow() {
+    WNDCLASSEX wcex ={0};
+    wcex.cbSize = sizeof(WNDCLASSEX);
+    wcex.lpfnWndProc = DefWindowProc;
+    wcex.hInstance = GetModuleHandle(NULL);
+    wcex.lpszClassName = TEXT("MessageOnlyWindowClass");
+    RegisterClassEx(&wcex);
+    HWND hwnd = CreateWindowEx(0, wcex.lpszClassName, TEXT(""), 0, 0, 0, 0, 0, HWND_MESSAGE, NULL, wcex.hInstance, NULL);
+    return hwnd;
+}
+
 BOOL CALLBACK EnumWindowsProc(HWND hwnd, LPARAM lParam) {
     const int bufferSize = 1024;
     TCHAR windowTitle[bufferSize];
@@ -74,36 +85,36 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
             activate_iTunes();
         }
         else if (vkCode == numkey_4) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_ITUNES_PREV, 0, 0);}
-            else {activate_Chrome();}
+            if (primary) { PostThreadMessage(mainThreadId, WM_ITUNES_PREV, 0, 0); }
+            else { activate_Chrome(); }
         }
         else if (vkCode == numkey_5) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_ITUNES_PLAY, 0, 0);}
-            else {activate_Visual();}
+            if (primary) { PostThreadMessage(mainThreadId, WM_ITUNES_PLAY, 0, 0); }
+            else { activate_Visual(); }
         }
         else if (vkCode == numkey_6) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_ITUNES_NEXT, 0, 0);}
-            else {activate_Discord();}
+            if (primary) { PostThreadMessage(mainThreadId, WM_ITUNES_NEXT, 0, 0); }
+            else { activate_Discord(); }
         }
         else if (vkCode == numkey_7) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_PRINT_GPT, 0, 0);}
-            else {activate_Folder();}
+            if (primary) { PostThreadMessage(mainThreadId, WM_PRINT_GPT, 0, 0); }
+            else { activate_Folder(); }
         }
         else if (vkCode == numkey_8) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_SP_CURR, 0, 0);}
-            else {activate_Taskbar_8();}
+            if (primary) { PostThreadMessage(mainThreadId, WM_SP_CURR, 0, 0); }
+            else { activate_Taskbar_8(); }
         }
         else if (vkCode == numkey_9) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_PRINT_TIME, 0, 0);}
-            else {PostThreadMessage(mainThreadId, WM_SP_NEXT, 0, 0);}
+            if (primary) { PostThreadMessage(mainThreadId, WM_PRINT_TIME, 0, 0); }
+            else { PostThreadMessage(mainThreadId, WM_SP_NEXT, 0, 0); }
         }
         else if (vkCode == numkey_plus) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_ITUNES_CURR, 0, 0);}
-            else {PostThreadMessage(mainThreadId, WM_LILY_CHOICE, 0, 0);}
+            if (primary) { PostThreadMessage(mainThreadId, WM_ITUNES_CURR, 0, 0); }
+            else { PostThreadMessage(mainThreadId, WM_LILY_CHOICE, 0, 0); }
         }
         else if (vkCode == numkey_star) {
-            if (primary) {PostThreadMessage(mainThreadId, WM_STAR_CHOICE, 0, 0);}
-            else {PostThreadMessage(mainThreadId, WM_STAR_TITLE, 0, 0);}
+            if (primary) { PostThreadMessage(mainThreadId, WM_STAR_CHOICE, 0, 0); }
+            else { PostThreadMessage(mainThreadId, WM_STAR_TITLE, 0, 0); }
         }
         else if (vkCode == numkey_0) {
             closing_program = !closing_program;
@@ -120,20 +131,57 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
                 primary = true;
             }
             return 1;
-        } 
+        }
     }
     return CallNextHookEx(NULL, nCode, wParam, lParam);
 }
 
-HWND CreateMessageWindow() {
-    WNDCLASSEX wcex ={ 0 };
-    wcex.cbSize = sizeof(WNDCLASSEX);
-    wcex.lpfnWndProc = DefWindowProc;
-    wcex.hInstance = GetModuleHandle(NULL);
-    wcex.lpszClassName = TEXT("MessageOnlyWindowClass");
-    RegisterClassEx(&wcex);
-    HWND hwnd = CreateWindowEx(0, wcex.lpszClassName, TEXT(""), 0, 0, 0, 0, 0, HWND_MESSAGE, NULL, wcex.hInstance, NULL);
-    return hwnd;
+void ProcessMessage(const MSG& msg) {
+    if (msg.message == WM_STAR_TITLE) {
+        print_episode_title();
+    }
+    else if (msg.message == WM_STAR_CHOICE) {
+        print_choice_star();
+    }
+    else if (msg.message == WM_LILY_CHOICE) {
+        print_choice_lily();
+    }
+    else if (msg.message == WM_ITUNES_CURR) {
+        print_iTunes_song();
+    }
+    else if (msg.message == WM_ITUNES_PREV) {
+        myiTunes.prevSong();
+    }
+    else if (msg.message == WM_ITUNES_PLAY) {
+        myiTunes.playPause();
+    }
+    else if (msg.message == WM_ITUNES_NEXT) {
+        myiTunes.nextSong();
+    }
+    else if (msg.message == WM_SP_CURR) {
+        try {
+            print_Spotify_song();
+        }
+        catch (...) {
+            cerr << "Spotify error" << endl;
+        }
+    }
+    else if (msg.message == WM_SP_PREV) {
+        mySpotify.Previous();
+    }
+    else if (msg.message == WM_SP_PLAY) {
+        mySpotify.PlayPause();
+    }
+    else if (msg.message == WM_SP_NEXT) {
+        mySpotify.Next();
+    }
+    else if (msg.message == WM_PRINT_TIME) {
+        print_timestamp();
+    }
+    else if (msg.message == WM_PRINT_GPT) {
+        thread t(print_gpt_message);
+        t.detach();
+    }
 }
 
 int main() {
@@ -142,7 +190,6 @@ int main() {
     keyboardHook = SetWindowsHookEx(WH_KEYBOARD_LL, KeyboardProc, NULL, 0);
     MSG msg;
     mainThreadId = GetCurrentThreadId();
-
     print("Program ready\n");
     while (GetMessage(&msg, NULL, 0, 0) > 0) {
         if (msg.message == WM_CLOSE_PROGRAM) {
@@ -153,51 +200,16 @@ int main() {
             }
             break;
         }
-        else if (msg.message == WM_STAR_TITLE) {
-            print_episode_title();
+        try {
+            ProcessMessage(msg);
         }
-        else if (msg.message == WM_STAR_CHOICE) {
-            print_choice_star();
+        catch (const std::exception& e) {
+            cerr << "Caught Exception: " << e.what() << endl;
         }
-        else if (msg.message == WM_LILY_CHOICE) {
-            print_choice_lily();
+        catch (...) {
+            cerr << "Uncaught Exception" << endl;
         }
-        else if (msg.message == WM_ITUNES_CURR) {
-            print_iTunes_song();
-        }
-        else if (msg.message == WM_ITUNES_PREV) {
-            myiTunes.prevSong();
-        }
-        else if (msg.message == WM_ITUNES_PLAY) {
-            myiTunes.playPause();
-        }
-        else if (msg.message == WM_ITUNES_NEXT) {
-            myiTunes.nextSong();
-        }
-        else if (msg.message == WM_SP_CURR) {
-            try {
-                print_Spotify_song();
-            }
-            catch (...) {
-                cerr << "Spotify error" << endl;
-            }
-        }
-        else if (msg.message == WM_SP_PREV) {
-            mySpotify.Previous();
-        }
-        else if (msg.message == WM_SP_PLAY) {
-            mySpotify.PlayPause();
-        }
-        else if (msg.message == WM_SP_NEXT) {
-            mySpotify.Next();
-        }
-        else if (msg.message == WM_PRINT_TIME) {
-            print_timestamp();
-        }
-        else if (msg.message == WM_PRINT_GPT) {
-            thread t(print_gpt_message);
-            t.detach();
-        }
+
         TranslateMessage(&msg);
         DispatchMessage(&msg);
     }

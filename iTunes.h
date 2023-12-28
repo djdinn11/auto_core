@@ -27,6 +27,7 @@ private:
     TrackInfo currentTrack;
     IDispatch* getCurrentTrackCOMObject();
     TrackInfo getTrackInfo();
+    bool initialized;
 };
 
 extern iTunes myiTunes;

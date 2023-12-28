@@ -19,12 +19,23 @@ void set_minutes_stamp() {
     set_minutes_stamp(t.tm_hour, t.tm_min);
 }
 void set_timestamp(int hour, int min) {
-    if (hour > 12 && hour < 22) {hour -= 12;}
+    string hour_str;
+    if (hour > 12 && hour < 22) {
+        hour -= 12;
+        hour_str = to_string(hour);
+    }
     else if (hour == 0) {
         hour = 24;
+        hour_str = to_string(hour);
+    }
+    else if (hour < 10) {
+        hour_str = f("0{}", hour);
+    }
+    else {
+        hour_str = to_string(hour);
     }
     ss s;
-    s << hour << ":" << setw(2) << setfill('0') << min;
+    s << hour_str << ":" << setw(2) << setfill('0') << min;
     timestamp = s.str();
 }
 void set_timestamp() {

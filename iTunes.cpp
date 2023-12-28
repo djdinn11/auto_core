@@ -1,12 +1,34 @@
 #include <iTunes.h>
 
+BOOL CALLBACK EnumWindowsProciTunes(HWND hwnd, LPARAM lParam) {
+    const int length = GetWindowTextLength(hwnd) + 1;
+    wstring windowTitle(length, L'\0');
+    GetWindowText(hwnd, &windowTitle[0], length);
+    if (windowTitle.find(L"iTunes") != wstring::npos) {
+        *reinterpret_cast<bool*>(lParam) = true;
+        return FALSE;
+    }
+    return TRUE;
+}
+
+bool isITunesWindowOpen() {
+    bool iTunesWindowFound = false;
+    EnumWindows(EnumWindowsProciTunes, reinterpret_cast<LPARAM>(&iTunesWindowFound));
+    return iTunesWindowFound;
+}
+
 iTunes::iTunes() {
-    initializeCOM();
+    if (isITunesWindowOpen()) {
+        initializeCOM();
+    }
 }
 iTunes::~iTunes() {
     finalizeCOM();
 }
 void iTunes::initializeCOM() {
+    if (initialized) {
+        return;
+    }
     hr = CoInitialize(NULL);
     if (FAILED(hr)) {
         cerr << "Failed to initialize COM, HRESULT: " << hr << endl;
@@ -25,6 +47,7 @@ void iTunes::initializeCOM() {
         CoUninitialize();
         return;
     }
+    initialized = true;
 }
 void iTunes::finalizeCOM() {
     if (pCurrentTrack != nullptr) {
@@ -129,6 +152,10 @@ TrackInfo iTunes::getTrackInfo() {
     return info;
 }
 void iTunes::playPause() {
+    if (!initialized) {
+        cout << "iTunes not started\n";
+        return;
+    }
     DISPID dispidPlayPause;
     const OLECHAR* szPlayPause = L"PlayPause";
     BSTR bstrPlayPause = SysAllocString(szPlayPause);
@@ -138,6 +165,10 @@ void iTunes::playPause() {
     iTunesApp->Invoke(dispidPlayPause, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
 void iTunes::nextSong() {
+    if (!initialized) {
+        cout << "iTunes not started\n";
+        return;
+    }
     DISPID dispidNextTrack;
     const OLECHAR* szNextTrack = L"NextTrack";
     BSTR bstrNextTrack = SysAllocString(szNextTrack);
@@ -147,6 +178,10 @@ void iTunes::nextSong() {
     iTunesApp->Invoke(dispidNextTrack, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
 void iTunes::prevSong() {
+    if (!initialized) {
+        cout << "iTunes not started\n";
+        return;
+    }
     DISPID dispidPreviousTrack;
     const OLECHAR* szPreviousTrack = L"PreviousTrack";
     BSTR bstrPreviousTrack = SysAllocString(szPreviousTrack);
@@ -155,8 +190,10 @@ void iTunes::prevSong() {
     DISPPARAMS dispparamsNoArgs ={NULL, NULL, 0, 0};
     iTunesApp->Invoke(dispidPreviousTrack, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
-
 wstring iTunes::getCurrentTrackInfo() {
+    if (!initialized) {
+        initializeCOM();
+    }
     pCurrentTrack = getCurrentTrackCOMObject();
     if (!pCurrentTrack) {
         return L"";
@@ -180,4 +217,3 @@ wstring iTunes::getCurrentTrackInfo() {
     }
     return ws.str();
 }
-

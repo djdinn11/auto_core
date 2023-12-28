@@ -21,8 +21,8 @@ void print_choice_star() {
     print_to_screen(select_msg);
 }
 void print_choice_lily() {
-    int choice_number = getRandomNumber(0, 2);
-    string select_msg = f("Lily selects {}.\n", choice_number);
+    int choice_number = getRandomNumber(1, 2);
+    string select_msg = f("Luna selects {}.\n", choice_number);
     print_to_screen(select_msg);
 }
 void print_gpt_message() {

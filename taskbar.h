@@ -1,5 +1,5 @@
 #pragma once
-#include <visual.h>
+
 void activate_Auto_Core();
 void activate_Folder();
 void activate_Word();
