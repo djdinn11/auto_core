@@ -137,21 +137,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="auto_core.cpp" />
-    <ClCompile Include="choice.cpp" />
-    <ClCompile Include="clock.cpp" />
-    <ClCompile Include="gpt.cpp" />
-    <ClCompile Include="iTunes.cpp" />
-    <ClCompile Include="keyboard.cpp" />
-    <ClCompile Include="visual.cpp" />
-    <ClCompile Include="Spotify.cpp" />
-    <ClCompile Include="star.cpp" />
-    <ClCompile Include="taskbar.cpp" />
+    <ClCompile Include="auto_core.cc" />
+    <ClCompile Include="choice.cc" />
+    <ClCompile Include="clock.cc" />
+    <ClCompile Include="gpt.cc" />
+    <ClCompile Include="iTunes.cc" />
+    <ClCompile Include="keyboard.cc" />
+    <ClCompile Include="visual.cc" />
+    <ClCompile Include="Spotify.cc" />
+    <ClCompile Include="star.cc" />
+    <ClCompile Include="taskbar.cc" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="choice.h" />
     <ClInclude Include="clock.h" />
-    <ClInclude Include="gpt.hpp" />
+    <ClInclude Include="gpt.h" />
     <ClInclude Include="auto_core.h" />
     <ClInclude Include="iTunes.h" />
     <ClInclude Include="keyboard.h" />

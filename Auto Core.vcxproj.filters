@@ -15,34 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="auto_core.cpp">
+    <ClCompile Include="auto_core.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="iTunes.cpp">
+    <ClCompile Include="iTunes.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Spotify.cpp">
+    <ClCompile Include="Spotify.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="clock.cpp">
+    <ClCompile Include="clock.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="star.cpp">
+    <ClCompile Include="star.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="keyboard.cpp">
+    <ClCompile Include="keyboard.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="taskbar.cpp">
+    <ClCompile Include="taskbar.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="gpt.cpp">
+    <ClCompile Include="gpt.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="choice.cpp">
+    <ClCompile Include="choice.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="visual.cpp">
+    <ClCompile Include="visual.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -56,7 +56,7 @@
     <ClInclude Include="star.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="gpt.hpp">
+    <ClInclude Include="gpt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="visual.h">

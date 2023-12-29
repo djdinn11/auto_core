@@ -1,4 +1,4 @@
-#include <gpt.hpp>
+#include <gpt.h>
 
 string gpt_5 = "Hi GPT-5, this is DJ. I am building a C++ project named Auto Core specialized for Windows 11 systems.";
 string gpt_4_point_5 = "Hi GPT-4.5, this is DJ. I am developing a hypothetical military and cultural system.";

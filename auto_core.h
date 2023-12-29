@@ -11,7 +11,7 @@
 #include <vector>
 #include <visual.h>
 #include <clock.h>
-#include <gpt.hpp>
+#include <gpt.h>
 
 #define AC_NUMKEY_0 (WM_APP + 96)
 #define AC_NUMKEY_1 (WM_APP + 97)
