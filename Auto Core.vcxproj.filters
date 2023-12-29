@@ -42,9 +42,6 @@
     <ClCompile Include="choice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="print.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="visual.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -72,9 +69,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="keyboard.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="print.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="choice.h">

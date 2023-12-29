@@ -1,10 +1,10 @@
 # Auto Core for Windows 11
 
-Auto Core is a C++ utility designed to streamline task execution for Windows 11 systems. It utilizes system hardware and resources for improved efficiency and system performance.
+Auto Core is a C++ utility designed to streamline task execution for Windows 11 systems. It is a keyboard manager specialized for the numpad keys and quick taskbar access.
 
 ## Key Features
-- **Numpad Manager:** A keyboard manager specialized for the numpad keys.
-- **Taskbak Quick Activate:** Launches pinned taskbar programs using winkeys.
+- **Numpad Manager:** A keyboard manager for the numpad keys.
+- **Taskbak Quick Access:** Launches pinned taskbar programs using winkeys.
 - **Journaling Helper:** Streamlines the management of journal documents.
 - **Creative Writing:** Generates random prompts for creative inspiration.
 - **Music Player Intregation:** Integrates with Spotify and iTunes.
@@ -20,7 +20,7 @@ Auto Core is a C++ utility designed to streamline task execution for Windows 11 
 
 ### Spotify Integration
 - Spotify requires OAuth 2.0 Authorization.
-- For an interactive guide, see spotify_init.cc.
+- For an interactive guide, see spotify_link.cc.
 
 ## Display Formats
 **Timestamp Display:**

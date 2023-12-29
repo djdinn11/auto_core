@@ -58,3 +58,8 @@ void set_episode_title() {
         << datestamp << "\n\n" << timestamp << "\n";
     episode_title = s.str();
 }
+void print_episode_title() {
+    set_episode_title();
+    print_to_screen(episode_title);
+    simulate_save();
+}

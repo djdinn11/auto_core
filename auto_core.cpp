@@ -186,7 +186,7 @@ void ProcessNumpadEvent(const MSG& msg) {
             }
         }
         else {
-            activate_Taskbar_8();
+            activate_Firefox();
         }
     }
     else if (msg.message == AC_NUMKEY_9) {
@@ -211,6 +211,14 @@ void ProcessNumpadEvent(const MSG& msg) {
         }
         else {
             print_Lily_choice();
+        }
+    }
+    else if (msg.message == AC_NUMKEY_PERIOD) {
+        if (primary) {
+            activate_Taskbar_9();
+        }
+        else {
+            activate_Taskbar_10();
         }
     }
     if (!primary && msg.message != AC_NUMKEY_0) {

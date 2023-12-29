@@ -1,5 +1,6 @@
 #pragma once
 #include <visual.h>
+#include <keyboard.h>
 
 extern int minutes_stamp;
 extern string timestamp;
@@ -14,3 +15,4 @@ void set_timestamp();
 void set_datestamp(int month, int day, int year);
 void set_datestamp();
 void set_time();
+void print_timestamp();

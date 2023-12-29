@@ -25,3 +25,4 @@ void release_winkey();
 void set_clipboard_text(const wstring& text);
 void simulate_paste();
 void simulate_save();
+void print_to_screen(string msg);

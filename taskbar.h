@@ -9,9 +9,9 @@ public:
 	int chrome    = 5;
 	int visual    = 6;
 	int discord   = 7;
-	int taskbar_8 = 8;
-	int taskbar_9 = 9;
-	int taskbar_0 = 10;
+	int firefox   = 8;
+	int taskbar_9  = 9;
+    int taskbar_10 = 0;
 };
 
 void activate_Auto_Core();
@@ -21,6 +21,8 @@ void activate_iTunes();
 void activate_Chrome();
 void activate_Visual();
 void activate_Discord();
-void activate_Taskbar_8();
+void activate_Firefox();
+void activate_Taskbar_9();
+void activate_Taskbar_10();
 
 extern Taskbar taskbar;

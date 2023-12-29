@@ -216,3 +216,18 @@ void Spotify::prev_song() {
         cerr << "Failed to go to previous song: " << response.text << endl;
     }
 }
+void print_Spotify_song() {
+    string song = ac_Spotify.get_current_song();
+    if (song.empty()) {
+        set_clipboard_text(L"\n\n");
+        simulate_paste();
+        return;
+    }
+    song += "\n";
+    print(song);
+    wss ws;
+    ws << Utf8ToUtf16(song).c_str() << L"\n";
+    set_clipboard_text(ws.str());
+    Sleep(50);
+    simulate_paste();
+}

@@ -17,7 +17,6 @@ using wss = wostringstream;
 #define f format
 
 void print(const std::string& s);
-
 wstring get_executable_dir();
 string wstringToString(const wstring& wstr);
 wstring stringToWstring(const string& str);

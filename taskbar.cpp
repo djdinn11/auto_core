@@ -10,4 +10,6 @@ void activate_iTunes()      {send_winkey(taskbar.itunes);}
 void activate_Chrome()      {send_winkey(taskbar.chrome);}
 void activate_Visual()      {send_winkey(taskbar.visual);}
 void activate_Discord()     {send_winkey(taskbar.discord);}
-void activate_Taskbar_8()   {send_winkey(taskbar.taskbar_8);}
+void activate_Firefox()     {send_winkey(taskbar.firefox);}
+void activate_Taskbar_9()   {send_winkey(taskbar.taskbar_9);}
+void activate_Taskbar_10()  {send_winkey(taskbar.taskbar_10);}

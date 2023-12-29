@@ -36,3 +36,14 @@ string get_gpt_message() {
 	}
 	return gpt_default;
 }
+void print_gpt_message() {
+	HWND currentWindowHandle = GetForegroundWindow();
+	activate_Auto_Core();
+	string gpt_message = get_gpt_message();
+	print(gpt_message + "\n");
+	wss ws;
+	ws << gpt_message.c_str();
+	set_clipboard_text(ws.str());
+	SetForegroundWindow(currentWindowHandle);
+	simulate_paste();
+}

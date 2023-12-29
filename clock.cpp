@@ -62,3 +62,7 @@ void set_time() {
     set_timestamp(t.tm_hour, t.tm_min);
     set_datestamp(t.tm_mon, t.tm_mday, t.tm_year);
 }
+void print_timestamp() {
+    string timestamp = get_timestamp() + "\n";
+    print_to_screen(timestamp);
+}

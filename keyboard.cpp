@@ -83,3 +83,10 @@ void simulate_save() {
     inputs[3].ki.dwFlags = KEYEVENTF_KEYUP;
     SendInput(ARRAYSIZE(inputs), inputs, sizeof(INPUT));
 }
+void print_to_screen(string msg) {
+    print(msg);
+    wss ws;
+    ws << msg.c_str() << L"\n";
+    set_clipboard_text(ws.str());
+    simulate_paste();
+}

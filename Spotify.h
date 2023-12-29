@@ -28,4 +28,5 @@ private:
     int Play();
 };
 
+void print_Spotify_song();
 extern Spotify ac_Spotify;

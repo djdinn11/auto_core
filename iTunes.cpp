@@ -217,3 +217,13 @@ wstring iTunes::get_current_track() {
     }
     return ws.str();
 }
+void print_iTunes_song() {
+    wstring iTunes_wstr = ac_iTunes.get_current_track();
+    string iTunes_str = wstringToString(iTunes_wstr);
+    if (!iTunes_str.empty()) {
+        print(iTunes_str + "\n");
+    }
+    set_clipboard_text(iTunes_wstr + L"\n\n");
+    Sleep(50);
+    simulate_paste();
+}

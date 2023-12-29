@@ -1,6 +1,7 @@
 #pragma once 
 #include <visual.h>
 #include <comdef.h>
+#include <keyboard.h>
 
 struct TrackInfo {
     wstring name;
@@ -29,5 +30,7 @@ private:
     TrackInfo getTrackInfo();
     bool initialized;
 };
+
+void print_iTunes_song();
 
 extern iTunes ac_iTunes;
