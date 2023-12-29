@@ -4,17 +4,14 @@
 class Spotify {
 public:
     Spotify();
-    void RefreshTokens();
-    string GetCurrentSong();
-    bool DownloadAlbumCover();
+    string get_current_song();
+    bool download_album_cover();
     void GetUserPlaylists();
-    int Pause();
-    int Play();
-    void PlayPause();
-    void Next();
-    void Previous();
-    string prev_song;
+    void play_pause();
+    void next_song();
+    void prev_song();
 private:
+    string last_song;
     string client_id;
     string client_secret;
     string credentials;
@@ -26,6 +23,9 @@ private:
     int timerate;
     bool CheckTimerate();
     void ExtractTokens();
+    void RefreshTokens();
+    int Pause();
+    int Play();
 };
 
-extern Spotify mySpotify;
+extern Spotify ac_Spotify;

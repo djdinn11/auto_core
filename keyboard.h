@@ -13,11 +13,10 @@ const int numkey_8 = 104;
 const int numkey_9 = 105;
 const int numkey_star = 106;
 const int numkey_plus = 107;
-const int numkey_return = 108;
+const int numkey_enter = 108;
 const int numkey_minus = 109;
-const int numkey_point = 110;
+const int numkey_period = 110;
 const int numkey_divide = 111;
-const int numkey_out_of_range = 112;
 
 void send_winkey(int position);
 void send_winkey_with_number(int number);

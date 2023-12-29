@@ -14,12 +14,12 @@ class iTunes {
 public:
     iTunes();
     ~iTunes();
-    void playPause();
-    void nextSong();
-    void prevSong();
-    void initializeCOM();
-    void finalizeCOM();
-    wstring getCurrentTrackInfo();
+    void play_pause();
+    void next_song();
+    void prev_song();
+    void initialize_COM();
+    void finalize_COM();
+    wstring get_current_track();
 private:
     IDispatch* iTunesApp = nullptr;
     IDispatch* pCurrentTrack = nullptr;
@@ -30,4 +30,4 @@ private:
     bool initialized;
 };
 
-extern iTunes myiTunes;
+extern iTunes ac_iTunes;

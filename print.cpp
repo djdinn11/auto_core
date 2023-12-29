@@ -15,13 +15,13 @@ void print_to_screen(string msg) {
     set_clipboard_text(ws.str());
     simulate_paste();
 }
-void print_choice_star() {
+void print_Star_choice() {
     int choice_number = getRandomNumber(1, 3);
     string select_msg = f("Star selects {}.\n", choice_number);
     print_to_screen(select_msg);
 }
-void print_choice_lily() {
-    int choice_number = getRandomNumber(1, 2);
+void print_Lily_choice() {
+    int choice_number = getRandomNumber(1, 3);
     string select_msg = f("Luna selects {}.\n", choice_number);
     print_to_screen(select_msg);
 }
@@ -46,7 +46,7 @@ void print_episode_title() {
     simulate_save();
 }
 void print_iTunes_song() {
-    wstring iTunes_wstr = myiTunes.getCurrentTrackInfo();
+    wstring iTunes_wstr = ac_iTunes.get_current_track();
     string iTunes_str = wstringToString(iTunes_wstr);
     if (!iTunes_str.empty()) {
         print(iTunes_str + "\n");
@@ -56,7 +56,7 @@ void print_iTunes_song() {
     simulate_paste();
 }
 void print_Spotify_song() {
-    string song = mySpotify.GetCurrentSong();
+    string song = ac_Spotify.get_current_song();
     if (song.empty()) {
         set_clipboard_text(L"\n\n");
         simulate_paste();

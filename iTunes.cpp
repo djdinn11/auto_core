@@ -11,21 +11,21 @@ BOOL CALLBACK EnumWindowsProciTunes(HWND hwnd, LPARAM lParam) {
     return TRUE;
 }
 
-bool isITunesWindowOpen() {
+bool is_iTunes_open() {
     bool iTunesWindowFound = false;
     EnumWindows(EnumWindowsProciTunes, reinterpret_cast<LPARAM>(&iTunesWindowFound));
     return iTunesWindowFound;
 }
 
 iTunes::iTunes() {
-    if (isITunesWindowOpen()) {
-        initializeCOM();
+    if (is_iTunes_open()) {
+        initialize_COM();
     }
 }
 iTunes::~iTunes() {
-    finalizeCOM();
+    finalize_COM();
 }
-void iTunes::initializeCOM() {
+void iTunes::initialize_COM() {
     if (initialized) {
         return;
     }
@@ -49,7 +49,7 @@ void iTunes::initializeCOM() {
     }
     initialized = true;
 }
-void iTunes::finalizeCOM() {
+void iTunes::finalize_COM() {
     if (pCurrentTrack != nullptr) {
         pCurrentTrack->Release();
         pCurrentTrack = nullptr;
@@ -151,7 +151,7 @@ TrackInfo iTunes::getTrackInfo() {
     hr = pCurrentTrack->Invoke(dispidDelete, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
     return info;
 }
-void iTunes::playPause() {
+void iTunes::play_pause() {
     if (!initialized) {
         cout << "iTunes not started\n";
         return;
@@ -164,7 +164,7 @@ void iTunes::playPause() {
     DISPPARAMS dispparamsNoArgs ={NULL, NULL, 0, 0};
     iTunesApp->Invoke(dispidPlayPause, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
-void iTunes::nextSong() {
+void iTunes::next_song() {
     if (!initialized) {
         cout << "iTunes not started\n";
         return;
@@ -177,7 +177,7 @@ void iTunes::nextSong() {
     DISPPARAMS dispparamsNoArgs ={NULL, NULL, 0, 0};
     iTunesApp->Invoke(dispidNextTrack, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
-void iTunes::prevSong() {
+void iTunes::prev_song() {
     if (!initialized) {
         cout << "iTunes not started\n";
         return;
@@ -190,9 +190,9 @@ void iTunes::prevSong() {
     DISPPARAMS dispparamsNoArgs ={NULL, NULL, 0, 0};
     iTunesApp->Invoke(dispidPreviousTrack, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_METHOD, &dispparamsNoArgs, NULL, NULL, NULL);
 }
-wstring iTunes::getCurrentTrackInfo() {
+wstring iTunes::get_current_track() {
     if (!initialized) {
-        initializeCOM();
+        initialize_COM();
     }
     pCurrentTrack = getCurrentTrackCOMObject();
     if (!pCurrentTrack) {

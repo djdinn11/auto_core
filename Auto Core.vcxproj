@@ -140,7 +140,6 @@
     <ClCompile Include="auto_core.cpp" />
     <ClCompile Include="choice.cpp" />
     <ClCompile Include="clock.cpp" />
-    <ClCompile Include="encoding.cpp" />
     <ClCompile Include="gpt.cpp" />
     <ClCompile Include="iTunes.cpp" />
     <ClCompile Include="keyboard.cpp" />
@@ -153,7 +152,6 @@
   <ItemGroup>
     <ClInclude Include="choice.h" />
     <ClInclude Include="clock.h" />
-    <ClInclude Include="encoding.h" />
     <ClInclude Include="gpt.hpp" />
     <ClInclude Include="auto_core.h" />
     <ClInclude Include="iTunes.h" />

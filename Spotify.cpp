@@ -80,7 +80,7 @@ void Spotify::RefreshTokens() {
         }
     }
 }
-string Spotify::GetCurrentSong() {
+string Spotify::get_current_song() {
     RefreshTokens();
     auto response = Get(
         Url{ "https://api.spotify.com/v1/me/player/currently-playing" },
@@ -111,24 +111,40 @@ string Spotify::GetCurrentSong() {
     ss s;
     s << "[" << song_name << "] [" << artist_name << "] [" << album_name << "] [" << duration << " secs]";
     string current_song = s.str();
-    if (current_song == prev_song) {
+    if (current_song == last_song) {
         return "";
     }
-    prev_song = current_song;
+    last_song = current_song;
     return current_song;
 }
-bool Spotify::DownloadAlbumCover() {
-    GetCurrentSong(); // retrieves the album url
-    auto response = Get(Url{ album_url });
+bool Spotify::download_album_cover() {
+    RefreshTokens();
+    auto response = Get(
+        Url{"https://api.spotify.com/v1/me/player/currently-playing"},
+        Header{{"Authorization", "Bearer " + access_token}}
+    );
+    if (response.status_code != 200) {
+        cerr << "Failed to retrieve song" << endl;
+        return "";
+    }
+    auto song_details = parse(response.text);
+    string album_cover_url;
+    if (!song_details["item"]["album"]["images"].empty()) {
+        album_cover_url = song_details["item"]["album"]["images"][0]["url"].get<string>();
+    }
+    else {
+        album_cover_url = "No cover available";
+    }
+    auto album_response = Get(Url{album_cover_url});
     string filepath = "cover.jpg";
-    if (response.status_code == 200) {
+    if (album_response.status_code == 200) {
         ofstream file(filepath, ios::binary);
-        file.write(response.text.c_str(), response.text.size());
+        file.write(album_response.text.c_str(), album_response.text.size());
         file.close();
         return true;
     }
     else {
-        cerr << "Failed to download the image: Status code " << response.status_code << endl;
+        cerr << "Failed to download the image: Status code " << album_response.status_code << endl;
         return false;
     }
 }
@@ -171,7 +187,7 @@ int Spotify::Play() {
     );
     return response.status_code;
 }
-void Spotify::PlayPause() {
+void Spotify::play_pause() {
     int status = Pause();
     if (status == 403) {
         status = Play();
@@ -180,7 +196,7 @@ void Spotify::PlayPause() {
         cerr << "Failed to play/pause song: " << endl;
     }
 }
-void Spotify::Next() {
+void Spotify::next_song() {
     RefreshTokens();
     auto response = Post(
         Url{ "https://api.spotify.com/v1/me/player/next" },
@@ -190,7 +206,7 @@ void Spotify::Next() {
         cerr << "Failed to go to next song: " << response.text << endl;
     }
 }
-void Spotify::Previous() {
+void Spotify::prev_song() {
     RefreshTokens();
     auto response = Post(
         Url{ "https://api.spotify.com/v1/me/player/previous" },
