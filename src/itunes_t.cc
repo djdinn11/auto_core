@@ -13,7 +13,8 @@ void iTunes_next_song() {
 void iTunes::start_iTunes_thread() {
     Sleep(250);
     logg("iTunes_thread started");
-    const int sleep_timerate_secs = 15;
+    const int sleep_timerate_secs_playing = 5;
+    const int sleep_timerate_secs_pause = 15;
     const int extra_time_ms = 100;
     const int processing_delay_ms = 252;
     try {
@@ -24,21 +25,17 @@ void iTunes::start_iTunes_thread() {
             if (ac_iTunes.initialized) {
                 ac_iTunes.get_current_track();
             }
-            else {
-                ac_iTunes.remaining_song_duration = -1;
-            }
-            if (ac_iTunes.remaining_song_duration > sleep_timerate_secs) {
-                sleep_time_secs = sleep_timerate_secs;
-            }
-            else if (ac_iTunes.remaining_song_duration == -1) {
-                sleep_time_secs = sleep_timerate_secs;
-            }
-            else if (ac_iTunes.remaining_song_duration < sleep_timerate_secs) {
-                sleep_time_secs = ac_iTunes.remaining_song_duration;
-                Sleep(extra_time_ms);
+            if (ac_iTunes.is_playing()) {
+                if (ac_iTunes.remaining_song_duration > sleep_timerate_secs_playing) {
+                    sleep_time_secs = sleep_timerate_secs_playing;
+                }
+                else if (ac_iTunes.remaining_song_duration < sleep_timerate_secs_playing) {
+                    sleep_time_secs = ac_iTunes.remaining_song_duration;
+                    Sleep(extra_time_ms);
+                }
             }
             else {
-                sleep_time_secs = sleep_timerate_secs;
+                sleep_time_secs = sleep_timerate_secs_pause;
             }
             logg("iTunes sleep time {} seconds at {}", sleep_time_secs, get_timestamp_with_seconds());
             if (iT_cv.wait_for(lock, chrono::seconds(sleep_time_secs), [] {return iT_playback_state_change; })) {

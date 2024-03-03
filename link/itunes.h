@@ -1,6 +1,7 @@
 #pragma once 
 #include <visual.h>
 #include <comdef.h>
+#include <atlbase.h>
 
 struct TrackInfo {
     wstring name;
@@ -23,11 +24,12 @@ public:
     wstring get_current_track();
     TrackInfo current_track;
     bool initialized;
+    bool is_playing();
     wstring track_location;
     HRESULT hr;
-    IDispatch* iTunes_app = nullptr;
-    IDispatch* p_current_track = nullptr;
-    IDispatch* get_current_track_com_object();
+    CComPtr<IDispatch> iTunes_app = nullptr;
+    CComPtr<IDispatch> p_current_track = nullptr;
+    CComPtr<IDispatch> get_current_track_com_object();
     TrackInfo get_track_info();
     int get_current_playback_position();
     int remaining_song_duration;

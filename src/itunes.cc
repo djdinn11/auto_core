@@ -25,6 +25,33 @@ bool is_iTunes_open() {
     EnumWindows(enum_iTunes_window, reinterpret_cast<LPARAM>(&iTunes_window_found));
     return iTunes_window_found;
 }
+bool iTunes::is_playing() {
+    if (!initialized || iTunes_app == nullptr) {
+        return false;
+    }
+    const OLECHAR* szPlayerState = L"PlayerState";
+    BSTR bstrPlayerState = SysAllocString(szPlayerState);
+    DISPID dispidPlayerState;
+    hr = iTunes_app->GetIDsOfNames(IID_NULL, &bstrPlayerState, 1, LOCALE_USER_DEFAULT, &dispidPlayerState);
+    SysFreeString(bstrPlayerState);
+    if (FAILED(hr)) {
+        return false;
+    }
+    DISPPARAMS dispparamsNoArgs ={NULL, NULL, 0, 0};
+    VARIANT varResult;
+    VariantInit(&varResult);
+    hr = iTunes_app->Invoke(dispidPlayerState, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_PROPERTYGET, &dispparamsNoArgs, &varResult, NULL, NULL);
+    if (FAILED(hr)) {
+        return false;
+    }
+    bool is_playing = false;
+    if (V_VT(&varResult) == VT_I4) {
+        // ITPlayerStateStopped = 0, ITPlayerStatePlaying = 1, ITPlayerStateFastForward = 2, ITPlayerStateRewind = 3
+        is_playing = V_I4(&varResult) == 1;
+    }
+    VariantClear(&varResult);
+    return is_playing;
+}
 iTunes::iTunes() {
     if (is_iTunes_open()) {
         initialize_com();
@@ -61,16 +88,14 @@ void iTunes::finalize_com() {
     iT_playback_state_change = true;
     iT_cv.notify_one();
     if (p_current_track != nullptr) {
-        p_current_track->Release();
         p_current_track = nullptr;
     }
     if (iTunes_app != nullptr) {
-        iTunes_app->Release();
         iTunes_app = nullptr;
     }
     CoUninitialize();
 }
-IDispatch* iTunes::get_current_track_com_object() {
+CComPtr<IDispatch> iTunes::get_current_track_com_object() {
     if (iTunes_app == nullptr) {
         return nullptr;
     }
@@ -90,26 +115,24 @@ IDispatch* iTunes::get_current_track_com_object() {
     VariantInit(&varResult);
     hr = iTunes_app->Invoke(dispidCurrentTrack, IID_NULL, LOCALE_SYSTEM_DEFAULT, DISPATCH_PROPERTYGET, &dispparamsNoArgs, &varResult, NULL, NULL);
     if (FAILED(hr)) {
-        iTunes_app->Release();
         CoUninitialize();
         return nullptr;
     }
     if (V_VT(&varResult) != VT_DISPATCH || V_DISPATCH(&varResult) == NULL) {
+        VariantClear(&varResult);
         return nullptr;
     }
-    IDispatch* p_current_track = V_DISPATCH(&varResult);
+    p_current_track = V_DISPATCH(&varResult);
     const OLECHAR* szName = L"Name";
     BSTR bstrName = SysAllocString(szName);
     DISPID dispidName;
     hr = p_current_track->GetIDsOfNames(IID_NULL, &bstrName, 1, LOCALE_USER_DEFAULT, &dispidName);
     SysFreeString(bstrName);
     if (FAILED(hr)) {
-        p_current_track->Release();
-        iTunes_app->Release();
         CoUninitialize();
         return nullptr;
     }
-    return (FAILED(hr)) ? nullptr : V_DISPATCH(&varResult);
+    return p_current_track;
 }
 TrackInfo iTunes::get_track_info() {
     TrackInfo info;
@@ -136,7 +159,7 @@ TrackInfo iTunes::get_track_info() {
                 prop.value = V_BSTR(&varResult);
             }
             else {
-                print("iTunes error with V_BSTR in get_track_info");
+                logg("iTunes error with V_BSTR in get_track_info");
                 prop.value = L"";
             }
         }
