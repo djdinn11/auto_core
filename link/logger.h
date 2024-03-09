@@ -57,3 +57,6 @@ template<typename... Args>
 void loggnl(const char* format_string, Args&&... args) {
     logger_template(format_string, loggnl, forward<Args>(args)...);
 }
+
+extern string log_directory;
+extern bool send_cerr_to_cout;

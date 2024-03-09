@@ -3,6 +3,7 @@
 #include <clipboard.h>
 #include <taskbar.h>
 #include <main.h>
+#include <logger_c.h>
 
 Spotify ac_spotify;
 HWND spotify_window_hwnd;
@@ -22,7 +23,7 @@ BOOL CALLBACK enum_spotify_premium_window(HWND hwnd, LPARAM lParam) {
     }
     if (window_title == L"Spotify Premium") {
         *reinterpret_cast<bool*>(lParam) = true;
-        print("spotify window found");
+        sp_logger.logg_and_print("spotify window found");
         spotify_window_hwnd = hwnd;
         return FALSE;
     }
@@ -135,15 +136,15 @@ bool Spotify::refresh_tokens() {
             }
         }
         authorization_header = "Authorization: Bearer " + access_token;
-        logg("refresh_tokens() - tokens refreshed");
+        sp_logger.logg_and_logg("refresh_tokens() - tokens refreshed");
         return true;
     }
     else if (response.status_code == 429) {
-        print("Error: Rate Limit Reached\nStatus Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: Rate Limit Reached\nStatus Code {} - {}", response.status_code, response.text);
         return false;
     }
     else {
-        print("Error: Rate Limit Reached\nStatus Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: \nStatus Code {} - {}", response.status_code, response.text);
         return false;
     }
 }
@@ -166,7 +167,7 @@ void Spotify::get_current_song() {
     auto song_details = parse(response.text);
     is_playing = song_details["is_playing"];
     if (!song_details["item"].contains("name")) {
-        logg("djai++ is talking");
+        sp_logger.logg_and_logg("djai++ is talking");
         last_status_code = 15;
         return;
     }
@@ -175,8 +176,8 @@ void Spotify::get_current_song() {
     if (current_song == last_song) {
         return;
     }
-    loggnl("now playing: ");
-    print(current_song);
+    sp_logger.loggnl_and_loggnl("now playing: ");
+    sp_logger.logg_and_print(current_song);
     last_song = current_song;
     song_history.push_back(current_song);
     return;
@@ -223,7 +224,7 @@ string Spotify::get_user_queue() {
             Header{{authorization_header, content_type}}
         );
         if (response.status_code != 200) {
-            print("Failed to retrieve queue");
+            sp_logger.logg_and_print("Failed to retrieve queue");
             return "";
         }
         json queue_details = parse(response.text);
@@ -243,7 +244,7 @@ string Spotify::get_user_queue() {
         return output.str();
     }
     catch (...) {
-        print("An exception occurred in get_user_queue");
+        sp_logger.logg_and_print("An exception occurred in get_user_queue");
         return "";
     }
 }
@@ -257,7 +258,7 @@ bool Spotify::download_album_cover() {
         Header{{authorization_header, content_type}}
     );
     if (response.status_code != 200) {
-        print("Failed to retrieve song");
+        sp_logger.logg_and_print("Failed to retrieve song");
         return "";
     }
     auto song_details = parse(response.text);
@@ -292,7 +293,7 @@ int Spotify::pause_song() {
             {"Content-Length", "0"}
         });
     if (response.status_code != 204) {
-        print("Error: Status Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: Status Code {} - {}", response.status_code, response.text);
     }
     return response.status_code;
 }
@@ -308,7 +309,7 @@ void Spotify::transfer_playback(string device_id) {
         Body{body}
     );
     if (response.status_code != 204) {
-        print("Error: Status Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: Status Code {} - {}", response.status_code, response.text);
     }
 }
 void Spotify::start_playback_on_desktop() {
@@ -332,7 +333,7 @@ void Spotify::switch_player() {
         return;
     }
     if (response.status_code != 200) {
-        print("Error: Status Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: Status Code {} - {}", response.status_code, response.text);
         return;
     }
     auto playback_details = parse(response.text);
@@ -344,7 +345,7 @@ void Spotify::switch_player() {
         start_playback_on_desktop();
     }
     else {
-        print("Device not added");
+        sp_logger.logg_and_print("Device not added");
     }
 }
 int Spotify::play_song() {
@@ -360,10 +361,10 @@ int Spotify::play_song() {
         }
     );
     if (response.status_code == 404) {
-        print("no active device");
+        sp_logger.logg_and_print("no active device");
     }
     else if (response.status_code != 204) {
-        print("Error: Status Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("Error: Status Code {} - {}", response.status_code, response.text);
     }
     return response.status_code;
 }
@@ -405,21 +406,25 @@ void start_playback_sp_thread() {
     ac_spotify.start_playback_on_desktop();
 }
 void Spotify::play_pause() {
+    if (!refresh_tokens()) {
+        sp_logger.logg_and_print("tokens not refreshed in Spotify::play_pause()");
+        return;
+    }
     if (is_spotify_playing()) {
-        logg("is_spotify_playing() == true");
+        sp_logger.logg_and_logg("is_spotify_playing() == true");
         pause_song();
         return;
     }
     if (play_song() == 204) {
-        logg("play_song() == 204");
+        sp_logger.logg_and_logg("play_song() == 204");
         return;
     }
     if (is_spotify_open()) {
-        logg("is_spotify_open() == true");
+        sp_logger.logg_and_logg("is_spotify_open() == true");
         start_playback_on_desktop();
     }
     else {
-        logg("starting Spotify");
+        sp_logger.logg_and_logg("starting Spotify");
         thread t(start_playback_sp_thread);
         t.detach();
     }
@@ -433,7 +438,7 @@ void Spotify::post_next_or_prev(string url) {
         Header {{authorization_header, content_type}}
     );
     if (response.status_code != 204) {
-        print("post_next_or_prev() - Error: Status Code {} - {}", response.status_code, response.text);
+        sp_logger.logg_and_print("post_next_or_prev() - Error: Status Code {} - {}", response.status_code, response.text);
     }
 }
 void Spotify::next_song() {
@@ -460,14 +465,14 @@ bool Spotify::song_history_contains(string current_song) {
 bool get_user_queue_thread_started = false;
 void get_user_sp_queue_thread() {
     string user_queue = ac_spotify.get_user_queue();
-    print(user_queue);
+    sp_logger.logg_and_print(user_queue);
     set_clipboard_text(str_to_wstr(user_queue) + L"\n\n");
     Sleep(50);
     paste_from_clipboard();
     get_user_queue_thread_started = false;
 }
 void get_user_sp_queue() {
-    logg("get_user_sp_queue()");
+    sp_logger.logg_and_logg("get_user_sp_queue()");
     if (!get_user_queue_thread_started) {
         get_user_queue_thread_started = true;
         thread t([=]() {run_with_exception_handling(get_user_sp_queue_thread);});
@@ -475,7 +480,7 @@ void get_user_sp_queue() {
     }
 }
 void print_spotify_songs() {
-    logg("print_spotify_songs()");
+    sp_logger.logg_and_logg("print_spotify_songs()");
     oss song_text;
     ac_spotify.get_current_song();
     if (!ac_spotify.song_history.empty()) {
@@ -488,7 +493,7 @@ void print_spotify_songs() {
     }
     song_text << ac_spotify.last_song << '\n';
     string song_text_str = song_text.str();
-    printnl(song_text_str);
+    sp_logger.loggnl_and_printnl(song_text_str);
     set_clipboard_text(str_to_wstr(song_text_str) + L"\n");
     Sleep(50);
     paste_from_clipboard();
@@ -497,7 +502,7 @@ void spotify_play_pause_thread() {
     ac_spotify.play_pause();
 }
 void spotify_play_pause() {
-    logg("spotify_play_pause()");
+    sp_logger.logg_and_logg("spotify_play_pause()");
     thread t(spotify_play_pause_thread);
     t.detach();
 }
@@ -505,7 +510,7 @@ void spotify_prev_song() {
     ac_spotify.prev_song();
 }
 void sp_switch_player() {
-    logg("sp_switch_player()");
+    sp_logger.logg_and_logg("sp_switch_player()");
     ac_spotify.switch_player();
 }
 void download_album_cover() {

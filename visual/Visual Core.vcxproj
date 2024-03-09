@@ -29,10 +29,12 @@
     <ClCompile Include="..\src\itunes_t.cc" />
     <ClCompile Include="..\src\keyboard.cc" />
     <ClCompile Include="..\src\logger.cc" />
+    <ClCompile Include="..\src\logger_c.cc" />
     <ClCompile Include="..\src\main.cc" />
     <ClCompile Include="..\src\numkey.cc" />
     <ClCompile Include="..\src\server.cc" />
     <ClCompile Include="..\src\slash.cc" />
+    <ClCompile Include="..\src\slash_i.cc" />
     <ClCompile Include="..\src\spotify.cc" />
     <ClCompile Include="..\src\sp_thread.cc" />
     <ClCompile Include="..\src\star.cc" />
@@ -55,10 +57,12 @@
     <ClInclude Include="..\link\itunes_t.h" />
     <ClInclude Include="..\link\keyboard.h" />
     <ClInclude Include="..\link\logger.h" />
+    <ClInclude Include="..\link\logger_c.h" />
     <ClInclude Include="..\link\main.h" />
     <ClInclude Include="..\link\numkey.h" />
     <ClInclude Include="..\link\server.h" />
     <ClInclude Include="..\link\slash.h" />
+    <ClInclude Include="..\link\slash_i.h" />
     <ClInclude Include="..\link\spotify.h" />
     <ClInclude Include="..\link\sp_thread.h" />
     <ClInclude Include="..\link\star.h" />

@@ -1,18 +1,19 @@
 #include <itunes_t.h>
+#include <logger_c.h>
 
 mutex iT_mtx;
 condition_variable iT_cv;
 bool iT_playback_state_change;
 
 void iTunes_next_song() {
-    logg("iTunes_next_song()");
+    iTunes_logger.logg_and_logg("iTunes_next_song()");
     ac_iTunes.next_song();
     iT_playback_state_change = true;
     iT_cv.notify_one();
 }
 void iTunes::start_iTunes_thread() {
     Sleep(250);
-    logg("iTunes_thread started");
+    iTunes_logger.logg_and_logg("iTunes_thread started");
     const int sleep_timerate_secs_playing = 5;
     const int sleep_timerate_secs_pause = 15;
     const int extra_time_ms = 100;
@@ -37,21 +38,21 @@ void iTunes::start_iTunes_thread() {
             else {
                 sleep_time_secs = sleep_timerate_secs_pause;
             }
-            logg("iTunes sleep time {} seconds at {}", sleep_time_secs, get_timestamp_with_seconds());
+            iTunes_logger.logg("iTunes sleep time {} seconds at {}", sleep_time_secs, get_timestamp_with_seconds());
             if (iT_cv.wait_for(lock, chrono::seconds(sleep_time_secs), [] {return iT_playback_state_change; })) {
                 if (ac_iTunes.end_thread) {
                     break;
                 }
-                logg("iT_playback_state_change at {}", get_timestamp_with_seconds());
+                iTunes_logger.logg("iTunes_playback_state_change at {}", get_timestamp_with_seconds());
                 Sleep(processing_delay_ms);
             }
         }
     }
     catch (const exception& e) {
-        print("iTunes_song_thread() has crashed: {}", e.what());
+        iTunes_logger.logg_and_print("iTunes_song_thread() has crashed: {}", e.what());
     }
     catch (...) {
-        print("iTunes_song_thread() has crashed due to an unknown exception");
+        iTunes_logger.logg_and_print("iTunes_song_thread() has crashed due to an unknown exception");
     }
-    logg("end of iTunes thread");
+    iTunes_logger.logg_and_logg("end of iTunes thread");
 }

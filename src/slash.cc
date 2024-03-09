@@ -18,6 +18,7 @@ void call_slash_exe(const wstring& exe_path) {
     }
     free(szCmdline);
 }
+
 void retrieve_and_delete_recycle_bin() {
     logg("retrieve_and_delete_recycle_bin()");
     call_slash_exe(LR"(.\slash\slash.exe)");

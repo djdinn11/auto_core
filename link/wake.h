@@ -1,4 +1,4 @@
 #pragma once
 #include <logger.h>
 
-string log_last_wake();
+void log_last_wake();

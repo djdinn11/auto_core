@@ -1,7 +1,8 @@
 #include <wake.h>
+#include <logger_c.h>
 
-string log_last_wake() {
-    string wake_directory = R"(.\wake\)";
+void log_last_wake() {
+    string wake_directory = R"(.\log\wake\)";
     fs::create_directories(wake_directory);
     static string previous_last_wake_file = wake_directory + "previous_wake.txt";
     static string current_last_wake_file = wake_directory + "current_wake.txt";
@@ -27,8 +28,9 @@ string log_last_wake() {
     }
     current_last_wake_stream.close();
     string current_last_wake_str = current_last_wake_oss.str();
+    string current_last_wake_output;
     if (current_last_wake_str != previous_last_wake_oss.str()) {
-        string current_last_wake_output = get_datetime_stamp_with_seconds() + '\n' + current_last_wake_str;
+        current_last_wake_output = get_datetime_stamp_with_seconds() + '\n' + current_last_wake_str;
         ofstream last_wake_log_stream(last_wake_log_file, ios::app);
         if (last_wake_log_stream.is_open()) {
             last_wake_log_stream << current_last_wake_output;
@@ -39,9 +41,6 @@ string log_last_wake() {
             previous_last_wake_update << current_last_wake_str;
             previous_last_wake_update.close();
         }
+        loggnl("wake state change detected at {}", current_last_wake_output);
     }
-    else {
-        current_last_wake_str = "wake last the same\n";
-    }
-    return current_last_wake_str;
 }

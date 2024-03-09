@@ -1,0 +1,1773 @@
+Session started at 3-6-24 at 11:23:52
+sp_thread started
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 11:23:52
+spotify_play_pause()
+no active device
+starting Spotify
+spotify_play_pause()
+no active device
+starting Spotify
+spotify window found
+spotify window found
+now playing: [Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+sleep time 15 seconds at 11:24:08
+spotify_play_pause()
+is_spotify_playing() == true
+Spotify not playing - sleep time 15 seconds at 11:24:23
+Spotify not playing - sleep time 15 seconds at 11:24:38
+Spotify not playing - sleep time 15 seconds at 11:24:53
+Spotify not playing - sleep time 15 seconds at 11:25:09
+Spotify not playing - sleep time 15 seconds at 11:25:24
+Spotify not playing - sleep time 15 seconds at 11:25:39
+Spotify not playing - sleep time 15 seconds at 11:25:55
+Spotify not playing - sleep time 15 seconds at 11:26:10
+Spotify not playing - sleep time 15 seconds at 11:26:25
+Spotify not playing - sleep time 15 seconds at 11:26:40
+Spotify not playing - sleep time 15 seconds at 11:26:56
+Spotify not playing - sleep time 15 seconds at 11:27:11
+Spotify not playing - sleep time 15 seconds at 11:27:26
+Spotify not playing - sleep time 15 seconds at 11:27:42
+Spotify not playing - sleep time 15 seconds at 11:27:57
+Spotify not playing - sleep time 15 seconds at 11:28:12
+Spotify not playing - sleep time 15 seconds at 11:28:27
+Spotify not playing - sleep time 15 seconds at 11:28:43
+Spotify not playing - sleep time 15 seconds at 11:28:58
+Spotify not playing - sleep time 15 seconds at 11:29:13
+Spotify not playing - sleep time 15 seconds at 11:29:28
+Spotify not playing - sleep time 15 seconds at 11:29:44
+Spotify not playing - sleep time 15 seconds at 11:29:59
+Spotify not playing - sleep time 15 seconds at 11:30:14
+Spotify not playing - sleep time 15 seconds at 11:30:30
+Spotify not playing - sleep time 15 seconds at 11:30:45
+Spotify not playing - sleep time 15 seconds at 11:31:00
+Spotify not playing - sleep time 15 seconds at 11:31:16
+Spotify not playing - sleep time 15 seconds at 11:31:31
+Spotify not playing - sleep time 15 seconds at 11:31:46
+Spotify not playing - sleep time 15 seconds at 11:32:02
+Spotify not playing - sleep time 15 seconds at 11:32:17
+Spotify not playing - sleep time 15 seconds at 11:32:32
+Spotify not playing - sleep time 15 seconds at 11:32:47
+Spotify not playing - sleep time 15 seconds at 11:33:03
+Spotify not playing - sleep time 15 seconds at 11:33:18
+Spotify not playing - sleep time 15 seconds at 11:33:34
+Spotify not playing - sleep time 15 seconds at 11:33:49
+Spotify not playing - sleep time 15 seconds at 11:34:04
+Spotify not playing - sleep time 15 seconds at 11:34:19
+Spotify not playing - sleep time 15 seconds at 11:34:34
+Spotify not playing - sleep time 15 seconds at 11:34:50
+Spotify not playing - sleep time 15 seconds at 11:35:05
+Spotify not playing - sleep time 15 seconds at 11:35:20
+Spotify not playing - sleep time 15 seconds at 11:35:35
+Spotify not playing - sleep time 15 seconds at 11:35:50
+Spotify not playing - sleep time 15 seconds at 11:36:05
+Spotify not playing - sleep time 15 seconds at 11:36:20
+Spotify not playing - sleep time 15 seconds at 11:36:35
+Spotify not playing - sleep time 15 seconds at 11:36:51
+Spotify not playing - sleep time 15 seconds at 11:37:06
+Spotify not playing - sleep time 15 seconds at 11:37:21
+Spotify not playing - sleep time 15 seconds at 11:37:36
+Spotify not playing - sleep time 15 seconds at 11:37:51
+Spotify not playing - sleep time 15 seconds at 11:38:06
+Spotify not playing - sleep time 15 seconds at 11:38:22
+Spotify not playing - sleep time 15 seconds at 11:38:37
+Spotify not playing - sleep time 15 seconds at 11:38:52
+Spotify not playing - sleep time 15 seconds at 11:39:07
+Spotify not playing - sleep time 15 seconds at 11:39:22
+Spotify not playing - sleep time 15 seconds at 11:39:37
+Spotify not playing - sleep time 15 seconds at 11:39:52
+Spotify not playing - sleep time 15 seconds at 11:40:08
+Spotify not playing - sleep time 15 seconds at 11:40:23
+Spotify not playing - sleep time 15 seconds at 11:40:38
+Spotify not playing - sleep time 15 seconds at 11:40:53
+Spotify not playing - sleep time 15 seconds at 11:41:08
+Spotify not playing - sleep time 15 seconds at 11:41:23
+Spotify not playing - sleep time 15 seconds at 11:41:39
+Spotify not playing - sleep time 15 seconds at 11:41:54
+Spotify not playing - sleep time 15 seconds at 11:42:09
+Spotify not playing - sleep time 15 seconds at 11:42:24
+Spotify not playing - sleep time 15 seconds at 11:42:39
+Spotify not playing - sleep time 15 seconds at 11:42:54
+Spotify not playing - sleep time 15 seconds at 11:43:09
+Spotify not playing - sleep time 15 seconds at 11:43:25
+Spotify not playing - sleep time 15 seconds at 11:43:40
+Spotify not playing - sleep time 15 seconds at 11:43:55
+Spotify not playing - sleep time 15 seconds at 11:44:10
+Spotify not playing - sleep time 15 seconds at 11:44:25
+Spotify not playing - sleep time 15 seconds at 11:44:40
+Spotify not playing - sleep time 15 seconds at 11:44:56
+Spotify not playing - sleep time 15 seconds at 11:45:11
+Spotify not playing - sleep time 15 seconds at 11:45:26
+Spotify not playing - sleep time 15 seconds at 11:45:41
+Spotify not playing - sleep time 15 seconds at 11:45:56
+Spotify not playing - sleep time 15 seconds at 11:46:11
+Spotify not playing - sleep time 15 seconds at 11:46:29
+Spotify not playing - sleep time 15 seconds at 11:46:44
+Spotify not playing - sleep time 15 seconds at 11:46:59
+Spotify not playing - sleep time 15 seconds at 11:47:14
+Spotify not playing - sleep time 15 seconds at 11:47:29
+Spotify not playing - sleep time 15 seconds at 11:47:44
+Spotify not playing - sleep time 15 seconds at 11:48:00
+Spotify not playing - sleep time 15 seconds at 11:48:15
+Spotify not playing - sleep time 15 seconds at 11:48:30
+Spotify not playing - sleep time 15 seconds at 11:48:45
+Spotify not playing - sleep time 15 seconds at 11:49:00
+Spotify not playing - sleep time 15 seconds at 11:49:15
+Spotify not playing - sleep time 15 seconds at 11:49:31
+Spotify not playing - sleep time 15 seconds at 11:49:46
+Spotify not playing - sleep time 15 seconds at 11:50:01
+Spotify not playing - sleep time 15 seconds at 11:50:16
+Spotify not playing - sleep time 15 seconds at 11:50:32
+Spotify not playing - sleep time 15 seconds at 11:50:47
+Spotify not playing - sleep time 15 seconds at 11:51:02
+Spotify not playing - sleep time 15 seconds at 11:51:17
+Spotify not playing - sleep time 15 seconds at 11:51:32
+Spotify not playing - sleep time 15 seconds at 11:51:47
+Spotify not playing - sleep time 15 seconds at 11:52:03
+Spotify not playing - sleep time 15 seconds at 11:52:18
+Spotify not playing - sleep time 15 seconds at 11:52:33
+Spotify not playing - sleep time 15 seconds at 11:52:48
+Spotify not playing - sleep time 15 seconds at 11:53:03
+Spotify not playing - sleep time 15 seconds at 11:53:18
+Spotify not playing - sleep time 15 seconds at 11:53:33
+Spotify not playing - sleep time 15 seconds at 11:53:49
+Spotify not playing - sleep time 15 seconds at 11:54:04
+Spotify not playing - sleep time 15 seconds at 11:54:19
+Spotify not playing - sleep time 15 seconds at 11:54:34
+Spotify not playing - sleep time 15 seconds at 11:54:49
+Spotify not playing - sleep time 15 seconds at 11:55:04
+Spotify not playing - sleep time 15 seconds at 11:55:20
+Spotify not playing - sleep time 15 seconds at 11:55:35
+Spotify not playing - sleep time 15 seconds at 11:55:50
+Spotify not playing - sleep time 15 seconds at 11:56:05
+Spotify not playing - sleep time 15 seconds at 11:56:20
+Spotify not playing - sleep time 15 seconds at 11:56:35
+Spotify not playing - sleep time 15 seconds at 11:56:50
+Spotify not playing - sleep time 15 seconds at 11:57:06
+Spotify not playing - sleep time 15 seconds at 11:57:21
+Spotify not playing - sleep time 15 seconds at 11:57:36
+Spotify not playing - sleep time 15 seconds at 11:57:51
+Spotify not playing - sleep time 15 seconds at 11:58:06
+Spotify not playing - sleep time 15 seconds at 11:58:21
+Spotify not playing - sleep time 15 seconds at 11:58:36
+Spotify not playing - sleep time 15 seconds at 11:58:52
+Spotify not playing - sleep time 15 seconds at 11:59:07
+Spotify not playing - sleep time 15 seconds at 11:59:22
+Spotify not playing - sleep time 15 seconds at 11:59:37
+Spotify not playing - sleep time 15 seconds at 11:59:52
+Spotify not playing - sleep time 15 seconds at 12:00:07
+Spotify not playing - sleep time 15 seconds at 12:00:23
+Spotify not playing - sleep time 15 seconds at 12:00:38
+Spotify not playing - sleep time 15 seconds at 12:00:53
+Spotify not playing - sleep time 15 seconds at 12:01:08
+Spotify not playing - sleep time 15 seconds at 12:01:23
+Spotify not playing - sleep time 15 seconds at 12:01:38
+Spotify not playing - sleep time 15 seconds at 12:01:54
+Spotify not playing - sleep time 15 seconds at 12:02:09
+Spotify not playing - sleep time 15 seconds at 12:02:24
+Spotify not playing - sleep time 15 seconds at 12:02:39
+Spotify not playing - sleep time 15 seconds at 12:02:54
+Spotify not playing - sleep time 15 seconds at 12:03:09
+Spotify not playing - sleep time 15 seconds at 12:03:25
+Spotify not playing - sleep time 15 seconds at 12:03:40
+Spotify not playing - sleep time 15 seconds at 12:03:55
+Spotify not playing - sleep time 15 seconds at 12:04:10
+Spotify not playing - sleep time 15 seconds at 12:04:25
+Spotify not playing - sleep time 15 seconds at 12:04:40
+Spotify not playing - sleep time 15 seconds at 12:04:56
+Spotify not playing - sleep time 15 seconds at 12:05:11
+Spotify not playing - sleep time 15 seconds at 12:05:26
+Spotify not playing - sleep time 15 seconds at 12:05:41
+Spotify not playing - sleep time 15 seconds at 12:05:56
+Spotify not playing - sleep time 15 seconds at 12:06:11
+Spotify not playing - sleep time 15 seconds at 12:06:26
+Spotify not playing - sleep time 15 seconds at 12:06:42
+Spotify not playing - sleep time 15 seconds at 12:06:57
+Spotify not playing - sleep time 15 seconds at 12:07:12
+Spotify not playing - sleep time 15 seconds at 12:07:27
+Spotify not playing - sleep time 15 seconds at 12:07:42
+Spotify not playing - sleep time 15 seconds at 12:07:57
+Spotify not playing - sleep time 15 seconds at 12:08:12
+Spotify not playing - sleep time 15 seconds at 12:08:28
+Spotify not playing - sleep time 15 seconds at 12:08:43
+Spotify not playing - sleep time 15 seconds at 12:08:58
+Spotify not playing - sleep time 15 seconds at 12:09:13
+Spotify not playing - sleep time 15 seconds at 12:09:28
+Spotify not playing - sleep time 15 seconds at 12:09:43
+Spotify not playing - sleep time 15 seconds at 12:09:58
+Spotify not playing - sleep time 15 seconds at 12:10:14
+Spotify not playing - sleep time 15 seconds at 12:10:29
+Spotify not playing - sleep time 15 seconds at 12:10:44
+Spotify not playing - sleep time 15 seconds at 12:10:59
+Spotify not playing - sleep time 15 seconds at 12:11:14
+Spotify not playing - sleep time 15 seconds at 12:11:29
+Spotify not playing - sleep time 15 seconds at 12:11:45
+Spotify not playing - sleep time 15 seconds at 12:12:00
+Spotify not playing - sleep time 15 seconds at 12:12:15
+Spotify not playing - sleep time 15 seconds at 12:12:30
+Spotify not playing - sleep time 15 seconds at 12:12:45
+Spotify not playing - sleep time 15 seconds at 12:13:00
+Spotify not playing - sleep time 15 seconds at 12:13:16
+Spotify not playing - sleep time 15 seconds at 12:13:31
+Spotify not playing - sleep time 15 seconds at 12:13:46
+Spotify not playing - sleep time 15 seconds at 12:14:01
+Spotify not playing - sleep time 15 seconds at 12:14:16
+Spotify not playing - sleep time 15 seconds at 12:14:31
+Spotify not playing - sleep time 15 seconds at 12:14:46
+Spotify not playing - sleep time 15 seconds at 12:15:02
+Spotify not playing - sleep time 15 seconds at 12:15:17
+Spotify not playing - sleep time 15 seconds at 12:15:32
+Spotify not playing - sleep time 15 seconds at 12:15:47
+Spotify not playing - sleep time 15 seconds at 12:16:02
+Spotify not playing - sleep time 15 seconds at 12:16:17
+Spotify not playing - sleep time 15 seconds at 12:16:33
+Spotify not playing - sleep time 15 seconds at 12:16:48
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 12:17:03
+Spotify not playing - sleep time 15 seconds at 12:17:18
+Spotify not playing - sleep time 15 seconds at 12:17:33
+Spotify not playing - sleep time 15 seconds at 12:17:48
+Spotify not playing - sleep time 15 seconds at 12:18:04
+Spotify not playing - sleep time 15 seconds at 12:18:19
+Spotify not playing - sleep time 15 seconds at 12:18:34
+Spotify not playing - sleep time 15 seconds at 12:18:49
+Spotify not playing - sleep time 15 seconds at 12:19:04
+Spotify not playing - sleep time 15 seconds at 12:19:19
+Spotify not playing - sleep time 15 seconds at 12:19:34
+Spotify not playing - sleep time 15 seconds at 12:19:50
+Spotify not playing - sleep time 15 seconds at 12:20:05
+Spotify not playing - sleep time 15 seconds at 12:20:20
+Spotify not playing - sleep time 15 seconds at 12:20:35
+Spotify not playing - sleep time 15 seconds at 12:20:50
+Spotify not playing - sleep time 15 seconds at 12:21:05
+Spotify not playing - sleep time 15 seconds at 12:21:21
+Spotify not playing - sleep time 15 seconds at 12:21:36
+Spotify not playing - sleep time 15 seconds at 12:21:51
+Spotify not playing - sleep time 15 seconds at 12:22:06
+Spotify not playing - sleep time 15 seconds at 12:22:21
+Spotify not playing - sleep time 15 seconds at 12:22:36
+Spotify not playing - sleep time 15 seconds at 12:22:52
+Spotify not playing - sleep time 15 seconds at 12:23:07
+Spotify not playing - sleep time 15 seconds at 12:23:22
+Spotify not playing - sleep time 15 seconds at 12:23:37
+Spotify not playing - sleep time 15 seconds at 12:23:52
+Spotify not playing - sleep time 15 seconds at 12:24:07
+Spotify not playing - sleep time 15 seconds at 12:24:23
+Spotify not playing - sleep time 15 seconds at 12:24:38
+Spotify not playing - sleep time 15 seconds at 12:24:53
+Spotify not playing - sleep time 15 seconds at 12:25:08
+Spotify not playing - sleep time 15 seconds at 12:25:23
+Spotify not playing - sleep time 15 seconds at 12:25:38
+Spotify not playing - sleep time 15 seconds at 12:25:53
+Spotify not playing - sleep time 15 seconds at 12:26:09
+Spotify not playing - sleep time 15 seconds at 12:26:24
+Spotify not playing - sleep time 15 seconds at 12:26:39
+Spotify not playing - sleep time 15 seconds at 12:26:54
+Spotify not playing - sleep time 15 seconds at 12:27:09
+Spotify not playing - sleep time 15 seconds at 12:27:25
+Spotify not playing - sleep time 15 seconds at 12:27:40
+Spotify not playing - sleep time 15 seconds at 12:27:55
+Spotify not playing - sleep time 15 seconds at 12:28:10
+Spotify not playing - sleep time 15 seconds at 12:28:25
+Spotify not playing - sleep time 15 seconds at 12:28:40
+Spotify not playing - sleep time 15 seconds at 12:28:55
+Spotify not playing - sleep time 15 seconds at 12:29:11
+Spotify not playing - sleep time 15 seconds at 12:29:26
+Spotify not playing - sleep time 15 seconds at 12:29:41
+Spotify not playing - sleep time 15 seconds at 12:29:56
+Spotify not playing - sleep time 15 seconds at 12:30:12
+Spotify not playing - sleep time 15 seconds at 12:30:27
+Spotify not playing - sleep time 15 seconds at 12:30:42
+Spotify not playing - sleep time 15 seconds at 12:30:57
+Spotify not playing - sleep time 15 seconds at 12:31:12
+Spotify not playing - sleep time 15 seconds at 12:31:27
+Spotify not playing - sleep time 15 seconds at 12:31:43
+Spotify not playing - sleep time 15 seconds at 12:31:58
+Spotify not playing - sleep time 15 seconds at 12:32:13
+Spotify not playing - sleep time 15 seconds at 12:32:28
+Spotify not playing - sleep time 15 seconds at 12:32:43
+Spotify not playing - sleep time 15 seconds at 12:32:58
+Spotify not playing - sleep time 15 seconds at 12:33:14
+Spotify not playing - sleep time 15 seconds at 12:33:29
+Spotify not playing - sleep time 15 seconds at 12:33:44
+Spotify not playing - sleep time 15 seconds at 12:33:59
+Spotify not playing - sleep time 15 seconds at 12:34:14
+Spotify not playing - sleep time 15 seconds at 12:34:29
+Spotify not playing - sleep time 15 seconds at 12:34:44
+Spotify not playing - sleep time 15 seconds at 12:35:00
+Spotify not playing - sleep time 15 seconds at 12:35:15
+Spotify not playing - sleep time 15 seconds at 12:35:30
+Spotify not playing - sleep time 15 seconds at 12:35:45
+Spotify not playing - sleep time 15 seconds at 12:36:00
+Spotify not playing - sleep time 15 seconds at 12:36:15
+Spotify not playing - sleep time 15 seconds at 12:36:30
+Spotify not playing - sleep time 15 seconds at 12:36:46
+Spotify not playing - sleep time 15 seconds at 12:37:01
+Spotify not playing - sleep time 15 seconds at 12:37:16
+Spotify not playing - sleep time 15 seconds at 12:37:31
+Spotify not playing - sleep time 15 seconds at 12:37:46
+Spotify not playing - sleep time 15 seconds at 12:38:01
+Spotify not playing - sleep time 15 seconds at 12:38:17
+Spotify not playing - sleep time 15 seconds at 12:38:32
+Spotify not playing - sleep time 15 seconds at 12:38:47
+Spotify not playing - sleep time 15 seconds at 12:39:02
+Spotify not playing - sleep time 15 seconds at 12:39:17
+Spotify not playing - sleep time 15 seconds at 12:39:32
+Spotify not playing - sleep time 15 seconds at 12:39:47
+Spotify not playing - sleep time 15 seconds at 12:40:03
+Spotify not playing - sleep time 15 seconds at 12:40:18
+Spotify not playing - sleep time 15 seconds at 12:40:33
+Spotify not playing - sleep time 15 seconds at 12:40:48
+Spotify not playing - sleep time 15 seconds at 12:41:03
+Spotify not playing - sleep time 15 seconds at 12:41:18
+Spotify not playing - sleep time 15 seconds at 12:41:33
+Spotify not playing - sleep time 15 seconds at 12:41:49
+Spotify not playing - sleep time 15 seconds at 12:42:04
+Spotify not playing - sleep time 15 seconds at 12:42:19
+Spotify not playing - sleep time 15 seconds at 12:42:34
+Spotify not playing - sleep time 15 seconds at 12:42:49
+Spotify not playing - sleep time 15 seconds at 12:43:04
+Spotify not playing - sleep time 15 seconds at 12:43:19
+Spotify not playing - sleep time 15 seconds at 12:43:35
+Spotify not playing - sleep time 15 seconds at 12:43:50
+Spotify not playing - sleep time 15 seconds at 12:44:05
+Spotify not playing - sleep time 15 seconds at 12:44:20
+Spotify not playing - sleep time 15 seconds at 12:44:35
+Spotify not playing - sleep time 15 seconds at 12:44:50
+Spotify not playing - sleep time 15 seconds at 12:45:05
+Spotify not playing - sleep time 15 seconds at 12:45:21
+Spotify not playing - sleep time 15 seconds at 12:45:36
+Spotify not playing - sleep time 15 seconds at 12:45:51
+Spotify not playing - sleep time 15 seconds at 12:46:06
+Spotify not playing - sleep time 15 seconds at 12:46:21
+Spotify not playing - sleep time 15 seconds at 12:46:36
+Spotify not playing - sleep time 15 seconds at 12:46:52
+Spotify not playing - sleep time 15 seconds at 12:47:07
+Spotify not playing - sleep time 15 seconds at 12:47:22
+Spotify not playing - sleep time 15 seconds at 12:47:37
+Spotify not playing - sleep time 15 seconds at 12:47:52
+Spotify not playing - sleep time 15 seconds at 12:48:07
+Spotify not playing - sleep time 15 seconds at 12:48:22
+Spotify not playing - sleep time 15 seconds at 12:48:38
+Spotify not playing - sleep time 15 seconds at 12:48:53
+Spotify not playing - sleep time 15 seconds at 12:49:08
+Spotify not playing - sleep time 15 seconds at 12:49:23
+Spotify not playing - sleep time 15 seconds at 12:49:38
+Spotify not playing - sleep time 15 seconds at 12:49:53
+Spotify not playing - sleep time 15 seconds at 12:50:08
+Spotify not playing - sleep time 15 seconds at 12:50:24
+Spotify not playing - sleep time 15 seconds at 12:50:39
+Spotify not playing - sleep time 15 seconds at 12:50:54
+Spotify not playing - sleep time 15 seconds at 12:51:09
+Spotify not playing - sleep time 15 seconds at 12:51:24
+Spotify not playing - sleep time 15 seconds at 12:51:39
+Spotify not playing - sleep time 15 seconds at 12:51:54
+Spotify not playing - sleep time 15 seconds at 12:52:10
+Spotify not playing - sleep time 15 seconds at 12:52:25
+Spotify not playing - sleep time 15 seconds at 12:52:40
+Spotify not playing - sleep time 15 seconds at 12:52:55
+Spotify not playing - sleep time 15 seconds at 12:53:10
+Spotify not playing - sleep time 15 seconds at 12:53:25
+Spotify not playing - sleep time 15 seconds at 12:53:41
+Spotify not playing - sleep time 15 seconds at 12:53:56
+Spotify not playing - sleep time 15 seconds at 12:54:11
+Spotify not playing - sleep time 15 seconds at 12:54:26
+Spotify not playing - sleep time 15 seconds at 12:54:41
+Spotify not playing - sleep time 15 seconds at 12:54:56
+Spotify not playing - sleep time 15 seconds at 12:55:12
+Spotify not playing - sleep time 15 seconds at 12:55:27
+Spotify not playing - sleep time 15 seconds at 12:55:42
+Spotify not playing - sleep time 15 seconds at 12:55:57
+Spotify not playing - sleep time 15 seconds at 12:56:12
+Spotify not playing - sleep time 15 seconds at 12:56:27
+Spotify not playing - sleep time 15 seconds at 12:56:43
+Spotify not playing - sleep time 15 seconds at 12:56:58
+Spotify not playing - sleep time 15 seconds at 12:57:13
+Spotify not playing - sleep time 15 seconds at 12:57:28
+Spotify not playing - sleep time 15 seconds at 12:57:43
+Spotify not playing - sleep time 15 seconds at 12:57:58
+Spotify not playing - sleep time 15 seconds at 12:58:14
+Spotify not playing - sleep time 15 seconds at 12:58:29
+Spotify not playing - sleep time 15 seconds at 12:58:44
+Spotify not playing - sleep time 15 seconds at 12:58:59
+Spotify not playing - sleep time 15 seconds at 12:59:14
+Spotify not playing - sleep time 15 seconds at 12:59:29
+Spotify not playing - sleep time 15 seconds at 12:59:44
+Spotify not playing - sleep time 15 seconds at 1:00:00
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 1:13:01
+Spotify not playing - sleep time 15 seconds at 1:13:16
+Spotify not playing - sleep time 15 seconds at 1:13:31
+Spotify not playing - sleep time 15 seconds at 1:13:46
+Spotify not playing - sleep time 15 seconds at 1:14:01
+Spotify not playing - sleep time 15 seconds at 1:14:17
+Spotify not playing - sleep time 15 seconds at 1:14:32
+Spotify not playing - sleep time 15 seconds at 1:14:47
+Spotify not playing - sleep time 15 seconds at 1:15:02
+Spotify not playing - sleep time 15 seconds at 1:15:17
+Spotify not playing - sleep time 15 seconds at 1:15:32
+Spotify not playing - sleep time 15 seconds at 1:15:48
+Spotify not playing - sleep time 15 seconds at 1:16:03
+Spotify not playing - sleep time 15 seconds at 1:16:18
+Spotify not playing - sleep time 15 seconds at 1:16:33
+Spotify not playing - sleep time 15 seconds at 1:16:48
+Spotify not playing - sleep time 15 seconds at 1:17:03
+Spotify not playing - sleep time 15 seconds at 1:17:19
+Spotify not playing - sleep time 15 seconds at 1:17:34
+Spotify not playing - sleep time 15 seconds at 1:17:49
+Spotify not playing - sleep time 15 seconds at 1:18:04
+Spotify not playing - sleep time 15 seconds at 1:18:19
+Spotify not playing - sleep time 15 seconds at 1:18:34
+Spotify not playing - sleep time 15 seconds at 1:18:49
+Spotify not playing - sleep time 15 seconds at 1:19:05
+Spotify not playing - sleep time 15 seconds at 1:19:20
+Spotify not playing - sleep time 15 seconds at 1:19:35
+Spotify not playing - sleep time 15 seconds at 1:19:50
+Spotify not playing - sleep time 15 seconds at 1:20:05
+Spotify not playing - sleep time 15 seconds at 1:20:20
+Spotify not playing - sleep time 15 seconds at 1:20:35
+Spotify not playing - sleep time 15 seconds at 1:20:51
+Spotify not playing - sleep time 15 seconds at 1:21:06
+Spotify not playing - sleep time 15 seconds at 1:21:21
+Spotify not playing - sleep time 15 seconds at 1:21:36
+Spotify not playing - sleep time 15 seconds at 1:21:51
+Spotify not playing - sleep time 15 seconds at 1:22:06
+Spotify not playing - sleep time 15 seconds at 1:22:21
+Spotify not playing - sleep time 15 seconds at 1:22:36
+Spotify not playing - sleep time 15 seconds at 1:22:52
+Spotify not playing - sleep time 15 seconds at 1:23:07
+Spotify not playing - sleep time 15 seconds at 1:23:22
+Spotify not playing - sleep time 15 seconds at 1:23:37
+Spotify not playing - sleep time 15 seconds at 1:23:52
+Spotify not playing - sleep time 15 seconds at 1:24:07
+Spotify not playing - sleep time 15 seconds at 1:24:22
+Spotify not playing - sleep time 15 seconds at 1:24:38
+Spotify not playing - sleep time 15 seconds at 1:24:53
+Spotify not playing - sleep time 15 seconds at 1:25:08
+Spotify not playing - sleep time 15 seconds at 1:25:23
+Spotify not playing - sleep time 15 seconds at 1:25:38
+Spotify not playing - sleep time 15 seconds at 1:25:53
+Spotify not playing - sleep time 15 seconds at 1:26:08
+Spotify not playing - sleep time 15 seconds at 1:26:23
+Spotify not playing - sleep time 15 seconds at 1:26:39
+Spotify not playing - sleep time 15 seconds at 1:26:54
+Spotify not playing - sleep time 15 seconds at 1:27:09
+Spotify not playing - sleep time 15 seconds at 1:27:24
+Spotify not playing - sleep time 15 seconds at 1:27:39
+Spotify not playing - sleep time 15 seconds at 1:27:54
+Spotify not playing - sleep time 15 seconds at 1:28:09
+Spotify not playing - sleep time 15 seconds at 1:28:25
+Spotify not playing - sleep time 15 seconds at 1:28:40
+Spotify not playing - sleep time 15 seconds at 1:28:55
+Spotify not playing - sleep time 15 seconds at 1:29:10
+Spotify not playing - sleep time 15 seconds at 1:29:25
+Spotify not playing - sleep time 15 seconds at 1:29:40
+Spotify not playing - sleep time 15 seconds at 1:29:56
+Spotify not playing - sleep time 15 seconds at 1:30:11
+Spotify not playing - sleep time 15 seconds at 1:30:26
+Spotify not playing - sleep time 15 seconds at 1:30:41
+Spotify not playing - sleep time 15 seconds at 1:30:56
+Spotify not playing - sleep time 15 seconds at 1:31:11
+Spotify not playing - sleep time 15 seconds at 1:31:27
+Spotify not playing - sleep time 15 seconds at 1:31:42
+Spotify not playing - sleep time 15 seconds at 1:31:57
+Spotify not playing - sleep time 15 seconds at 1:32:12
+Spotify not playing - sleep time 15 seconds at 1:32:27
+Spotify not playing - sleep time 15 seconds at 1:32:42
+Spotify not playing - sleep time 15 seconds at 1:32:58
+Spotify not playing - sleep time 15 seconds at 1:33:13
+Spotify not playing - sleep time 15 seconds at 1:33:28
+Spotify not playing - sleep time 15 seconds at 1:33:43
+Spotify not playing - sleep time 15 seconds at 1:33:58
+Spotify not playing - sleep time 15 seconds at 1:34:13
+Spotify not playing - sleep time 15 seconds at 1:34:28
+Spotify not playing - sleep time 15 seconds at 1:34:43
+Spotify not playing - sleep time 15 seconds at 1:34:59
+Spotify not playing - sleep time 15 seconds at 1:35:14
+Spotify not playing - sleep time 15 seconds at 1:35:29
+Spotify not playing - sleep time 15 seconds at 1:35:44
+Spotify not playing - sleep time 15 seconds at 1:35:59
+Spotify not playing - sleep time 15 seconds at 1:36:14
+Spotify not playing - sleep time 15 seconds at 1:36:30
+Spotify not playing - sleep time 15 seconds at 1:36:45
+Spotify not playing - sleep time 15 seconds at 1:37:00
+Spotify not playing - sleep time 15 seconds at 1:37:15
+Spotify not playing - sleep time 15 seconds at 1:37:30
+Spotify not playing - sleep time 15 seconds at 1:37:45
+Spotify not playing - sleep time 15 seconds at 1:38:00
+Spotify not playing - sleep time 15 seconds at 1:38:16
+Spotify not playing - sleep time 15 seconds at 1:38:31
+Spotify not playing - sleep time 15 seconds at 1:38:46
+Spotify not playing - sleep time 15 seconds at 1:39:01
+Spotify not playing - sleep time 15 seconds at 1:39:16
+Spotify not playing - sleep time 15 seconds at 1:39:31
+Spotify not playing - sleep time 15 seconds at 1:39:46
+Spotify not playing - sleep time 15 seconds at 1:40:01
+Spotify not playing - sleep time 15 seconds at 1:40:17
+Spotify not playing - sleep time 15 seconds at 1:40:32
+Spotify not playing - sleep time 15 seconds at 1:40:47
+Spotify not playing - sleep time 15 seconds at 1:41:02
+Spotify not playing - sleep time 15 seconds at 1:41:17
+Spotify not playing - sleep time 15 seconds at 1:41:32
+Spotify not playing - sleep time 15 seconds at 1:41:48
+Spotify not playing - sleep time 15 seconds at 1:42:03
+Spotify not playing - sleep time 15 seconds at 1:42:18
+Spotify not playing - sleep time 15 seconds at 1:42:33
+Spotify not playing - sleep time 15 seconds at 1:42:48
+Spotify not playing - sleep time 15 seconds at 1:43:03
+Spotify not playing - sleep time 15 seconds at 1:43:18
+Spotify not playing - sleep time 15 seconds at 1:43:34
+Spotify not playing - sleep time 15 seconds at 1:43:49
+Spotify not playing - sleep time 15 seconds at 1:44:04
+Spotify not playing - sleep time 15 seconds at 1:44:19
+Spotify not playing - sleep time 15 seconds at 1:44:34
+Spotify not playing - sleep time 15 seconds at 1:44:49
+Spotify not playing - sleep time 15 seconds at 1:45:04
+Spotify not playing - sleep time 15 seconds at 1:45:20
+Spotify not playing - sleep time 15 seconds at 1:45:35
+Spotify not playing - sleep time 15 seconds at 1:45:50
+Spotify not playing - sleep time 15 seconds at 1:46:05
+Spotify not playing - sleep time 15 seconds at 1:46:20
+Spotify not playing - sleep time 15 seconds at 1:46:35
+Spotify not playing - sleep time 15 seconds at 1:46:50
+Spotify not playing - sleep time 15 seconds at 1:47:06
+Spotify not playing - sleep time 15 seconds at 1:47:21
+Spotify not playing - sleep time 15 seconds at 1:47:36
+Spotify not playing - sleep time 15 seconds at 1:47:51
+Spotify not playing - sleep time 15 seconds at 1:48:06
+Spotify not playing - sleep time 15 seconds at 1:48:21
+Spotify not playing - sleep time 15 seconds at 1:48:36
+Spotify not playing - sleep time 15 seconds at 1:48:52
+Spotify not playing - sleep time 15 seconds at 1:49:07
+Spotify not playing - sleep time 15 seconds at 1:49:22
+Spotify not playing - sleep time 15 seconds at 1:49:37
+Spotify not playing - sleep time 15 seconds at 1:49:52
+Spotify not playing - sleep time 15 seconds at 1:50:07
+Spotify not playing - sleep time 15 seconds at 1:50:22
+Spotify not playing - sleep time 15 seconds at 1:50:37
+Spotify not playing - sleep time 15 seconds at 1:50:53
+Spotify not playing - sleep time 15 seconds at 1:51:08
+Spotify not playing - sleep time 15 seconds at 1:51:23
+Spotify not playing - sleep time 15 seconds at 1:51:38
+Spotify not playing - sleep time 15 seconds at 1:51:53
+Spotify not playing - sleep time 15 seconds at 1:52:08
+Spotify not playing - sleep time 15 seconds at 1:52:23
+Spotify not playing - sleep time 15 seconds at 1:52:39
+Spotify not playing - sleep time 15 seconds at 1:52:54
+Spotify not playing - sleep time 15 seconds at 1:53:09
+Spotify not playing - sleep time 15 seconds at 1:53:24
+Spotify not playing - sleep time 15 seconds at 1:53:39
+Spotify not playing - sleep time 15 seconds at 1:53:54
+Spotify not playing - sleep time 15 seconds at 1:54:09
+Spotify not playing - sleep time 15 seconds at 1:54:24
+Spotify not playing - sleep time 15 seconds at 1:54:40
+Spotify not playing - sleep time 15 seconds at 1:54:55
+Spotify not playing - sleep time 15 seconds at 1:55:10
+Spotify not playing - sleep time 15 seconds at 1:55:25
+Spotify not playing - sleep time 15 seconds at 1:55:40
+Spotify not playing - sleep time 15 seconds at 1:55:55
+Spotify not playing - sleep time 15 seconds at 1:56:10
+Spotify not playing - sleep time 15 seconds at 1:56:26
+Spotify not playing - sleep time 15 seconds at 1:56:41
+Spotify not playing - sleep time 15 seconds at 1:56:56
+Spotify not playing - sleep time 15 seconds at 1:57:11
+Spotify not playing - sleep time 15 seconds at 1:57:26
+Spotify not playing - sleep time 15 seconds at 1:57:41
+now playing: [No Silence feat. Kuoko - Super Flu Remix] [Mollono.Bass, Super Flu, KUOKO] [Woods, Tales & Friends Remixes - Part Two] [7:17]
+sleep time 15 seconds at 1:57:57
+sleep time 15 seconds at 1:58:12
+sleep time 15 seconds at 1:58:27
+sleep time 15 seconds at 1:58:43
+sleep time 15 seconds at 1:58:58
+sleep time 15 seconds at 1:59:13
+sleep time 15 seconds at 1:59:29
+sleep time 15 seconds at 1:59:44
+sleep time 15 seconds at 1:59:59
+sleep time 15 seconds at 2:00:14
+sleep time 15 seconds at 2:00:30
+sleep time 15 seconds at 2:00:45
+sleep time 15 seconds at 2:01:00
+sleep time 15 seconds at 2:01:15
+sleep time 15 seconds at 2:01:31
+sleep time 15 seconds at 2:01:46
+sleep time 15 seconds at 2:02:01
+sleep time 15 seconds at 2:02:17
+sleep time 15 seconds at 2:02:32
+sleep time 15 seconds at 2:02:47
+sleep time 15 seconds at 2:03:02
+sleep time 15 seconds at 2:03:18
+sleep time 15 seconds at 2:03:33
+sleep time 15 seconds at 2:03:48
+sleep time 15 seconds at 2:04:03
+sleep time 15 seconds at 2:04:19
+sleep time 15 seconds at 2:04:34
+sleep time 15 seconds at 2:04:49
+sleep time 10 seconds at 2:05:04
+now playing: [Amphibious] [Matan Caspi, R3cycle] [Amphibious] [9:06]
+sleep time 15 seconds at 2:05:15
+sleep time 15 seconds at 2:05:30
+sleep time 15 seconds at 2:05:45
+sleep time 15 seconds at 2:06:01
+sleep time 15 seconds at 2:06:16
+sleep time 15 seconds at 2:06:31
+sleep time 15 seconds at 2:06:47
+refresh_tokens() - tokens refreshed
+sleep time 15 seconds at 2:07:02
+sleep time 15 seconds at 2:07:17
+sleep time 15 seconds at 2:07:33
+sleep time 15 seconds at 2:07:48
+sleep time 15 seconds at 2:08:03
+sleep time 15 seconds at 2:08:19
+sleep time 15 seconds at 2:08:36
+sleep time 15 seconds at 2:08:51
+sleep time 15 seconds at 2:09:07
+sleep time 15 seconds at 2:09:22
+sleep time 15 seconds at 2:09:37
+sleep time 15 seconds at 2:09:53
+sleep time 15 seconds at 2:10:08
+sleep time 15 seconds at 2:10:23
+sleep time 15 seconds at 2:10:39
+sleep time 15 seconds at 2:10:54
+sleep time 15 seconds at 2:11:09
+sleep time 15 seconds at 2:11:25
+sleep time 15 seconds at 2:11:40
+sleep time 15 seconds at 2:11:55
+sleep time 15 seconds at 2:12:11
+sleep time 15 seconds at 2:12:31
+sleep time 15 seconds at 2:12:46
+sleep time 15 seconds at 2:13:01
+sleep time 15 seconds at 2:13:17
+sleep time 15 seconds at 2:13:32
+sleep time 15 seconds at 2:13:47
+sleep time 15 seconds at 2:14:02
+sleep time 3 seconds at 2:14:18
+now playing: [Learning To Fly] [Alfa Romero] [1001 Nights EP] [7:22]
+sleep time 15 seconds at 2:14:22
+sleep time 15 seconds at 2:14:37
+sleep time 15 seconds at 2:14:53
+sleep time 15 seconds at 2:15:08
+sleep time 15 seconds at 2:15:23
+sleep time 15 seconds at 2:15:38
+sleep time 15 seconds at 2:15:54
+sleep time 15 seconds at 2:16:09
+sleep time 15 seconds at 2:16:24
+sleep time 15 seconds at 2:16:40
+Spotify not playing - sleep time 15 seconds at 2:19:29
+Spotify not playing - sleep time 15 seconds at 2:19:44
+Spotify not playing - sleep time 15 seconds at 2:19:59
+Spotify not playing - sleep time 15 seconds at 2:20:14
+Spotify not playing - sleep time 15 seconds at 2:20:29
+Spotify not playing - sleep time 15 seconds at 2:20:44
+Spotify not playing - sleep time 15 seconds at 2:20:59
+spotify_play_pause()
+no active device
+spotify window found
+is_spotify_open() == true
+Spotify not playing - sleep time 15 seconds at 2:21:15
+now playing: [Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+sleep time 15 seconds at 2:21:30
+sleep time 15 seconds at 2:21:45
+sleep time 15 seconds at 2:22:01
+sleep time 15 seconds at 2:22:16
+sleep time 15 seconds at 2:22:31
+sleep time 15 seconds at 2:22:46
+sleep time 15 seconds at 2:23:02
+sleep time 15 seconds at 2:23:17
+sleep time 15 seconds at 2:23:32
+sleep time 15 seconds at 2:23:48
+sleep time 15 seconds at 2:24:03
+sleep time 15 seconds at 2:24:18
+sleep time 15 seconds at 2:24:33
+sleep time 15 seconds at 2:24:49
+sleep time 15 seconds at 2:25:04
+sleep time 15 seconds at 2:25:19
+sleep time 15 seconds at 2:25:35
+sleep time 15 seconds at 2:25:50
+sleep time 15 seconds at 2:26:05
+spotify_play_pause()
+is_spotify_playing() == true
+Spotify not playing - sleep time 15 seconds at 2:26:20
+Spotify not playing - sleep time 15 seconds at 2:26:36
+Spotify not playing - sleep time 15 seconds at 2:26:51
+Spotify not playing - sleep time 15 seconds at 2:27:06
+Spotify not playing - sleep time 15 seconds at 2:27:22
+Spotify not playing - sleep time 15 seconds at 2:27:37
+Spotify not playing - sleep time 15 seconds at 2:27:52
+Spotify not playing - sleep time 15 seconds at 2:28:08
+Spotify not playing - sleep time 15 seconds at 2:28:23
+Spotify not playing - sleep time 15 seconds at 2:28:38
+Spotify not playing - sleep time 15 seconds at 2:28:53
+Spotify not playing - sleep time 15 seconds at 2:29:09
+Spotify not playing - sleep time 15 seconds at 2:29:24
+Spotify not playing - sleep time 15 seconds at 2:29:39
+Spotify not playing - sleep time 15 seconds at 2:29:54
+Spotify not playing - sleep time 15 seconds at 2:30:10
+Spotify not playing - sleep time 15 seconds at 2:30:25
+Spotify not playing - sleep time 15 seconds at 2:30:41
+Spotify not playing - sleep time 15 seconds at 2:30:56
+Spotify not playing - sleep time 15 seconds at 2:31:11
+Spotify not playing - sleep time 15 seconds at 2:31:27
+Spotify not playing - sleep time 15 seconds at 2:31:42
+Spotify not playing - sleep time 15 seconds at 2:31:57
+sp_playback_state_change at 2:31:59
+now playing: [Dark Knight] [VNTM] [Dark Knight] [5:38]
+sleep time 15 seconds at 2:31:59
+sleep time 15 seconds at 2:32:15
+sleep time 15 seconds at 2:32:30
+sleep time 15 seconds at 2:32:45
+sleep time 15 seconds at 2:33:00
+sleep time 15 seconds at 2:33:16
+sleep time 15 seconds at 2:33:31
+sleep time 15 seconds at 2:33:46
+sleep time 15 seconds at 2:34:02
+sleep time 15 seconds at 2:34:17
+sleep time 15 seconds at 2:34:32
+sleep time 15 seconds at 2:34:47
+sleep time 15 seconds at 2:35:03
+sleep time 15 seconds at 2:35:18
+sleep time 15 seconds at 2:35:33
+sleep time 15 seconds at 2:35:48
+sleep time 15 seconds at 2:36:04
+sleep time 15 seconds at 2:36:19
+sleep time 15 seconds at 2:36:34
+sleep time 15 seconds at 2:36:50
+sleep time 15 seconds at 2:37:05
+sleep time 15 seconds at 2:37:20
+sleep time 3 seconds at 2:37:35
+now playing: [Moments Of Clarity - VNTM Remix] [Eelke Kleijn, VNTM] [Moments Of Clarity (The Remixes)] [4:12]
+sleep time 15 seconds at 2:37:39
+sleep time 15 seconds at 2:37:54
+sleep time 15 seconds at 2:38:09
+sleep time 15 seconds at 2:38:25
+sleep time 15 seconds at 2:38:40
+sleep time 15 seconds at 2:38:55
+sleep time 15 seconds at 2:39:11
+spotify_play_pause()
+is_spotify_playing() == true
+Spotify not playing - sleep time 15 seconds at 2:39:26
+Spotify not playing - sleep time 15 seconds at 2:39:41
+Spotify not playing - sleep time 15 seconds at 2:39:57
+Spotify not playing - sleep time 15 seconds at 2:40:12
+Spotify not playing - sleep time 15 seconds at 2:40:27
+Spotify not playing - sleep time 15 seconds at 2:40:43
+Spotify not playing - sleep time 15 seconds at 2:40:58
+Spotify not playing - sleep time 15 seconds at 2:41:13
+Spotify not playing - sleep time 15 seconds at 2:41:28
+Spotify not playing - sleep time 15 seconds at 2:41:44
+Spotify not playing - sleep time 15 seconds at 2:41:59
+Spotify not playing - sleep time 15 seconds at 2:42:14
+Spotify not playing - sleep time 15 seconds at 2:42:30
+Spotify not playing - sleep time 15 seconds at 2:42:45
+Spotify not playing - sleep time 15 seconds at 2:43:00
+Spotify not playing - sleep time 15 seconds at 2:43:15
+Spotify not playing - sleep time 15 seconds at 2:43:31
+Spotify not playing - sleep time 15 seconds at 2:43:46
+Spotify not playing - sleep time 15 seconds at 2:44:01
+Spotify not playing - sleep time 15 seconds at 2:44:16
+Spotify not playing - sleep time 15 seconds at 2:44:32
+Spotify not playing - sleep time 15 seconds at 2:44:47
+Spotify not playing - sleep time 15 seconds at 2:45:02
+Spotify not playing - sleep time 15 seconds at 2:45:17
+Spotify not playing - sleep time 15 seconds at 2:45:33
+Spotify not playing - sleep time 15 seconds at 2:45:48
+Spotify not playing - sleep time 15 seconds at 2:46:03
+Spotify not playing - sleep time 15 seconds at 2:46:19
+Spotify not playing - sleep time 15 seconds at 2:46:34
+Spotify not playing - sleep time 15 seconds at 2:46:49
+Spotify not playing - sleep time 15 seconds at 2:47:05
+Spotify not playing - sleep time 15 seconds at 2:47:20
+Spotify not playing - sleep time 15 seconds at 2:47:36
+Spotify not playing - sleep time 15 seconds at 2:47:51
+Spotify not playing - sleep time 15 seconds at 2:48:06
+Spotify not playing - sleep time 15 seconds at 2:48:22
+Spotify not playing - sleep time 15 seconds at 2:48:37
+Spotify not playing - sleep time 15 seconds at 2:48:52
+Spotify not playing - sleep time 15 seconds at 2:49:08
+Spotify not playing - sleep time 15 seconds at 2:49:23
+Spotify not playing - sleep time 15 seconds at 2:49:38
+Spotify not playing - sleep time 15 seconds at 2:49:53
+Spotify not playing - sleep time 15 seconds at 2:50:08
+Spotify not playing - sleep time 15 seconds at 2:50:24
+Spotify not playing - sleep time 15 seconds at 2:50:39
+Spotify not playing - sleep time 15 seconds at 2:50:54
+Spotify not playing - sleep time 15 seconds at 2:51:09
+Spotify not playing - sleep time 15 seconds at 2:51:24
+Spotify not playing - sleep time 15 seconds at 2:51:39
+Spotify not playing - sleep time 15 seconds at 2:51:55
+Spotify not playing - sleep time 15 seconds at 2:52:10
+Spotify not playing - sleep time 15 seconds at 2:52:25
+Spotify not playing - sleep time 15 seconds at 2:52:40
+Spotify not playing - sleep time 15 seconds at 2:52:55
+Spotify not playing - sleep time 15 seconds at 2:53:10
+Spotify not playing - sleep time 15 seconds at 2:53:25
+Spotify not playing - sleep time 15 seconds at 2:53:41
+Spotify not playing - sleep time 15 seconds at 2:53:56
+Spotify not playing - sleep time 15 seconds at 2:54:11
+Spotify not playing - sleep time 15 seconds at 2:54:26
+Spotify not playing - sleep time 15 seconds at 2:54:41
+Spotify not playing - sleep time 15 seconds at 2:54:56
+Spotify not playing - sleep time 15 seconds at 2:55:12
+Spotify not playing - sleep time 15 seconds at 2:55:27
+Spotify not playing - sleep time 15 seconds at 2:55:42
+Spotify not playing - sleep time 15 seconds at 2:55:57
+Spotify not playing - sleep time 15 seconds at 2:56:12
+Spotify not playing - sleep time 15 seconds at 2:56:27
+Spotify not playing - sleep time 15 seconds at 2:56:42
+Spotify not playing - sleep time 15 seconds at 2:56:58
+Spotify not playing - sleep time 15 seconds at 2:57:13
+Spotify not playing - sleep time 15 seconds at 2:57:28
+Spotify not playing - sleep time 15 seconds at 2:57:43
+Spotify not playing - sleep time 15 seconds at 2:57:58
+Spotify not playing - sleep time 15 seconds at 2:58:13
+Spotify not playing - sleep time 15 seconds at 2:58:29
+Spotify not playing - sleep time 15 seconds at 2:58:44
+Spotify not playing - sleep time 15 seconds at 2:58:59
+Spotify not playing - sleep time 15 seconds at 2:59:14
+Spotify not playing - sleep time 15 seconds at 2:59:29
+Spotify not playing - sleep time 15 seconds at 2:59:44
+Spotify not playing - sleep time 15 seconds at 2:59:59
+Spotify not playing - sleep time 15 seconds at 3:00:15
+Spotify not playing - sleep time 15 seconds at 3:00:30
+Spotify not playing - sleep time 15 seconds at 3:00:45
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 3:01:00
+Spotify not playing - sleep time 15 seconds at 3:01:16
+Spotify not playing - sleep time 15 seconds at 3:01:31
+Spotify not playing - sleep time 15 seconds at 3:01:48
+Spotify not playing - sleep time 15 seconds at 3:02:03
+Spotify not playing - sleep time 15 seconds at 3:02:19
+Spotify not playing - sleep time 15 seconds at 3:02:34
+Spotify not playing - sleep time 15 seconds at 3:02:49
+Spotify not playing - sleep time 15 seconds at 3:03:04
+Spotify not playing - sleep time 15 seconds at 3:03:19
+Spotify not playing - sleep time 15 seconds at 3:03:34
+Spotify not playing - sleep time 15 seconds at 3:03:50
+Spotify not playing - sleep time 15 seconds at 3:04:05
+Spotify not playing - sleep time 15 seconds at 3:04:20
+Spotify not playing - sleep time 15 seconds at 3:04:35
+Spotify not playing - sleep time 15 seconds at 3:04:50
+Spotify not playing - sleep time 15 seconds at 3:05:05
+Spotify not playing - sleep time 15 seconds at 3:05:20
+Spotify not playing - sleep time 15 seconds at 3:05:36
+Spotify not playing - sleep time 15 seconds at 3:05:51
+Spotify not playing - sleep time 15 seconds at 3:06:06
+Spotify not playing - sleep time 15 seconds at 3:06:21
+Spotify not playing - sleep time 15 seconds at 3:06:36
+Spotify not playing - sleep time 15 seconds at 3:06:51
+Spotify not playing - sleep time 15 seconds at 3:07:06
+Spotify not playing - sleep time 15 seconds at 3:07:22
+Spotify not playing - sleep time 15 seconds at 3:07:37
+Spotify not playing - sleep time 15 seconds at 3:07:52
+Spotify not playing - sleep time 15 seconds at 3:08:07
+Spotify not playing - sleep time 15 seconds at 3:08:22
+Spotify not playing - sleep time 15 seconds at 3:08:37
+Spotify not playing - sleep time 15 seconds at 3:08:52
+Spotify not playing - sleep time 15 seconds at 3:09:08
+Spotify not playing - sleep time 15 seconds at 3:09:23
+Spotify not playing - sleep time 15 seconds at 3:09:38
+Spotify not playing - sleep time 15 seconds at 3:09:53
+Spotify not playing - sleep time 15 seconds at 3:10:08
+Spotify not playing - sleep time 15 seconds at 3:10:23
+Spotify not playing - sleep time 15 seconds at 3:10:38
+Spotify not playing - sleep time 15 seconds at 3:10:54
+Spotify not playing - sleep time 15 seconds at 3:11:09
+Spotify not playing - sleep time 15 seconds at 3:11:24
+Spotify not playing - sleep time 15 seconds at 3:11:39
+Spotify not playing - sleep time 15 seconds at 3:11:54
+Spotify not playing - sleep time 15 seconds at 3:12:09
+Spotify not playing - sleep time 15 seconds at 3:12:25
+Spotify not playing - sleep time 15 seconds at 3:12:40
+Spotify not playing - sleep time 15 seconds at 3:12:55
+Spotify not playing - sleep time 15 seconds at 3:13:10
+Spotify not playing - sleep time 15 seconds at 3:13:25
+Spotify not playing - sleep time 15 seconds at 3:13:40
+Spotify not playing - sleep time 15 seconds at 3:13:55
+Spotify not playing - sleep time 15 seconds at 3:14:11
+Spotify not playing - sleep time 15 seconds at 3:14:26
+Spotify not playing - sleep time 15 seconds at 3:14:41
+Spotify not playing - sleep time 15 seconds at 3:14:56
+Spotify not playing - sleep time 15 seconds at 3:15:11
+Spotify not playing - sleep time 15 seconds at 3:15:26
+Spotify not playing - sleep time 15 seconds at 3:15:41
+Spotify not playing - sleep time 15 seconds at 3:15:57
+Spotify not playing - sleep time 15 seconds at 3:16:12
+Spotify not playing - sleep time 15 seconds at 3:16:27
+Spotify not playing - sleep time 15 seconds at 3:16:42
+Spotify not playing - sleep time 15 seconds at 3:16:57
+Spotify not playing - sleep time 15 seconds at 3:17:12
+Spotify not playing - sleep time 15 seconds at 3:17:27
+Spotify not playing - sleep time 15 seconds at 3:17:43
+Spotify not playing - sleep time 15 seconds at 3:17:58
+Spotify not playing - sleep time 15 seconds at 3:18:13
+Spotify not playing - sleep time 15 seconds at 3:18:28
+Spotify not playing - sleep time 15 seconds at 3:18:43
+Spotify not playing - sleep time 15 seconds at 3:18:58
+post_next_or_prev() - Error: Status Code 404 - {
+  "error" : {
+    "status" : 404,
+    "message" : "Player command failed: No active device found",
+    "reason" : "NO_ACTIVE_DEVICE"
+  }
+}
+sp_playback_state_change at 3:19:10
+Spotify not playing - sleep time 15 seconds at 3:19:11
+Spotify not playing - sleep time 15 seconds at 3:19:26
+Spotify not playing - sleep time 15 seconds at 3:19:41
+Spotify not playing - sleep time 15 seconds at 3:19:56
+Spotify not playing - sleep time 15 seconds at 3:20:11
+Spotify not playing - sleep time 15 seconds at 3:20:26
+Spotify not playing - sleep time 15 seconds at 3:20:41
+Spotify not playing - sleep time 15 seconds at 3:20:56
+Spotify not playing - sleep time 15 seconds at 3:21:12
+Spotify not playing - sleep time 15 seconds at 3:21:27
+Spotify not playing - sleep time 15 seconds at 3:21:42
+Spotify not playing - sleep time 15 seconds at 3:21:57
+Spotify not playing - sleep time 15 seconds at 3:22:12
+Spotify not playing - sleep time 15 seconds at 3:22:27
+Spotify not playing - sleep time 15 seconds at 3:22:42
+Spotify not playing - sleep time 15 seconds at 3:22:58
+Spotify not playing - sleep time 15 seconds at 3:23:13
+Spotify not playing - sleep time 15 seconds at 3:23:28
+Spotify not playing - sleep time 15 seconds at 3:23:43
+Spotify not playing - sleep time 15 seconds at 3:23:58
+Spotify not playing - sleep time 15 seconds at 3:24:13
+Spotify not playing - sleep time 15 seconds at 3:24:28
+Spotify not playing - sleep time 15 seconds at 3:24:44
+Spotify not playing - sleep time 15 seconds at 3:24:59
+Spotify not playing - sleep time 15 seconds at 3:25:14
+Spotify not playing - sleep time 15 seconds at 3:25:29
+Spotify not playing - sleep time 15 seconds at 3:25:44
+Spotify not playing - sleep time 15 seconds at 3:25:59
+Spotify not playing - sleep time 15 seconds at 3:26:15
+Spotify not playing - sleep time 15 seconds at 3:26:30
+Spotify not playing - sleep time 15 seconds at 3:26:45
+Spotify not playing - sleep time 15 seconds at 3:27:00
+Spotify not playing - sleep time 15 seconds at 3:27:15
+Spotify not playing - sleep time 15 seconds at 3:27:30
+Spotify not playing - sleep time 15 seconds at 3:27:45
+Spotify not playing - sleep time 15 seconds at 3:28:01
+Spotify not playing - sleep time 15 seconds at 3:28:16
+Spotify not playing - sleep time 15 seconds at 3:28:31
+Spotify not playing - sleep time 15 seconds at 3:28:46
+Spotify not playing - sleep time 15 seconds at 3:29:01
+Spotify not playing - sleep time 15 seconds at 3:29:16
+Spotify not playing - sleep time 15 seconds at 3:29:31
+Spotify not playing - sleep time 15 seconds at 3:29:46
+Spotify not playing - sleep time 15 seconds at 3:30:02
+Spotify not playing - sleep time 15 seconds at 3:30:17
+Spotify not playing - sleep time 15 seconds at 3:30:32
+Spotify not playing - sleep time 15 seconds at 3:30:47
+Spotify not playing - sleep time 15 seconds at 3:31:02
+Spotify not playing - sleep time 15 seconds at 3:31:17
+Spotify not playing - sleep time 15 seconds at 3:31:32
+Spotify not playing - sleep time 15 seconds at 3:31:47
+Spotify not playing - sleep time 15 seconds at 3:32:03
+Spotify not playing - sleep time 15 seconds at 3:32:18
+Spotify not playing - sleep time 15 seconds at 3:32:33
+Spotify not playing - sleep time 15 seconds at 3:32:48
+Spotify not playing - sleep time 15 seconds at 3:33:03
+Spotify not playing - sleep time 15 seconds at 3:33:18
+Spotify not playing - sleep time 15 seconds at 3:33:33
+Spotify not playing - sleep time 15 seconds at 3:33:49
+Spotify not playing - sleep time 15 seconds at 3:34:04
+Spotify not playing - sleep time 15 seconds at 3:34:19
+Spotify not playing - sleep time 15 seconds at 3:34:34
+Spotify not playing - sleep time 15 seconds at 3:34:49
+Spotify not playing - sleep time 15 seconds at 3:35:15
+Spotify not playing - sleep time 15 seconds at 3:35:30
+Spotify not playing - sleep time 15 seconds at 3:35:46
+Spotify not playing - sleep time 15 seconds at 3:36:01
+Spotify not playing - sleep time 15 seconds at 3:36:16
+Spotify not playing - sleep time 15 seconds at 3:36:31
+Spotify not playing - sleep time 15 seconds at 3:36:46
+Spotify not playing - sleep time 15 seconds at 3:37:01
+Spotify not playing - sleep time 15 seconds at 3:37:17
+Spotify not playing - sleep time 15 seconds at 3:37:32
+Spotify not playing - sleep time 15 seconds at 3:37:47
+Spotify not playing - sleep time 15 seconds at 3:38:02
+Spotify not playing - sleep time 15 seconds at 3:38:17
+Spotify not playing - sleep time 15 seconds at 3:38:33
+Spotify not playing - sleep time 15 seconds at 3:38:48
+Spotify not playing - sleep time 15 seconds at 3:39:03
+Spotify not playing - sleep time 15 seconds at 3:39:18
+Spotify not playing - sleep time 15 seconds at 3:39:33
+Spotify not playing - sleep time 15 seconds at 3:39:48
+Spotify not playing - sleep time 15 seconds at 3:40:03
+Spotify not playing - sleep time 15 seconds at 3:40:19
+Spotify not playing - sleep time 15 seconds at 3:40:34
+Spotify not playing - sleep time 15 seconds at 3:40:49
+Spotify not playing - sleep time 15 seconds at 3:41:04
+Spotify not playing - sleep time 15 seconds at 3:41:19
+Spotify not playing - sleep time 15 seconds at 3:41:34
+Spotify not playing - sleep time 15 seconds at 3:41:49
+Spotify not playing - sleep time 15 seconds at 3:42:05
+Spotify not playing - sleep time 15 seconds at 3:42:20
+Spotify not playing - sleep time 15 seconds at 3:42:35
+Spotify not playing - sleep time 15 seconds at 3:42:50
+Spotify not playing - sleep time 15 seconds at 3:43:05
+Spotify not playing - sleep time 15 seconds at 3:43:20
+Spotify not playing - sleep time 15 seconds at 3:43:35
+Spotify not playing - sleep time 15 seconds at 3:43:51
+Spotify not playing - sleep time 15 seconds at 3:44:06
+Spotify not playing - sleep time 15 seconds at 3:44:21
+Spotify not playing - sleep time 15 seconds at 3:44:36
+Spotify not playing - sleep time 15 seconds at 3:44:51
+Spotify not playing - sleep time 15 seconds at 3:45:06
+Spotify not playing - sleep time 15 seconds at 3:45:21
+Spotify not playing - sleep time 15 seconds at 3:45:37
+Spotify not playing - sleep time 15 seconds at 3:45:52
+Spotify not playing - sleep time 15 seconds at 3:46:07
+Spotify not playing - sleep time 15 seconds at 3:46:22
+Spotify not playing - sleep time 15 seconds at 3:46:37
+Spotify not playing - sleep time 15 seconds at 3:46:52
+Spotify not playing - sleep time 15 seconds at 3:47:08
+Spotify not playing - sleep time 15 seconds at 3:47:23
+Spotify not playing - sleep time 15 seconds at 3:47:38
+Spotify not playing - sleep time 15 seconds at 3:47:53
+Spotify not playing - sleep time 15 seconds at 3:48:08
+Spotify not playing - sleep time 15 seconds at 3:48:23
+Spotify not playing - sleep time 15 seconds at 3:48:38
+Spotify not playing - sleep time 15 seconds at 3:48:53
+Spotify not playing - sleep time 15 seconds at 3:49:09
+Spotify not playing - sleep time 15 seconds at 3:49:24
+Spotify not playing - sleep time 15 seconds at 3:49:39
+Spotify not playing - sleep time 15 seconds at 3:49:54
+Spotify not playing - sleep time 15 seconds at 3:50:09
+Spotify not playing - sleep time 15 seconds at 3:50:24
+Spotify not playing - sleep time 15 seconds at 3:50:39
+Spotify not playing - sleep time 15 seconds at 3:50:55
+Spotify not playing - sleep time 15 seconds at 3:51:10
+Spotify not playing - sleep time 15 seconds at 3:51:25
+Spotify not playing - sleep time 15 seconds at 3:51:40
+Spotify not playing - sleep time 15 seconds at 3:51:55
+Spotify not playing - sleep time 15 seconds at 3:52:10
+Spotify not playing - sleep time 15 seconds at 3:52:26
+Spotify not playing - sleep time 15 seconds at 3:52:41
+Spotify not playing - sleep time 15 seconds at 3:52:56
+Spotify not playing - sleep time 15 seconds at 3:53:11
+Spotify not playing - sleep time 15 seconds at 3:53:26
+Spotify not playing - sleep time 15 seconds at 3:53:41
+Spotify not playing - sleep time 15 seconds at 3:53:56
+Spotify not playing - sleep time 15 seconds at 3:54:12
+Spotify not playing - sleep time 15 seconds at 3:54:27
+Spotify not playing - sleep time 15 seconds at 3:54:42
+Spotify not playing - sleep time 15 seconds at 3:54:57
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 3:55:12
+Spotify not playing - sleep time 15 seconds at 3:55:27
+Spotify not playing - sleep time 15 seconds at 3:55:43
+Spotify not playing - sleep time 15 seconds at 3:55:58
+Spotify not playing - sleep time 15 seconds at 3:56:13
+Spotify not playing - sleep time 15 seconds at 3:56:28
+Spotify not playing - sleep time 15 seconds at 3:56:43
+Spotify not playing - sleep time 15 seconds at 3:56:58
+Spotify not playing - sleep time 15 seconds at 3:57:13
+Spotify not playing - sleep time 15 seconds at 3:57:29
+Spotify not playing - sleep time 15 seconds at 3:57:44
+Spotify not playing - sleep time 15 seconds at 3:57:59
+Spotify not playing - sleep time 15 seconds at 3:58:14
+Spotify not playing - sleep time 15 seconds at 3:58:29
+Spotify not playing - sleep time 15 seconds at 3:58:44
+Spotify not playing - sleep time 15 seconds at 3:58:59
+Spotify not playing - sleep time 15 seconds at 3:59:15
+Spotify not playing - sleep time 15 seconds at 3:59:30
+Spotify not playing - sleep time 15 seconds at 3:59:45
+Spotify not playing - sleep time 15 seconds at 4:00:00
+Spotify not playing - sleep time 15 seconds at 4:00:15
+Spotify not playing - sleep time 15 seconds at 4:00:30
+Spotify not playing - sleep time 15 seconds at 4:00:45
+Spotify not playing - sleep time 15 seconds at 4:01:01
+Spotify not playing - sleep time 15 seconds at 4:01:16
+Spotify not playing - sleep time 15 seconds at 4:01:31
+Spotify not playing - sleep time 15 seconds at 4:01:46
+Spotify not playing - sleep time 15 seconds at 4:02:02
+Spotify not playing - sleep time 15 seconds at 4:02:17
+Spotify not playing - sleep time 15 seconds at 4:02:32
+Spotify not playing - sleep time 15 seconds at 4:02:47
+Spotify not playing - sleep time 15 seconds at 4:03:02
+Spotify not playing - sleep time 15 seconds at 4:03:17
+Spotify not playing - sleep time 15 seconds at 4:03:33
+Spotify not playing - sleep time 15 seconds at 4:03:48
+Spotify not playing - sleep time 15 seconds at 4:04:03
+Spotify not playing - sleep time 15 seconds at 4:04:18
+Spotify not playing - sleep time 15 seconds at 4:04:33
+Spotify not playing - sleep time 15 seconds at 4:04:48
+Spotify not playing - sleep time 15 seconds at 4:05:04
+Spotify not playing - sleep time 15 seconds at 4:05:19
+Spotify not playing - sleep time 15 seconds at 4:05:34
+Spotify not playing - sleep time 15 seconds at 4:05:49
+Spotify not playing - sleep time 15 seconds at 4:06:04
+Spotify not playing - sleep time 15 seconds at 4:06:19
+Spotify not playing - sleep time 15 seconds at 4:06:35
+Spotify not playing - sleep time 15 seconds at 4:06:50
+Spotify not playing - sleep time 15 seconds at 4:07:05
+Spotify not playing - sleep time 15 seconds at 4:07:20
+Spotify not playing - sleep time 15 seconds at 4:07:35
+Spotify not playing - sleep time 15 seconds at 4:07:50
+Spotify not playing - sleep time 15 seconds at 4:08:05
+Spotify not playing - sleep time 15 seconds at 4:08:21
+Spotify not playing - sleep time 15 seconds at 4:08:36
+Spotify not playing - sleep time 15 seconds at 4:08:51
+Spotify not playing - sleep time 15 seconds at 4:09:06
+Spotify not playing - sleep time 15 seconds at 4:09:21
+Spotify not playing - sleep time 15 seconds at 4:09:36
+Spotify not playing - sleep time 15 seconds at 4:09:51
+Spotify not playing - sleep time 15 seconds at 4:10:07
+Spotify not playing - sleep time 15 seconds at 4:10:22
+Spotify not playing - sleep time 15 seconds at 4:10:37
+Spotify not playing - sleep time 15 seconds at 4:10:52
+Spotify not playing - sleep time 15 seconds at 4:11:07
+Spotify not playing - sleep time 15 seconds at 4:11:22
+Spotify not playing - sleep time 15 seconds at 4:11:37
+Spotify not playing - sleep time 15 seconds at 4:11:53
+Spotify not playing - sleep time 15 seconds at 4:12:08
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 5:37:55
+Spotify not playing - sleep time 15 seconds at 5:38:10
+Spotify not playing - sleep time 15 seconds at 5:38:25
+Spotify not playing - sleep time 15 seconds at 5:38:41
+Spotify not playing - sleep time 15 seconds at 5:38:56
+Spotify not playing - sleep time 15 seconds at 5:39:11
+Spotify not playing - sleep time 15 seconds at 5:39:26
+Spotify not playing - sleep time 15 seconds at 5:39:41
+Spotify not playing - sleep time 15 seconds at 5:39:56
+Spotify not playing - sleep time 15 seconds at 5:40:11
+Spotify not playing - sleep time 15 seconds at 5:40:27
+Spotify not playing - sleep time 15 seconds at 5:40:42
+Spotify not playing - sleep time 15 seconds at 5:40:57
+Spotify not playing - sleep time 15 seconds at 5:41:12
+Spotify not playing - sleep time 15 seconds at 5:41:27
+Spotify not playing - sleep time 15 seconds at 5:41:42
+Spotify not playing - sleep time 15 seconds at 5:41:57
+Spotify not playing - sleep time 15 seconds at 5:42:13
+Spotify not playing - sleep time 15 seconds at 5:42:28
+Spotify not playing - sleep time 15 seconds at 5:42:43
+Spotify not playing - sleep time 15 seconds at 5:42:58
+Spotify not playing - sleep time 15 seconds at 5:43:13
+Spotify not playing - sleep time 15 seconds at 5:43:28
+Spotify not playing - sleep time 15 seconds at 5:43:43
+Spotify not playing - sleep time 15 seconds at 5:43:59
+Spotify not playing - sleep time 15 seconds at 5:44:14
+Spotify not playing - sleep time 15 seconds at 5:44:29
+Spotify not playing - sleep time 15 seconds at 5:44:44
+Spotify not playing - sleep time 15 seconds at 5:44:59
+Spotify not playing - sleep time 15 seconds at 5:45:14
+Spotify not playing - sleep time 15 seconds at 5:45:29
+Spotify not playing - sleep time 15 seconds at 5:45:45
+Spotify not playing - sleep time 15 seconds at 5:46:00
+Spotify not playing - sleep time 15 seconds at 5:46:15
+Spotify not playing - sleep time 15 seconds at 5:46:30
+Spotify not playing - sleep time 15 seconds at 5:46:45
+Spotify not playing - sleep time 15 seconds at 5:47:00
+Spotify not playing - sleep time 15 seconds at 5:47:15
+Spotify not playing - sleep time 15 seconds at 5:47:31
+Spotify not playing - sleep time 15 seconds at 5:47:46
+Spotify not playing - sleep time 15 seconds at 5:48:01
+Spotify not playing - sleep time 15 seconds at 5:48:16
+Spotify not playing - sleep time 15 seconds at 5:48:31
+Spotify not playing - sleep time 15 seconds at 5:48:46
+Spotify not playing - sleep time 15 seconds at 5:49:02
+Spotify not playing - sleep time 15 seconds at 5:49:17
+Spotify not playing - sleep time 15 seconds at 5:49:32
+Spotify not playing - sleep time 15 seconds at 5:49:47
+Spotify not playing - sleep time 15 seconds at 5:50:02
+Spotify not playing - sleep time 15 seconds at 5:50:17
+Spotify not playing - sleep time 15 seconds at 5:50:32
+Spotify not playing - sleep time 15 seconds at 5:50:47
+Spotify not playing - sleep time 15 seconds at 5:51:03
+Spotify not playing - sleep time 15 seconds at 5:51:18
+Spotify not playing - sleep time 15 seconds at 5:51:33
+Spotify not playing - sleep time 15 seconds at 5:51:48
+Spotify not playing - sleep time 15 seconds at 5:52:03
+Spotify not playing - sleep time 15 seconds at 5:52:18
+Spotify not playing - sleep time 15 seconds at 5:52:33
+Spotify not playing - sleep time 15 seconds at 5:52:49
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 6:53:48
+Spotify not playing - sleep time 15 seconds at 6:54:03
+Spotify not playing - sleep time 15 seconds at 6:54:18
+Spotify not playing - sleep time 15 seconds at 6:54:33
+Spotify not playing - sleep time 15 seconds at 6:54:48
+Spotify not playing - sleep time 15 seconds at 6:55:03
+Spotify not playing - sleep time 15 seconds at 6:55:18
+Spotify not playing - sleep time 15 seconds at 6:55:34
+Spotify not playing - sleep time 15 seconds at 6:55:49
+Spotify not playing - sleep time 15 seconds at 6:56:04
+Spotify not playing - sleep time 15 seconds at 6:56:19
+Spotify not playing - sleep time 15 seconds at 6:56:34
+Spotify not playing - sleep time 15 seconds at 6:56:49
+Spotify not playing - sleep time 15 seconds at 6:57:04
+Spotify not playing - sleep time 15 seconds at 6:57:19
+Spotify not playing - sleep time 15 seconds at 6:57:35
+Spotify not playing - sleep time 15 seconds at 6:57:50
+Spotify not playing - sleep time 15 seconds at 6:58:05
+Spotify not playing - sleep time 15 seconds at 6:58:20
+Spotify not playing - sleep time 15 seconds at 6:58:35
+Spotify not playing - sleep time 15 seconds at 6:58:50
+Spotify not playing - sleep time 15 seconds at 6:59:05
+Spotify not playing - sleep time 15 seconds at 6:59:21
+Spotify not playing - sleep time 15 seconds at 6:59:36
+Spotify not playing - sleep time 15 seconds at 6:59:51
+Spotify not playing - sleep time 15 seconds at 7:00:06
+Spotify not playing - sleep time 15 seconds at 7:00:21
+Spotify not playing - sleep time 15 seconds at 7:00:36
+Spotify not playing - sleep time 15 seconds at 7:00:51
+Spotify not playing - sleep time 15 seconds at 7:01:07
+Spotify not playing - sleep time 15 seconds at 7:01:22
+Spotify not playing - sleep time 15 seconds at 7:01:37
+Spotify not playing - sleep time 15 seconds at 7:01:52
+Spotify not playing - sleep time 15 seconds at 7:02:07
+Spotify not playing - sleep time 15 seconds at 7:02:22
+Spotify not playing - sleep time 15 seconds at 7:02:37
+Spotify not playing - sleep time 15 seconds at 7:02:53
+Spotify not playing - sleep time 15 seconds at 7:03:08
+Spotify not playing - sleep time 15 seconds at 7:03:23
+Spotify not playing - sleep time 15 seconds at 7:03:38
+Spotify not playing - sleep time 15 seconds at 7:03:53
+Spotify not playing - sleep time 15 seconds at 7:04:08
+Spotify not playing - sleep time 15 seconds at 7:04:23
+Spotify not playing - sleep time 15 seconds at 7:04:38
+Spotify not playing - sleep time 15 seconds at 7:04:54
+Spotify not playing - sleep time 15 seconds at 7:05:09
+Spotify not playing - sleep time 15 seconds at 7:05:24
+Spotify not playing - sleep time 15 seconds at 7:05:39
+Spotify not playing - sleep time 15 seconds at 7:05:54
+Spotify not playing - sleep time 15 seconds at 7:06:09
+Spotify not playing - sleep time 15 seconds at 7:06:25
+Spotify not playing - sleep time 15 seconds at 7:06:40
+Spotify not playing - sleep time 15 seconds at 7:06:55
+Spotify not playing - sleep time 15 seconds at 7:07:10
+Spotify not playing - sleep time 15 seconds at 7:07:25
+Spotify not playing - sleep time 15 seconds at 7:07:40
+Spotify not playing - sleep time 15 seconds at 7:07:55
+Spotify not playing - sleep time 15 seconds at 7:08:10
+Spotify not playing - sleep time 15 seconds at 7:08:26
+Spotify not playing - sleep time 15 seconds at 7:08:41
+Spotify not playing - sleep time 15 seconds at 7:08:56
+Spotify not playing - sleep time 15 seconds at 7:09:11
+Spotify not playing - sleep time 15 seconds at 7:09:26
+Spotify not playing - sleep time 15 seconds at 7:09:41
+Spotify not playing - sleep time 15 seconds at 7:09:56
+Spotify not playing - sleep time 15 seconds at 7:10:12
+Spotify not playing - sleep time 15 seconds at 7:10:27
+Spotify not playing - sleep time 15 seconds at 7:10:42
+Spotify not playing - sleep time 15 seconds at 7:10:57
+Spotify not playing - sleep time 15 seconds at 7:11:12
+Spotify not playing - sleep time 15 seconds at 7:11:27
+Spotify not playing - sleep time 15 seconds at 7:11:42
+Spotify not playing - sleep time 15 seconds at 7:11:58
+Spotify not playing - sleep time 15 seconds at 7:12:13
+Spotify not playing - sleep time 15 seconds at 7:12:28
+Spotify not playing - sleep time 15 seconds at 7:12:43
+Spotify not playing - sleep time 15 seconds at 7:12:58
+Spotify not playing - sleep time 15 seconds at 7:13:13
+Spotify not playing - sleep time 15 seconds at 7:13:28
+Spotify not playing - sleep time 15 seconds at 7:13:44
+Spotify not playing - sleep time 15 seconds at 7:13:59
+Spotify not playing - sleep time 15 seconds at 7:14:14
+Spotify not playing - sleep time 15 seconds at 7:14:29
+Spotify not playing - sleep time 15 seconds at 7:14:44
+Spotify not playing - sleep time 15 seconds at 7:14:59
+Spotify not playing - sleep time 15 seconds at 7:15:15
+Spotify not playing - sleep time 15 seconds at 7:15:30
+Spotify not playing - sleep time 15 seconds at 7:15:45
+Spotify not playing - sleep time 15 seconds at 7:16:00
+Spotify not playing - sleep time 15 seconds at 7:16:15
+Spotify not playing - sleep time 15 seconds at 7:16:30
+Spotify not playing - sleep time 15 seconds at 7:16:45
+Spotify not playing - sleep time 15 seconds at 7:17:00
+Spotify not playing - sleep time 15 seconds at 7:17:16
+Spotify not playing - sleep time 15 seconds at 7:17:31
+Spotify not playing - sleep time 15 seconds at 7:17:46
+Spotify not playing - sleep time 15 seconds at 7:18:01
+Spotify not playing - sleep time 15 seconds at 7:18:16
+Spotify not playing - sleep time 15 seconds at 7:18:31
+Spotify not playing - sleep time 15 seconds at 7:18:46
+Spotify not playing - sleep time 15 seconds at 7:19:02
+Spotify not playing - sleep time 15 seconds at 7:19:17
+Spotify not playing - sleep time 15 seconds at 7:19:32
+Spotify not playing - sleep time 15 seconds at 7:19:47
+Spotify not playing - sleep time 15 seconds at 7:20:02
+Spotify not playing - sleep time 15 seconds at 7:20:17
+Spotify not playing - sleep time 15 seconds at 7:20:32
+Spotify not playing - sleep time 15 seconds at 7:20:48
+Spotify not playing - sleep time 15 seconds at 7:21:03
+Spotify not playing - sleep time 15 seconds at 7:21:18
+Spotify not playing - sleep time 15 seconds at 7:21:33
+Spotify not playing - sleep time 15 seconds at 7:21:48
+Spotify not playing - sleep time 15 seconds at 7:22:03
+Spotify not playing - sleep time 15 seconds at 7:22:18
+Spotify not playing - sleep time 15 seconds at 7:22:34
+Spotify not playing - sleep time 15 seconds at 7:22:49
+Spotify not playing - sleep time 15 seconds at 7:23:04
+Spotify not playing - sleep time 15 seconds at 7:23:19
+Spotify not playing - sleep time 15 seconds at 7:23:34
+Spotify not playing - sleep time 15 seconds at 7:23:49
+Spotify not playing - sleep time 15 seconds at 7:24:04
+Spotify not playing - sleep time 15 seconds at 7:24:20
+Spotify not playing - sleep time 15 seconds at 7:24:35
+Spotify not playing - sleep time 15 seconds at 7:24:50
+Spotify not playing - sleep time 15 seconds at 7:25:05
+Spotify not playing - sleep time 15 seconds at 7:25:20
+Spotify not playing - sleep time 15 seconds at 7:25:35
+Spotify not playing - sleep time 15 seconds at 7:25:51
+Spotify not playing - sleep time 15 seconds at 7:26:06
+Spotify not playing - sleep time 15 seconds at 7:26:21
+Spotify not playing - sleep time 15 seconds at 7:26:36
+Spotify not playing - sleep time 15 seconds at 7:26:51
+Spotify not playing - sleep time 15 seconds at 7:27:06
+Spotify not playing - sleep time 15 seconds at 7:27:21
+Spotify not playing - sleep time 15 seconds at 7:27:36
+Spotify not playing - sleep time 15 seconds at 7:27:52
+Spotify not playing - sleep time 15 seconds at 7:28:07
+Spotify not playing - sleep time 15 seconds at 7:28:22
+Spotify not playing - sleep time 15 seconds at 7:28:37
+Spotify not playing - sleep time 15 seconds at 7:28:52
+Spotify not playing - sleep time 15 seconds at 7:29:07
+Spotify not playing - sleep time 15 seconds at 7:29:22
+Spotify not playing - sleep time 15 seconds at 7:29:38
+Spotify not playing - sleep time 15 seconds at 7:29:53
+Spotify not playing - sleep time 15 seconds at 7:30:08
+Spotify not playing - sleep time 15 seconds at 7:30:23
+Spotify not playing - sleep time 15 seconds at 7:30:38
+Spotify not playing - sleep time 15 seconds at 7:30:53
+Spotify not playing - sleep time 15 seconds at 7:31:08
+Spotify not playing - sleep time 15 seconds at 7:31:23
+Spotify not playing - sleep time 15 seconds at 7:31:39
+Spotify not playing - sleep time 15 seconds at 7:31:54
+Spotify not playing - sleep time 15 seconds at 7:32:09
+Spotify not playing - sleep time 15 seconds at 7:32:24
+Spotify not playing - sleep time 15 seconds at 7:32:39
+Spotify not playing - sleep time 15 seconds at 7:32:54
+Spotify not playing - sleep time 15 seconds at 7:33:10
+Spotify not playing - sleep time 15 seconds at 7:33:25
+Spotify not playing - sleep time 15 seconds at 7:33:40
+Spotify not playing - sleep time 15 seconds at 7:33:55
+Spotify not playing - sleep time 15 seconds at 7:34:10
+Spotify not playing - sleep time 15 seconds at 7:34:25
+Spotify not playing - sleep time 15 seconds at 7:34:40
+Spotify not playing - sleep time 15 seconds at 7:34:56
+Spotify not playing - sleep time 15 seconds at 7:35:11
+Spotify not playing - sleep time 15 seconds at 7:35:26
+Spotify not playing - sleep time 15 seconds at 7:35:41
+Spotify not playing - sleep time 15 seconds at 7:35:56
+Spotify not playing - sleep time 15 seconds at 7:36:11
+Spotify not playing - sleep time 15 seconds at 7:36:26
+Spotify not playing - sleep time 15 seconds at 7:36:41
+Spotify not playing - sleep time 15 seconds at 7:36:57
+Spotify not playing - sleep time 15 seconds at 7:37:12
+Spotify not playing - sleep time 15 seconds at 7:37:27
+Spotify not playing - sleep time 15 seconds at 7:37:42
+Spotify not playing - sleep time 15 seconds at 7:37:57
+Spotify not playing - sleep time 15 seconds at 7:38:12
+Spotify not playing - sleep time 15 seconds at 7:38:27
+Spotify not playing - sleep time 15 seconds at 7:38:43
+Spotify not playing - sleep time 15 seconds at 7:38:58
+Spotify not playing - sleep time 15 seconds at 7:39:13
+Spotify not playing - sleep time 15 seconds at 7:39:28
+Spotify not playing - sleep time 15 seconds at 7:39:43
+Spotify not playing - sleep time 15 seconds at 7:39:58
+Spotify not playing - sleep time 15 seconds at 7:40:13
+Spotify not playing - sleep time 15 seconds at 7:40:29
+Spotify not playing - sleep time 15 seconds at 7:40:44
+Spotify not playing - sleep time 15 seconds at 7:40:59
+Spotify not playing - sleep time 15 seconds at 7:41:14
+Spotify not playing - sleep time 15 seconds at 7:41:29
+Spotify not playing - sleep time 15 seconds at 7:41:44
+Spotify not playing - sleep time 15 seconds at 7:41:59
+Spotify not playing - sleep time 15 seconds at 7:42:15
+Spotify not playing - sleep time 15 seconds at 7:42:30
+Spotify not playing - sleep time 15 seconds at 7:42:45
+Spotify not playing - sleep time 15 seconds at 7:43:00
+Spotify not playing - sleep time 15 seconds at 7:43:15
+Spotify not playing - sleep time 15 seconds at 7:43:30
+Spotify not playing - sleep time 15 seconds at 7:43:45
+Spotify not playing - sleep time 15 seconds at 7:44:01
+Spotify not playing - sleep time 15 seconds at 7:44:16
+Spotify not playing - sleep time 15 seconds at 7:44:31
+Spotify not playing - sleep time 15 seconds at 7:44:46
+Spotify not playing - sleep time 15 seconds at 7:45:01
+Spotify not playing - sleep time 15 seconds at 7:45:16
+Spotify not playing - sleep time 15 seconds at 7:45:31
+Spotify not playing - sleep time 15 seconds at 7:45:47
+Spotify not playing - sleep time 15 seconds at 7:46:02
+Spotify not playing - sleep time 15 seconds at 7:46:17
+Spotify not playing - sleep time 15 seconds at 7:46:32
+Spotify not playing - sleep time 15 seconds at 7:46:47
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 7:47:02
+Spotify not playing - sleep time 15 seconds at 7:47:18
+Spotify not playing - sleep time 15 seconds at 7:47:33
+Spotify not playing - sleep time 15 seconds at 7:47:48
+Spotify not playing - sleep time 15 seconds at 7:48:03
+Spotify not playing - sleep time 15 seconds at 7:48:18
+Spotify not playing - sleep time 15 seconds at 7:48:33
+Spotify not playing - sleep time 15 seconds at 7:48:49
+Spotify not playing - sleep time 15 seconds at 7:49:04
+Spotify not playing - sleep time 15 seconds at 7:49:19
+Spotify not playing - sleep time 15 seconds at 7:49:34
+Spotify not playing - sleep time 15 seconds at 7:49:49
+Spotify not playing - sleep time 15 seconds at 7:50:04
+Spotify not playing - sleep time 15 seconds at 7:50:19
+Spotify not playing - sleep time 15 seconds at 7:50:35
+Spotify not playing - sleep time 15 seconds at 7:50:50
+Spotify not playing - sleep time 15 seconds at 7:51:05
+Spotify not playing - sleep time 15 seconds at 7:51:20
+Spotify not playing - sleep time 15 seconds at 7:51:35
+Spotify not playing - sleep time 15 seconds at 7:51:50
+Spotify not playing - sleep time 15 seconds at 7:52:05
+Spotify not playing - sleep time 15 seconds at 7:52:21
+Spotify not playing - sleep time 15 seconds at 7:52:36
+Spotify not playing - sleep time 15 seconds at 7:52:51
+Spotify not playing - sleep time 15 seconds at 7:53:06
+Spotify not playing - sleep time 15 seconds at 7:53:21
+Spotify not playing - sleep time 15 seconds at 7:53:36
+Spotify not playing - sleep time 15 seconds at 7:53:51
+Spotify not playing - sleep time 15 seconds at 7:54:06
+Spotify not playing - sleep time 15 seconds at 7:54:22
+Spotify not playing - sleep time 15 seconds at 7:54:37
+Spotify not playing - sleep time 15 seconds at 7:54:52
+Spotify not playing - sleep time 15 seconds at 7:55:07
+Spotify not playing - sleep time 15 seconds at 7:55:22
+Spotify not playing - sleep time 15 seconds at 7:55:37
+Spotify not playing - sleep time 15 seconds at 7:55:52
+Spotify not playing - sleep time 15 seconds at 7:56:08
+Spotify not playing - sleep time 15 seconds at 7:56:23
+Spotify not playing - sleep time 15 seconds at 7:56:38
+Spotify not playing - sleep time 15 seconds at 7:56:53
+Spotify not playing - sleep time 15 seconds at 7:57:08
+Spotify not playing - sleep time 15 seconds at 7:57:23
+Spotify not playing - sleep time 15 seconds at 7:57:38
+Spotify not playing - sleep time 15 seconds at 7:57:54
+Spotify not playing - sleep time 15 seconds at 7:58:09
+Spotify not playing - sleep time 15 seconds at 7:58:24
+Spotify not playing - sleep time 15 seconds at 7:58:39
+Spotify not playing - sleep time 15 seconds at 7:58:54
+Spotify not playing - sleep time 15 seconds at 7:59:09
+Spotify not playing - sleep time 15 seconds at 7:59:24
+Spotify not playing - sleep time 15 seconds at 7:59:40
+Spotify not playing - sleep time 15 seconds at 7:59:55
+Spotify not playing - sleep time 15 seconds at 8:00:10
+Spotify not playing - sleep time 15 seconds at 8:00:25
+Spotify not playing - sleep time 15 seconds at 8:00:40
+Spotify not playing - sleep time 15 seconds at 8:00:55
+Spotify not playing - sleep time 15 seconds at 8:01:10
+Spotify not playing - sleep time 15 seconds at 8:01:25
+Spotify not playing - sleep time 15 seconds at 8:01:41
+Spotify not playing - sleep time 15 seconds at 8:01:56
+Spotify not playing - sleep time 15 seconds at 8:02:11
+Spotify not playing - sleep time 15 seconds at 8:02:26
+Spotify not playing - sleep time 15 seconds at 8:02:41
+Spotify not playing - sleep time 15 seconds at 8:02:56
+Spotify not playing - sleep time 15 seconds at 8:03:11
+Spotify not playing - sleep time 15 seconds at 8:03:27
+Spotify not playing - sleep time 15 seconds at 8:03:42
+Spotify not playing - sleep time 15 seconds at 8:03:57
+Spotify not playing - sleep time 15 seconds at 8:04:12
+Spotify not playing - sleep time 15 seconds at 8:04:27
+Spotify not playing - sleep time 15 seconds at 8:04:42
+Spotify not playing - sleep time 15 seconds at 8:04:57
+Spotify not playing - sleep time 15 seconds at 8:05:13
+Spotify not playing - sleep time 15 seconds at 8:05:28
+Spotify not playing - sleep time 15 seconds at 8:05:43
+Spotify not playing - sleep time 15 seconds at 8:05:58
+Spotify not playing - sleep time 15 seconds at 8:06:13
+Spotify not playing - sleep time 15 seconds at 8:06:28
+Spotify not playing - sleep time 15 seconds at 8:06:44
+Spotify not playing - sleep time 15 seconds at 8:06:59
+Spotify not playing - sleep time 15 seconds at 8:07:14
+Spotify not playing - sleep time 15 seconds at 8:07:29
+Spotify not playing - sleep time 15 seconds at 8:07:44
+Spotify not playing - sleep time 15 seconds at 8:07:59
+Spotify not playing - sleep time 15 seconds at 8:08:14
+Spotify not playing - sleep time 15 seconds at 8:08:30
+Spotify not playing - sleep time 15 seconds at 8:08:45
+Spotify not playing - sleep time 15 seconds at 8:09:00
+Spotify not playing - sleep time 15 seconds at 8:09:15
+Spotify not playing - sleep time 15 seconds at 8:09:30
+Spotify not playing - sleep time 15 seconds at 8:09:45
+Spotify not playing - sleep time 15 seconds at 8:10:00
+Spotify not playing - sleep time 15 seconds at 8:10:16
+Spotify not playing - sleep time 15 seconds at 8:10:31
+Spotify not playing - sleep time 15 seconds at 8:10:46
+Spotify not playing - sleep time 15 seconds at 8:11:01
+Spotify not playing - sleep time 15 seconds at 8:11:16
+Spotify not playing - sleep time 15 seconds at 8:11:31
+Spotify not playing - sleep time 15 seconds at 8:11:46
+Spotify not playing - sleep time 15 seconds at 8:12:01
+Spotify not playing - sleep time 15 seconds at 8:12:17
+Spotify not playing - sleep time 15 seconds at 8:12:32
+Spotify not playing - sleep time 15 seconds at 8:12:47
+Spotify not playing - sleep time 15 seconds at 8:13:02
+Spotify not playing - sleep time 15 seconds at 8:13:17
+Spotify not playing - sleep time 15 seconds at 8:13:32
+Spotify not playing - sleep time 15 seconds at 8:13:47
+Spotify not playing - sleep time 15 seconds at 8:14:03
+Spotify not playing - sleep time 15 seconds at 8:14:18
+Spotify not playing - sleep time 15 seconds at 8:14:33
+Spotify not playing - sleep time 15 seconds at 8:14:48
+Spotify not playing - sleep time 15 seconds at 8:15:03
+Spotify not playing - sleep time 15 seconds at 8:15:18
+Spotify not playing - sleep time 15 seconds at 8:15:33
+Spotify not playing - sleep time 15 seconds at 8:15:49
+Spotify not playing - sleep time 15 seconds at 8:16:04
+Spotify not playing - sleep time 15 seconds at 8:16:19
+Spotify not playing - sleep time 15 seconds at 8:16:34
+Spotify not playing - sleep time 15 seconds at 8:16:49
+Spotify not playing - sleep time 15 seconds at 8:17:04
+Spotify not playing - sleep time 15 seconds at 8:17:20
+Spotify not playing - sleep time 15 seconds at 8:17:35
+Spotify not playing - sleep time 15 seconds at 8:17:50
+Spotify not playing - sleep time 15 seconds at 8:18:05
+Spotify not playing - sleep time 15 seconds at 8:18:20
+Spotify not playing - sleep time 15 seconds at 8:18:35
+Spotify not playing - sleep time 15 seconds at 8:18:50
+Spotify not playing - sleep time 15 seconds at 8:19:06
+Spotify not playing - sleep time 15 seconds at 8:19:21
+Spotify not playing - sleep time 15 seconds at 8:19:36
+Spotify not playing - sleep time 15 seconds at 8:19:51
+Spotify not playing - sleep time 15 seconds at 8:20:06
+Spotify not playing - sleep time 15 seconds at 8:20:21
+Spotify not playing - sleep time 15 seconds at 8:20:36
+Spotify not playing - sleep time 15 seconds at 8:20:52
+Spotify not playing - sleep time 15 seconds at 8:21:07
+Spotify not playing - sleep time 15 seconds at 8:21:22
+Spotify not playing - sleep time 15 seconds at 8:21:37
+Spotify not playing - sleep time 15 seconds at 8:21:52
+Spotify not playing - sleep time 15 seconds at 8:22:07
+Spotify not playing - sleep time 15 seconds at 8:22:22
+Spotify not playing - sleep time 15 seconds at 8:22:38
+Spotify not playing - sleep time 15 seconds at 8:22:53
+Spotify not playing - sleep time 15 seconds at 8:23:08
+Spotify not playing - sleep time 15 seconds at 8:23:23
+Spotify not playing - sleep time 15 seconds at 8:23:38
+Spotify not playing - sleep time 15 seconds at 8:23:53
+Spotify not playing - sleep time 15 seconds at 8:24:08
+Spotify not playing - sleep time 15 seconds at 8:24:23
+Spotify not playing - sleep time 15 seconds at 8:24:39
+Spotify not playing - sleep time 15 seconds at 8:24:54
+Spotify not playing - sleep time 15 seconds at 8:25:09
+Spotify not playing - sleep time 15 seconds at 8:25:24
+Spotify not playing - sleep time 15 seconds at 8:25:39
+Spotify not playing - sleep time 15 seconds at 8:25:54
+Spotify not playing - sleep time 15 seconds at 8:26:09
+Spotify not playing - sleep time 15 seconds at 8:26:25
+Spotify not playing - sleep time 15 seconds at 8:26:40
+Spotify not playing - sleep time 15 seconds at 8:26:55
+Spotify not playing - sleep time 15 seconds at 8:27:10
+Spotify not playing - sleep time 15 seconds at 8:27:25
+Spotify not playing - sleep time 15 seconds at 8:27:40
+Spotify not playing - sleep time 15 seconds at 8:27:55
+Spotify not playing - sleep time 15 seconds at 8:28:11
+Spotify not playing - sleep time 15 seconds at 8:28:26
+Spotify not playing - sleep time 15 seconds at 8:28:41
+Spotify not playing - sleep time 15 seconds at 8:28:56
+Spotify not playing - sleep time 15 seconds at 8:29:11
+Spotify not playing - sleep time 15 seconds at 8:29:26
+Spotify not playing - sleep time 15 seconds at 8:29:41
+Spotify not playing - sleep time 15 seconds at 8:29:56
+Spotify not playing - sleep time 15 seconds at 23:11:55
+refresh_tokens() - tokens refreshed
+Spotify not playing - sleep time 15 seconds at 23:12:10
+Spotify not playing - sleep time 15 seconds at 23:12:25
+Spotify not playing - sleep time 15 seconds at 23:12:40
+Spotify not playing - sleep time 15 seconds at 23:12:56
+Spotify not playing - sleep time 15 seconds at 23:13:11
+Spotify not playing - sleep time 15 seconds at 23:13:26
+Spotify not playing - sleep time 15 seconds at 23:13:41
+Spotify not playing - sleep time 15 seconds at 23:13:56
+Spotify not playing - sleep time 15 seconds at 23:14:11
+Spotify not playing - sleep time 15 seconds at 23:14:26
+Spotify not playing - sleep time 15 seconds at 23:14:41
+Spotify not playing - sleep time 15 seconds at 23:14:57
+Spotify not playing - sleep time 15 seconds at 23:15:12
+Spotify not playing - sleep time 15 seconds at 23:15:27
+Spotify not playing - sleep time 15 seconds at 23:15:42
+Spotify not playing - sleep time 15 seconds at 23:15:57
+Spotify not playing - sleep time 15 seconds at 23:16:12
+Spotify not playing - sleep time 15 seconds at 23:16:27
+Spotify not playing - sleep time 15 seconds at 23:16:43
+Spotify not playing - sleep time 15 seconds at 23:16:58
+Spotify not playing - sleep time 15 seconds at 23:17:13
+Spotify not playing - sleep time 15 seconds at 23:17:28
+Spotify not playing - sleep time 15 seconds at 23:17:43
+Spotify not playing - sleep time 15 seconds at 23:17:58
+Spotify not playing - sleep time 15 seconds at 23:18:13
+Spotify not playing - sleep time 15 seconds at 23:18:29
+Spotify not playing - sleep time 15 seconds at 23:18:44
+Spotify not playing - sleep time 15 seconds at 23:18:59
+Spotify not playing - sleep time 15 seconds at 23:19:14
+Spotify not playing - sleep time 15 seconds at 23:19:29
+Spotify not playing - sleep time 15 seconds at 23:19:44
+Spotify not playing - sleep time 15 seconds at 23:19:59
+Spotify not playing - sleep time 15 seconds at 23:20:15
+Spotify not playing - sleep time 15 seconds at 23:20:30
+Spotify not playing - sleep time 15 seconds at 23:20:45
+Spotify not playing - sleep time 15 seconds at 23:21:00
+Spotify not playing - sleep time 15 seconds at 23:21:15
+Spotify not playing - sleep time 15 seconds at 23:21:30
+Spotify not playing - sleep time 15 seconds at 23:21:45
+Spotify not playing - sleep time 15 seconds at 23:22:00
+Spotify not playing - sleep time 15 seconds at 23:22:16
+Spotify not playing - sleep time 15 seconds at 23:22:31
+Spotify not playing - sleep time 15 seconds at 23:22:46
+Spotify not playing - sleep time 15 seconds at 23:23:01
+spotify_play_pause()
+no active device
+spotify window found
+is_spotify_open() == true
+spotify_play_pause()
+is_spotify_playing() == true
+now playing: [Good Old Days] [Woo York, Michael Mayo] [X] [7:31]
+Spotify not playing - sleep time 15 seconds at 23:23:16
+spotify_play_pause()
+play_song() == 204
+sleep time 15 seconds at 23:23:32
+sleep time 15 seconds at 23:23:47
+print_spotify_songs()
+[Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+[No Silence feat. Kuoko - Super Flu Remix] [Mollono.Bass, Super Flu, KUOKO] [Woods, Tales & Friends Remixes - Part Two] [7:17]
+[Amphibious] [Matan Caspi, R3cycle] [Amphibious] [9:06]
+[Learning To Fly] [Alfa Romero] [1001 Nights EP] [7:22]
+[Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+[Dark Knight] [VNTM] [Dark Knight] [5:38]
+[Moments Of Clarity - VNTM Remix] [Eelke Kleijn, VNTM] [Moments Of Clarity (The Remixes)] [4:12]
+[Good Old Days] [Woo York, Michael Mayo] [X] [7:31]
+sleep time 15 seconds at 23:24:02
+sleep time 15 seconds at 23:24:18
+sleep time 15 seconds at 23:24:33
+sleep time 15 seconds at 23:24:48
+sleep time 15 seconds at 23:25:03
+sleep time 15 seconds at 23:25:19
+sleep time 15 seconds at 23:25:34
+sleep time 15 seconds at 23:25:49
+sleep time 15 seconds at 23:26:04
+sleep time 15 seconds at 23:26:20
+sleep time 15 seconds at 23:26:35
+sleep time 15 seconds at 23:26:50
+sleep time 15 seconds at 23:27:05
+sleep time 15 seconds at 23:27:21
+sleep time 10 seconds at 23:27:36
+now playing: [Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+sleep time 15 seconds at 23:27:47
+sleep time 15 seconds at 23:28:02
+sleep time 15 seconds at 23:28:18
+sleep time 15 seconds at 23:28:33
+sleep time 15 seconds at 23:28:48
+sleep time 15 seconds at 23:29:04
+sleep time 15 seconds at 23:29:19
+sleep time 15 seconds at 23:29:34
+sleep time 15 seconds at 23:29:49
+sleep time 15 seconds at 23:30:05
+sleep time 15 seconds at 23:30:20
+sleep time 15 seconds at 23:30:35
+sleep time 15 seconds at 23:30:50
+get_user_sp_queue()
+[Moving - Jonas Saalbach Remix (Mixed)] [Max von Sternberg, Jonas Saalbach] [Paradise Mixed (DJ Mix)] [4:51]
+[Perfect in a Way - Casper Cole Remix] [Booka Shade, Kaktus Einarsson, Casper Cole] [Perfect in a Way] [7:41]
+[Halos] [Hollt] [Halos] [6:51]
+[Second Surface] [Jonas Saalbach] [Second Surface] [6:48]
+[Circus] [Who Else, Zagitar] [Circus] [7:26]
+[Minimalism] [Woo York] [Echoes From Beyond] [5:41]
+[Nautique] [Budakid, Jonas Saalbach] [Nautique] [3:36]
+[Paloma] [Woo York] [Unity Pt. 2] [6:31]
+[Domuyo - Jonas Saalbach Remix - Mixed] [Clawz SG, Jonas Saalbach] [Proton Sessions 001 (DJ Mix)] [4:07]
+[You Shine] [Giorgia Angiuli] [You Shine Ep] [6:43]
+[Timeless Ghosts] [Several Definitions, Ed Begley] [Timeless Ghosts] [7:37]
+[Magna Terram] [Township Rebellion] [Memorial] [8:25]
+[Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+[What We Think - Lunar Plane Remix] [Giorgia Angiuli, Teenage Mutants, Lunar Plane] [What We Think The Remixes Part One] [6:16]
+[Sender] [Patrice Bäumel] [Transmission EP] [6:42]
+[Acstatic] [Jonas Saalbach] [Headlights] [4:25]
+[Walls] [Tone Depth, GROJ] [Walls] [4:12]
+[Take Me Away] [Jonas Saalbach, Guzy] [Take Me Away] [4:00]
+[Nothing to Lose - Oliver Koletzki Remix] [Giorgia Angiuli, Oliver Koletzki] [In a Pink Bubble Remixed] [6:51]
+[Shibuya Crossing] [Jonas Saalbach] [Reminiscence] [3:47]
+[Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+print_spotify_songs()
+[Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+sleep time 15 seconds at 23:31:06
+sleep time 15 seconds at 23:31:21
+sleep time 15 seconds at 23:31:36
+sleep time 15 seconds at 23:31:51
+sleep time 15 seconds at 23:32:07
+sleep time 15 seconds at 23:32:22
+sleep time 15 seconds at 23:32:37
+sleep time 15 seconds at 23:32:52
+sleep time 15 seconds at 23:33:08
+sleep time 15 seconds at 23:33:23
+sleep time 15 seconds at 23:33:38
+sleep time 15 seconds at 23:33:54
+sleep time 15 seconds at 23:34:09
+sleep time 15 seconds at 23:34:24
+sleep time 15 seconds at 23:34:39
+sleep time 15 seconds at 23:34:55
+sleep time 15 seconds at 23:35:10
+sleep time 15 seconds at 23:35:25
+sleep time 15 seconds at 23:35:40
+sleep time 15 seconds at 23:35:56
+sleep time 9 seconds at 23:36:11
+now playing: [Moving - Jonas Saalbach Remix (Mixed)] [Max von Sternberg, Jonas Saalbach] [Paradise Mixed (DJ Mix)] [4:51]
+sleep time 15 seconds at 23:36:20
+sleep time 15 seconds at 23:36:36
+sleep time 15 seconds at 23:36:51
+sleep time 15 seconds at 23:37:06
+sleep time 15 seconds at 23:37:21
+sleep time 15 seconds at 23:37:37
+sleep time 15 seconds at 23:37:52
+sleep time 15 seconds at 23:38:07
+sleep time 15 seconds at 23:38:22
+sleep time 15 seconds at 23:38:38
+sleep time 15 seconds at 23:38:53
+sleep time 15 seconds at 23:39:08
+sleep time 15 seconds at 23:39:23
+sleep time 15 seconds at 23:39:39
+sleep time 15 seconds at 23:39:54
+sleep time 15 seconds at 23:40:09
+sleep time 15 seconds at 23:40:24
+sleep time 15 seconds at 23:40:40
+sleep time 15 seconds at 23:40:55
+now playing: [Perfect in a Way - Casper Cole Remix] [Booka Shade, Kaktus Einarsson, Casper Cole] [Perfect in a Way] [7:41]
+sleep time 15 seconds at 23:41:11
+sleep time 15 seconds at 23:41:26
+sleep time 15 seconds at 23:41:42
+sleep time 15 seconds at 23:41:57
+sleep time 15 seconds at 23:42:12
+sleep time 15 seconds at 23:42:28
+sleep time 15 seconds at 23:42:43
+sleep time 15 seconds at 23:42:58
+sleep time 15 seconds at 23:43:13
+sleep time 15 seconds at 23:43:29
+sleep time 15 seconds at 23:43:44
+sleep time 15 seconds at 23:43:59
+sleep time 15 seconds at 23:44:14
+sleep time 15 seconds at 23:44:30
+sleep time 15 seconds at 23:44:45
+sleep time 15 seconds at 23:45:00
+sleep time 15 seconds at 23:45:15
+sleep time 15 seconds at 23:45:31
+sleep time 15 seconds at 23:45:46
+sleep time 15 seconds at 23:46:01
+sleep time 15 seconds at 23:46:17
+sleep time 15 seconds at 23:46:32
+sleep time 15 seconds at 23:46:47
+sleep time 15 seconds at 23:47:02
+sleep time 15 seconds at 23:47:18
+sleep time 15 seconds at 23:47:33
+sleep time 15 seconds at 23:47:48
+sleep time 15 seconds at 23:48:03
+sleep time 15 seconds at 23:48:19
+sleep time 15 seconds at 23:48:34
+sleep time 4 seconds at 23:48:49
+now playing: [Halos] [Hollt] [Halos] [6:51]
+sleep time 15 seconds at 23:48:54
+sleep time 15 seconds at 23:49:09
+sleep time 15 seconds at 23:49:24
+sleep time 15 seconds at 23:49:39
+sleep time 15 seconds at 23:49:55
+sleep time 15 seconds at 23:50:10
+sleep time 15 seconds at 23:50:25
+sleep time 15 seconds at 23:50:40
+sleep time 15 seconds at 23:50:56
+Session ended at 3-6-24 at 23:51:01
+***

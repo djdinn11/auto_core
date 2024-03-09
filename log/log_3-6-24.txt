@@ -1,0 +1,1728 @@
+Session started 3-6-24 at 11:23:52
+Program ready
+server started on port 8585
+sp_thread started
+wake state change detected at 11:23:52 on 3-6-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 0
+log thread sleeping for 8 seconds at 11:23:52
+refresh_tokens() - tokens refreshed
+vk_code = 108
+spotify_play_pause()
+no active device
+starting Spotify
+activate_spotify()
+vk_code = 108
+spotify_play_pause()
+log thread sleeping for 60 seconds at 11:24:00
+no active device
+starting Spotify
+activate_spotify()
+spotify window found
+spotify window found
+now playing: [Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+log thread sleeping for 60 seconds at 11:25:00
+vk_code = 96
+Function key activated
+vk_code = 102
+activate_discord()
+log thread sleeping for 60 seconds at 11:26:00
+log thread sleeping for 60 seconds at 11:27:00
+log thread sleeping for 60 seconds at 11:28:00
+log thread sleeping for 60 seconds at 11:29:00
+log thread sleeping for 60 seconds at 11:30:00
+log thread sleeping for 60 seconds at 11:31:00
+log thread sleeping for 60 seconds at 11:32:00
+log thread sleeping for 60 seconds at 11:33:00
+log thread sleeping for 60 seconds at 11:34:00
+log thread sleeping for 60 seconds at 11:35:00
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 994
+3-6-24
+
+11:35
+log thread sleeping for 60 seconds at 11:36:01
+log thread sleeping for 59 seconds at 11:37:01
+log thread sleeping for 60 seconds at 11:38:00
+log thread sleeping for 60 seconds at 11:39:00
+log thread sleeping for 60 seconds at 11:40:00
+log thread sleeping for 60 seconds at 11:41:00
+log thread sleeping for 60 seconds at 11:42:00
+log thread sleeping for 60 seconds at 11:43:00
+log thread sleeping for 60 seconds at 11:44:00
+log thread sleeping for 60 seconds at 11:45:00
+log thread sleeping for 60 seconds at 11:46:00
+log thread sleeping for 60 seconds at 11:47:00
+log thread sleeping for 60 seconds at 11:48:00
+log thread sleeping for 60 seconds at 11:49:00
+log thread sleeping for 60 seconds at 11:50:00
+log thread sleeping for 60 seconds at 11:51:00
+log thread sleeping for 60 seconds at 11:52:00
+log thread sleeping for 60 seconds at 11:53:00
+log thread sleeping for 60 seconds at 11:54:00
+log thread sleeping for 60 seconds at 11:55:00
+log thread sleeping for 60 seconds at 11:56:00
+log thread sleeping for 60 seconds at 11:57:00
+log thread sleeping for 60 seconds at 11:58:00
+log thread sleeping for 59 seconds at 11:59:01
+log thread sleeping for 60 seconds at 12:00:00
+log thread sleeping for 60 seconds at 12:01:00
+log thread sleeping for 60 seconds at 12:02:00
+log thread sleeping for 60 seconds at 12:03:00
+log thread sleeping for 60 seconds at 12:04:00
+log thread sleeping for 60 seconds at 12:05:00
+log thread sleeping for 60 seconds at 12:06:00
+log thread sleeping for 60 seconds at 12:07:00
+log thread sleeping for 60 seconds at 12:08:00
+log thread sleeping for 60 seconds at 12:09:00
+log thread sleeping for 60 seconds at 12:10:00
+log thread sleeping for 60 seconds at 12:11:00
+log thread sleeping for 60 seconds at 12:12:00
+log thread sleeping for 60 seconds at 12:13:00
+log thread sleeping for 60 seconds at 12:14:00
+log thread sleeping for 60 seconds at 12:15:00
+log thread sleeping for 60 seconds at 12:16:00
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 995
+3-6-24
+
+12:16
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 1.
+log thread sleeping for 60 seconds at 12:17:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 12:18:00
+log thread sleeping for 60 seconds at 12:19:00
+log thread sleeping for 60 seconds at 12:20:00
+vk_code = 105
+12:20
+log thread sleeping for 60 seconds at 12:21:00
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 0.
+log thread sleeping for 60 seconds at 12:22:01
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 0.
+vk_code = 96
+Function key activated
+vk_code = 109
+set_focus_auto_core()
+Enter number of choices: Jose selects 1.
+log thread sleeping for 59 seconds at 12:23:01
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: Star selects 1.
+log thread sleeping for 60 seconds at 12:24:00
+log thread sleeping for 60 seconds at 12:25:00
+log thread sleeping for 60 seconds at 12:26:00
+log thread sleeping for 60 seconds at 12:27:00
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 2.
+log thread sleeping for 60 seconds at 12:28:00
+log thread sleeping for 60 seconds at 12:29:00
+log thread sleeping for 60 seconds at 12:30:00
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 3.
+log thread sleeping for 60 seconds at 12:31:00
+log thread sleeping for 60 seconds at 12:32:00
+log thread sleeping for 60 seconds at 12:33:00
+log thread sleeping for 60 seconds at 12:34:00
+log thread sleeping for 60 seconds at 12:35:00
+log thread sleeping for 60 seconds at 12:36:00
+log thread sleeping for 60 seconds at 12:37:00
+log thread sleeping for 60 seconds at 12:38:00
+log thread sleeping for 60 seconds at 12:39:00
+log thread sleeping for 60 seconds at 12:40:00
+vk_code = 98
+activate_word()
+vk_code = 105
+12:40
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 3.
+vk_code = 96
+Function key activated
+vk_code = 112
+set_focus_auto_core()
+Enter number of choices: Eric selects 2.
+log thread sleeping for 60 seconds at 12:41:00
+log thread sleeping for 60 seconds at 12:42:00
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 2.
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 1.
+log thread sleeping for 60 seconds at 12:43:00
+log thread sleeping for 60 seconds at 12:44:00
+log thread sleeping for 60 seconds at 12:45:00
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 109
+set_focus_auto_core()
+Enter number of choices: Jose selects 2.
+log thread sleeping for 60 seconds at 12:46:00
+log thread sleeping for 60 seconds at 12:47:00
+log thread sleeping for 60 seconds at 12:48:01
+log thread sleeping for 59 seconds at 12:49:01
+log thread sleeping for 60 seconds at 12:50:00
+log thread sleeping for 60 seconds at 12:51:00
+log thread sleeping for 60 seconds at 12:52:00
+log thread sleeping for 60 seconds at 12:53:00
+log thread sleeping for 60 seconds at 12:54:00
+log thread sleeping for 60 seconds at 12:55:00
+log thread sleeping for 60 seconds at 12:56:00
+log thread sleeping for 60 seconds at 12:57:00
+log thread sleeping for 60 seconds at 12:58:00
+log thread sleeping for 60 seconds at 12:59:00
+log thread sleeping for 60 seconds at 1:00:00
+refresh_tokens() - tokens refreshed
+wake state change detected at 1:13:46 on 3-6-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Device
+    Instance Path: PCI\VEN_8086&DEV_A36D&SUBSYS_12381025&REV_10\3&11583659&0&A0
+    Friendly Name: Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+    Description: USB xHCI Compliant Host Controller
+    Manufacturer: Generic USB xHCI Host Controller
+log thread sleeping for 14 seconds at 1:13:46
+log thread sleeping for 60 seconds at 1:14:00
+log thread sleeping for 60 seconds at 1:15:00
+log thread sleeping for 60 seconds at 1:16:00
+log thread sleeping for 60 seconds at 1:17:00
+log thread sleeping for 60 seconds at 1:18:00
+log thread sleeping for 60 seconds at 1:19:00
+log thread sleeping for 60 seconds at 1:20:00
+log thread sleeping for 60 seconds at 1:21:00
+log thread sleeping for 60 seconds at 1:22:00
+vk_code = 98
+activate_word()
+multiple windows detected
+vk_code = 96
+window selected
+vk_code = 98
+activate_word()
+multiple windows detected
+vk_code = 98
+cycle window
+vk_code = 96
+window selected
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 996
+3-6-24
+
+1:22
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 2.
+log thread sleeping for 60 seconds at 1:23:00
+log thread sleeping for 60 seconds at 1:24:00
+log thread sleeping for 60 seconds at 1:25:00
+log thread sleeping for 60 seconds at 1:26:00
+log thread sleeping for 60 seconds at 1:27:00
+log thread sleeping for 60 seconds at 1:28:00
+log thread sleeping for 60 seconds at 1:29:00
+vk_code = 98
+activate_word()
+multiple windows detected
+vk_code = 96
+window selected
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 997
+3-6-24
+
+1:29
+log thread sleeping for 60 seconds at 1:30:00
+log thread sleeping for 60 seconds at 1:31:00
+log thread sleeping for 60 seconds at 1:32:01
+log thread sleeping for 59 seconds at 1:33:01
+log thread sleeping for 60 seconds at 1:34:00
+log thread sleeping for 60 seconds at 1:35:00
+log thread sleeping for 60 seconds at 1:36:00
+log thread sleeping for 60 seconds at 1:37:00
+log thread sleeping for 60 seconds at 1:38:00
+log thread sleeping for 60 seconds at 1:39:00
+log thread sleeping for 60 seconds at 1:40:00
+log thread sleeping for 60 seconds at 1:41:00
+log thread sleeping for 60 seconds at 1:42:00
+log thread sleeping for 60 seconds at 1:43:00
+log thread sleeping for 60 seconds at 1:44:00
+vk_code = 96
+Function key activated
+vk_code = 102
+activate_discord()
+log thread sleeping for 60 seconds at 1:45:00
+log thread sleeping for 60 seconds at 1:46:00
+log thread sleeping for 60 seconds at 1:47:00
+log thread sleeping for 60 seconds at 1:48:00
+log thread sleeping for 60 seconds at 1:49:00
+log thread sleeping for 60 seconds at 1:50:00
+log thread sleeping for 60 seconds at 1:51:00
+log thread sleeping for 60 seconds at 1:52:00
+log thread sleeping for 60 seconds at 1:53:00
+log thread sleeping for 60 seconds at 1:54:01
+log thread sleeping for 59 seconds at 1:55:01
+log thread sleeping for 60 seconds at 1:56:00
+log thread sleeping for 60 seconds at 1:57:00
+now playing: [No Silence feat. Kuoko - Super Flu Remix] [Mollono.Bass, Super Flu, KUOKO] [Woods, Tales & Friends Remixes - Part Two] [7:17]
+log thread sleeping for 60 seconds at 1:58:00
+log thread sleeping for 60 seconds at 1:59:00
+log thread sleeping for 60 seconds at 2:00:00
+log thread sleeping for 60 seconds at 2:01:00
+log thread sleeping for 60 seconds at 2:02:00
+log thread sleeping for 60 seconds at 2:03:00
+log thread sleeping for 60 seconds at 2:04:00
+log thread sleeping for 60 seconds at 2:05:00
+now playing: [Amphibious] [Matan Caspi, R3cycle] [Amphibious] [9:06]
+log thread sleeping for 60 seconds at 2:06:00
+log thread sleeping for 60 seconds at 2:07:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 2:08:00
+log thread sleeping for 60 seconds at 2:09:00
+log thread sleeping for 60 seconds at 2:10:00
+log thread sleeping for 60 seconds at 2:11:00
+log thread sleeping for 60 seconds at 2:12:00
+log thread sleeping for 60 seconds at 2:13:00
+log thread sleeping for 60 seconds at 2:14:00
+now playing: [Learning To Fly] [Alfa Romero] [1001 Nights EP] [7:22]
+log thread sleeping for 60 seconds at 2:15:00
+log thread sleeping for 60 seconds at 2:16:00
+log thread sleeping for 26 seconds at 2:19:34
+log thread sleeping for 60 seconds at 2:20:00
+log thread sleeping for 60 seconds at 2:21:00
+vk_code = 108
+spotify_play_pause()
+no active device
+spotify window found
+is_spotify_open() == true
+now playing: [Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+log thread sleeping for 60 seconds at 2:22:00
+log thread sleeping for 60 seconds at 2:23:00
+vk_code = 98
+activate_word()
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 998
+3-6-24
+
+2:23
+log thread sleeping for 60 seconds at 2:24:00
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 999
+3-6-24
+
+2:24
+vk_code = 105
+2:24
+log thread sleeping for 60 seconds at 2:25:00
+log thread sleeping for 60 seconds at 2:26:00
+vk_code = 105
+2:26
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Condition Green!] [Wild Arms 2] [Michiko Naruke] [0:35]
+iTunes_thread started
+[Condition Green!] [Wild Arms 2] [Michiko Naruke] [0:35]
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+vk_code = 102
+iTunes_next_song()
+[Anxious Heart] [Final Fantasy 7] [Daniel Wise] [3:53]
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Condition Green!] [Wild Arms 2] [Michiko Naruke] [0:35]
+[Anxious Heart] [Final Fantasy 7] [Daniel Wise] [3:53]
+[Anxious Heart] [Final Fantasy 7] [Daniel Wise] [3:53]
+log thread sleeping for 60 seconds at 2:27:00
+log thread sleeping for 60 seconds at 2:28:00
+log thread sleeping for 60 seconds at 2:29:00
+log thread sleeping for 60 seconds at 2:30:01
+[Rim Elm Rebuilt] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [1:45]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 59 seconds at 2:31:01
+vk_code = 110
+now playing: [Dark Knight] [VNTM] [Dark Knight] [5:38]
+log thread sleeping for 60 seconds at 2:32:00
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 2:33:00
+log thread sleeping for 60 seconds at 2:34:00
+log thread sleeping for 60 seconds at 2:35:00
+log thread sleeping for 60 seconds at 2:36:00
+log thread sleeping for 60 seconds at 2:37:00
+now playing: [Moments Of Clarity - VNTM Remix] [Eelke Kleijn, VNTM] [Moments Of Clarity (The Remixes)] [4:12]
+log thread sleeping for 60 seconds at 2:38:00
+log thread sleeping for 60 seconds at 2:39:00
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+[Casino] [Yasunori Shiono] [Estpolis Denki 2 Prototype] [4:59]
+log thread sleeping for 60 seconds at 2:40:00
+[Casino] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [4:59]
+log thread sleeping for 60 seconds at 2:41:00
+log thread sleeping for 60 seconds at 2:42:00
+log thread sleeping for 60 seconds at 2:43:00
+vk_code = 112
+iTunes_play_pause()
+vk_code = 97
+activate_auto_core()
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 2:44:00
+vk_code = 105
+2:44
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\57 Windmill Hut.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\111 Palm Brinks.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\19b Hyrule Field Battle.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\58 Minuet of Forest.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\144 Dr.Jaming.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\26 Parting.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\11 Scenario Item.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\35 Lost Woods.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\80 Seal of Six Sages.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals
+C:\DJ\Documents\Music\iTunes Media\Music\132 Balance Valley.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\33 Port Town.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\91 Casino Win.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\21 Market.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\40 Great Fairy's Fountain.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\126 Furbits Theme.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\207 Mother.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\202 Heim Rada.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\120 Shop.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ17.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\204 Gundor Volcano.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\16 Legend of Hyrule.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ06.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\92 Casino Lose.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\50 Sheik's Theme.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\219 Paznos' Launch!!.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ15.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\33 Goron City.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ57.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\122 Holy Prayer.psf2
+C:\DJ\ScreenRec_webinstall_all.exe
+C:\DJ\Documents\Music\iTunes Media\Music\215 Moon Flower Palace.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time (MP3).zophar.zip
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\34 Towering Mountain.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\143 Luna Lab.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\103 Prologue.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\48 Battle #3.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\49 Grief.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\09 Small Item Catch.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\139 Veneccio.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ11.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\138 Turning Toward Hope.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\49 Medal Get Fanfare.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\32 Hyrule Field Morning Theme.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\56 Ocarina ~Song of Storms~.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\17 Get Spiritual Stone.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ12.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\39 Big Game.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\54 Escape from Lon Lon Ranch.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\109 It's a show time!!.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals  [Lufia] (MP3).zophar.zip
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\42 Inside Jabu-Jabu's Belly.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\105 Carnival Night.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\20 Kaepora Gaebora's Theme.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\19a Hyrule Field Main Theme.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\44 Watchtowers of the Seal.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\73 Game Over.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\05 House.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\54 Panic.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\206 Gundorada Workshop.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\27 Wedding Bells.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\110 Moonlight Tango.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ10.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\146 Launch!! Space Time Train Ixion.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ14.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\16 Battle #2.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ08.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ04.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\19 Labyrinth.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\102 The Dark Battle.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\01 Time of Judgement.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\82c End Credits C.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\04 Town.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\30 Kakariko Village.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\119 Around the World.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\24 Despair.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\129 Rainbow Butterfly.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ03.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\02 Rumbling.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\38 Slot.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\19c Hyrule Field Waiting.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\61 Fire Temple.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\221 Dark Ruler Emperor Griffon.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\53 Field Motif.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\52 Theme of Daos.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\208 Flame Demon Monster Gaspard.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\81 Ocarina of Time ~Zelda's Ocarina~.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\212 Sun.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\65 Nocturne of Shadow.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0D.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\135 Unfulfilled Wishes.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\35 Azure Ocean.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\07 Open Treasure Box.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\82a End Credits A.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\45 The Island in the Void.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\01 Title Theme.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\22 Shooting Gallery.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\68 Gerudo Valley.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\131 Fish on!!.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\10 Item.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\223 Spiral of Dreams.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\115 Fading Consciousness.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\07 Cave.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\113 Underground Water Channel.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\203 Time of Separation.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\211 Locked Palace.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\117 Menu.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\104 Premonition of Something Going to Happen.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\23 Hyrule Castle Courtyard.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\51 Horse Race.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\66 Prelude of Light.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\108 Secret Conversation.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\124 Rainbow Butterfly Wood.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ13.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\118 Halloween.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\40 Hit!.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\17 Castle.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\37 Middle Boss Battle.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\76 Inside Ganon's Castle.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\34 Ocarina ~Saria's Song~.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\39 Zora's Domain.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\205 Flying Warship Death Ark.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\36 Lexis Shaia Lab.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\217 Premonition.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\44 Temple of Time.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\121 Crazy buggy.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\52 Horse Race Goal.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\78 Escape from Ganon's Castle.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\209 Memories.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\24 Enter Zelda.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\20 Capsule Monster.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\53 Ingo's Theme.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\06 The Earth.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\31 Ocarina ~Sun's Song~.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\75 Ganon's Castle Underground.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\82b End Credits B.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\47 Four Gods.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\37 Casino.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\26 Zelda's Theme.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\142 Fish Race!!.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\36 Dodongo's Cavern.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\141 Ocean Roar Cave.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\41 The Abysmal Depths of the Ocean.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\133 Shifting Windows.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\info.txt
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\15 Get Heart Container.mp3
+C:\DJ\Documents\Genomind-PatientAssistanceForm-060922.pdf
+C:\DJ\Documents\Music\iTunes Media\Music\226 Demon (Dark Cloud Main Theme).psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\71 Kotake & Koume's Theme.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\14 Peace of Mind.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\02 Enter Ganondorf.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\25 The Strongest Man.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\05 Light Slumber.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\45 Open Door of Temple of Time.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\04 Fairy Flying.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\08 Item Catch.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0C.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\72 Meet Zelda Again.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\18 The Greatest Thieves in the World.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\25 Ocarina ~Zelda's Lullaby~.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\15 Village.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\28 After the Ceremony.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\51 Priphea Flowers.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ09.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\216 Garden of Memories.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\22 Door of Journey.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\46 Final Battle.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\225 Zelmite Mines.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\21 Tower.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0F.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\224 Dark Element.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\28 Lon Lon Ranch.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\227 Beyond the Aurora.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\140 Calm Moment Part 2.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\62 Ice Cavern.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\31 Autumn.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\03 Start of the Journey.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\213 Kazarov Stonehenge.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\08 Battle #1.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\23 Shrine.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\77 Ganondorf Battle.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\222 Sad Fate.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\114 The battle.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\14 Boss Clear.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\42 The Quieting World.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\123 Sindain.psf2
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\09 Triumph.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\82d End Credits D.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0A.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\43 To Those of the Azure Skies.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\06 Kokiri Forest.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\30 Summer.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\127 Tree Spirit Jurak.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\74 Ganon's Castle Bridge.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\11 Battle.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\18 Get Fairy Ocarina.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\13 Boss Battle.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\136 Fire Approaches the Lighthouse.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\03 Deku Tree.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\50 To the Future.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\112 At the Station.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ16.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\64 Water Temple.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\55 Kakariko Village Orchestral Version.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\48 Chamber of Sages.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\38 Dinosaur Boss Battle.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\32 Winter.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\12 Inside the Deku Tree.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\134 Starlight Canyon.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0E.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\130 Peace of the world.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\63 Serenade of Water.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\47 Ganondorf's Theme.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\128 Butterfly dance.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ05.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\27 Ocarina ~Epona's Theme~.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\125 Calm Moment.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\210 Ancient Mural.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\29 Mini Game.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\70 Requiem of Spirit.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\69 Spirit Temple.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\43 Ocarina ~Song Of Time~.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\107 Red-haired Girl.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\220 Giant Looming Shadow.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\67 Shadow Temple.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\55 Shock.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\46 Master Sword.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\79 Last Battle.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\214 Flower Garden.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\10 Shop.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\59 Forest Temple.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\147 Battle for the future.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\116 Dim Light.psf2
+C:\DJ\Documents\Music\iTunes Media\Music\137 Stella Magic Temple.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\41 Potion Shop.mp3
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ07.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\106 The circus.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\60 Bolero of Fire.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\13 Comrade.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\218 Unknown History.psf2
+C:\DJ\Documents\Legend of Zelda, The - Ocarina of Time\LOZ0B.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\29 Spring.mp3
+C:\DJ\Documents\Lufia II - Rise of the Sinistrals\12 Skill Item.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\145 Tutorial.psf2
+---Files---
+57 Windmill Hut
+111 Palm Brinks
+19b Hyrule Field Battle
+58 Minuet of Forest
+144 Dr.Jaming
+26 Parting
+11 Scenario Item
+35 Lost Woods
+80 Seal of Six Sages
+132 Balance Valley
+33 Port Town
+91 Casino Win
+21 Market
+40 Great Fairy's Fountain
+126 Furbits Theme
+207 Mother
+202 Heim Rada
+120 Shop
+LOZ17
+204 Gundor Volcano
+16 Legend of Hyrule
+LOZ06
+92 Casino Lose
+50 Sheik's Theme
+219 Paznos' Launch!!
+LOZ15
+33 Goron City
+LOZ57
+122 Holy Prayer
+ScreenRec_webinstall_all
+215 Moon Flower Palace
+34 Towering Mountain
+143 Luna Lab
+103 Prologue
+48 Battle #3
+49 Grief
+09 Small Item Catch
+139 Veneccio
+LOZ11
+138 Turning Toward Hope
+49 Medal Get Fanfare
+32 Hyrule Field Morning Theme
+56 Ocarina ~Song of Storms~
+17 Get Spiritual Stone
+LOZ12
+39 Big Game
+54 Escape from Lon Lon Ranch
+109 It's a show time!!
+42 Inside Jabu-Jabu's Belly
+105 Carnival Night
+20 Kaepora Gaebora's Theme
+19a Hyrule Field Main Theme
+44 Watchtowers of the Seal
+73 Game Over
+05 House
+54 Panic
+206 Gundorada Workshop
+27 Wedding Bells
+110 Moonlight Tango
+LOZ10
+146 Launch!! Space Time Train Ixion
+LOZ14
+16 Battle #2
+LOZ08
+LOZ04
+19 Labyrinth
+102 The Dark Battle
+01 Time of Judgement
+82c End Credits C
+04 Town
+30 Kakariko Village
+119 Around the World
+24 Despair
+129 Rainbow Butterfly
+LOZ03
+02 Rumbling
+38 Slot
+19c Hyrule Field Waiting
+61 Fire Temple
+221 Dark Ruler Emperor Griffon
+53 Field Motif
+52 Theme of Daos
+208 Flame Demon Monster Gaspard
+81 Ocarina of Time ~Zelda's Ocarina~
+212 Sun
+65 Nocturne of Shadow
+LOZ0D
+135 Unfulfilled Wishes
+35 Azure Ocean
+07 Open Treasure Box
+82a End Credits A
+45 The Island in the Void
+01 Title Theme
+22 Shooting Gallery
+68 Gerudo Valley
+131 Fish on!!
+10 Item
+223 Spiral of Dreams
+115 Fading Consciousness
+07 Cave
+113 Underground Water Channel
+203 Time of Separation
+211 Locked Palace
+117 Menu
+104 Premonition of Something Going to Happen
+23 Hyrule Castle Courtyard
+51 Horse Race
+66 Prelude of Light
+108 Secret Conversation
+124 Rainbow Butterfly Wood
+LOZ13
+118 Halloween
+40 Hit!
+17 Castle
+37 Middle Boss Battle
+76 Inside Ganon's Castle
+34 Ocarina ~Saria's Song~
+39 Zora's Domain
+205 Flying Warship Death Ark
+36 Lexis Shaia Lab
+217 Premonition
+44 Temple of Time
+121 Crazy buggy
+52 Horse Race Goal
+78 Escape from Ganon's Castle
+209 Memories
+24 Enter Zelda
+20 Capsule Monster
+53 Ingo's Theme
+06 The Earth
+31 Ocarina ~Sun's Song~
+75 Ganon's Castle Underground
+82b End Credits B
+47 Four Gods
+37 Casino
+26 Zelda's Theme
+142 Fish Race!!
+36 Dodongo's Cavern
+141 Ocean Roar Cave
+41 The Abysmal Depths of the Ocean
+133 Shifting Windows
+info
+15 Get Heart Container
+Genomind-PatientAssistanceForm-060922
+226 Demon (Dark Cloud Main Theme)
+71 Kotake & Koume's Theme
+14 Peace of Mind
+02 Enter Ganondorf
+25 The Strongest Man
+05 Light Slumber
+45 Open Door of Temple of Time
+04 Fairy Flying
+08 Item Catch
+LOZ0C
+72 Meet Zelda Again
+18 The Greatest Thieves in the World
+25 Ocarina ~Zelda's Lullaby~
+15 Village
+28 After the Ceremony
+51 Priphea Flowers
+LOZ09
+216 Garden of Memories
+22 Door of Journey
+46 Final Battle
+225 Zelmite Mines
+21 Tower
+LOZ0F
+224 Dark Element
+28 Lon Lon Ranch
+227 Beyond the Aurora
+140 Calm Moment Part 2
+62 Ice Cavern
+31 Autumn
+03 Start of the Journey
+213 Kazarov Stonehenge
+08 Battle #1
+23 Shrine
+77 Ganondorf Battle
+222 Sad Fate
+114 The battle
+14 Boss Clear
+42 The Quieting World
+123 Sindain
+09 Triumph
+82d End Credits D
+LOZ0A
+43 To Those of the Azure Skies
+06 Kokiri Forest
+30 Summer
+127 Tree Spirit Jurak
+74 Ganon's Castle Bridge
+11 Battle
+18 Get Fairy Ocarina
+13 Boss Battle
+136 Fire Approaches the Lighthouse
+03 Deku Tree
+50 To the Future
+112 At the Station
+LOZ16
+64 Water Temple
+55 Kakariko Village Orchestral Version
+48 Chamber of Sages
+38 Dinosaur Boss Battle
+32 Winter
+12 Inside the Deku Tree
+134 Starlight Canyon
+LOZ0E
+130 Peace of the world
+63 Serenade of Water
+47 Ganondorf's Theme
+128 Butterfly dance
+LOZ05
+27 Ocarina ~Epona's Theme~
+125 Calm Moment
+210 Ancient Mural
+29 Mini Game
+70 Requiem of Spirit
+69 Spirit Temple
+43 Ocarina ~Song Of Time~
+107 Red-haired Girl
+220 Giant Looming Shadow
+67 Shadow Temple
+55 Shock
+46 Master Sword
+79 Last Battle
+214 Flower Garden
+10 Shop
+59 Forest Temple
+147 Battle for the future
+116 Dim Light
+137 Stella Magic Temple
+41 Potion Shop
+LOZ07
+106 The circus
+60 Bolero of Fire
+13 Comrade
+218 Unknown History
+LOZ0B
+29 Spring
+12 Skill Item
+145 Tutorial
+---Folders---
+Lufia II - Rise of the Sinistrals
+Legend of Zelda, The - Ocarina of Time
+---Zip files---
+Legend of Zelda, The - Ocarina of Time (MP3).zophar
+Lufia II - Rise of the Sinistrals  [Lufia] (MP3).zophar
+---Music files---
+[Windmill Hut] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:34]
+[Hyrule Field Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [4:53]
+[Minuet of Forest] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:15]
+[Parting] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:09]
+[Scenario Item] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:06]
+[Lost Woods] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:16]
+[Seal of Six Sages] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:27]
+[Port Town] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:04]
+[Casino Win] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:13]
+[Market] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:34]
+[Great Fairy's Fountain] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:00]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Legend of Hyrule] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:00]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Casino Lose] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:13]
+[Sheik's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:02]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Goron City] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:30]
+[Main Menu (Fairy's Fountain)] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:00]
+[Towering Mountain] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:28]
+[Battle #3] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:22]
+[Grief] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:03]
+[Small Item Catch] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:02]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Medal Get Fanfare] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:12]
+[Hyrule Field Morning Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:31]
+[Ocarina ~Song of Storms~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:04]
+[Get Spiritual Stone] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:15]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Big Game] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:17]
+[Escape from Lon Lon Ranch] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:07]
+[Inside Jabu-Jabu's Belly] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:39]
+[Kaepora Gaebora's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:57]
+[Hyrule Field Main Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [4:53]
+[Watchtowers of the Seal] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:39]
+[Game Over] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:09]
+[House] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:06]
+[Panic] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:10]
+[Wedding Bells] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:24]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Battle #2] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:28]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Labyrinth] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:24]
+[Time of Judgement] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:16]
+[End Credits C] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:08]
+[Town] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:59]
+[Kakariko Village] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:37]
+[Despair] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:02]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Rumbling] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [6:53]
+[Slot] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:09]
+[Hyrule Field Waiting] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [4:53]
+[Fire Temple] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:30]
+[Field Motif] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:36]
+[Theme of Daos] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [4:19]
+[Ocarina of Time ~Zelda's Ocarina~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:31]
+[Nocturne of Shadow] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:20]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Azure Ocean] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:59]
+[Open Treasure Box] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:08]
+[End Credits A] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:44]
+[The Island in the Void] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:04]
+[Title Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:35]
+[Shooting Gallery] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:14]
+[Gerudo Valley] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:56]
+[Item] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:04]
+[Cave] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:31]
+[Hyrule Castle Courtyard] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:57]
+[Horse Race] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:32]
+[Prelude of Light] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:16]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Hit!] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:32]
+[Castle] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:52]
+[Middle Boss Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:13]
+[Inside Ganon's Castle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [6:09]
+[Ocarina ~Saria's Song~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:05]
+[Zora's Domain] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:40]
+[Lexis Shaia Lab] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:15]
+[Temple of Time] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:41]
+[Horse Race Goal] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:03]
+[Escape from Ganon's Castle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:25]
+[Enter Zelda] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:04]
+[Capsule Monster] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:42]
+[Ingo's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:05]
+[The Earth] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:27]
+[Ocarina ~Sun's Song~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:04]
+[Ganon's Castle Underground] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:51]
+[End Credits B] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:34]
+[Four Gods] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:54]
+[Casino] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [4:59]
+[Zelda's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:37]
+[Dodongo's Cavern] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:21]
+[The Abysmal Depths of the Ocean] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:55]
+[Get Heart Container] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:03]
+[Kotake & Koume's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:36]
+[Peace of Mind] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:34]
+[Enter Ganondorf] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:11]
+[The Strongest Man] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:50]
+[Light Slumber] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:07]
+[Open Door of Temple of Time] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Fairy Flying] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:38]
+[Item Catch] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:02]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Meet Zelda Again] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:36]
+[The Greatest Thieves in the World] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:16]
+[Ocarina ~Zelda's Lullaby~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:09]
+[Village] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:28]
+[After the Ceremony] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:24]
+[Priphea Flowers] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [3:45]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Door of Journey] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:00]
+[Final Battle] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:31]
+[Tower] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:06]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Lon Lon Ranch] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [4:28]
+[Ice Cavern] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:22]
+[Autumn] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:00]
+[Start of the Journey] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:38]
+[Battle #1] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:37]
+[Shrine] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:29]
+[Ganondorf Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:26]
+[Boss Clear] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:11]
+[The Quieting World] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [2:04]
+[Triumph] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:24]
+[End Credits D] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:52]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[To Those of the Azure Skies] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:21]
+[Kokiri Forest] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:48]
+[Summer] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [1:36]
+[Ganon's Castle Bridge] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:20]
+[Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:06]
+[Get Fairy Ocarina] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:09]
+[Boss Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:34]
+[Deku Tree] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:05]
+[To the Future] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [5:56]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Water Temple] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [5:22]
+[Kakariko Village Orchestral Version] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:16]
+[Chamber of Sages] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:45]
+[Dinosaur Boss Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:11]
+[Winter] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:55]
+[Inside the Deku Tree] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:41]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Serenade of Water] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:17]
+[Ganondorf's Theme] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:16]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Ocarina ~Epona's Theme~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:07]
+[Mini Game] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:00]
+[Requiem of Spirit] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:22]
+[Spirit Temple] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [4:52]
+[Ocarina ~Song Of Time~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:10]
+[Shadow Temple] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:04]
+[Shock] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:05]
+[Master Sword] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:11]
+[Last Battle] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:50]
+[Shop] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [2:10]
+[Forest Temple] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [3:38]
+[Potion Shop] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:39]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Bolero of Fire] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:19]
+[Comrade] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:09]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:13]
+[Spring] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:50]
+[Skill Item] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [0:04]
+
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 1000
+3-6-24
+
+2:44
+vk_code = 98
+activate_word()
+log thread sleeping for 60 seconds at 2:45:00
+vk_code = 102
+iTunes_next_song()
+[Fortress Clear] [Super Mario World] [Koji Kondo] [0:10]
+[Talking with Melzas 2] [Alundra] [Ray Wise] [0:18]
+[Dramatic 3] [Alundra] [Luna Wise] [0:19]
+log thread sleeping for 60 seconds at 2:46:00
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 2:47:00
+log thread sleeping for 60 seconds at 2:48:00
+log thread sleeping for 60 seconds at 2:49:00
+log thread sleeping for 60 seconds at 2:50:00
+vk_code = 112
+iTunes_play_pause()
+vk_code = 102
+iTunes_next_song()
+[Dixie Clear (Boss Bossanova)] [Donkey Kong Country 2] [Dave Wise] [0:19]
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+File moved to the recycle bin: C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Dixie Clear (Boss Bossanova).mp3
+vk_code = 112
+iTunes_play_pause()
+[Player Down (Krook's March)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+File moved to the recycle bin: C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Player Down (Krook's March).mp3
+vk_code = 112
+iTunes_play_pause()
+[Ancient Dragon's Fort] [Chrono Cross] [Yasunori Mitsuda] [4:04]
+log thread sleeping for 60 seconds at 2:51:00
+log thread sleeping for 60 seconds at 2:52:00
+log thread sleeping for 60 seconds at 2:53:01
+log thread sleeping for 59 seconds at 2:54:01
+[Secret of the Forest] [Chrono Trigger] [OST] [4:34]
+vk_code = 101
+print_next_up_song_list()
+[MALLDIRECTORYEVENTS]
+[About UsDirectionsLeasingParkingMovie ListingsAround Paterson]
+[HomeTwitterFacebook]
+[]
+[]
+[Mall Hours]
+[MON - THU]
+[10am - 9:30pm]
+[]
+[FRI - SAT]
+[10am - 10pm]
+[]
+[SUNDAY]
+[11am - 7pm]
+[]
+[For further information, refer to Mall Directory. Restaurant and theater hours may vary.]
+[The Ultimate Entertainment Experience: Best Games in Online Casino]
+[When it comes to the world of online casinos, there is an impressive array of games to choose from. Whether you are a fan of classic table games, thrilling slots, or engaging live dealer experiences, https://montycasinos.com/casino-games/is the ultimate destination for all types of best casino games. This platform offers a diverse collection of games that cater to every player's preferences and desires.]
+[]
+[At MontyCasinos.com, you will find popular casino games such as blackjack, roulette, poker, baccarat, and more. These games are designed with high-quality graphics, immersive sound effects, and intuitive gameplay to provide an authentic and thrilling casino experience. Whether you are a seasoned player or a beginner, there is a game for everyone to enjoy.]
+[]
+[One of the highlights of MontyCasinos.com is their extensive selection of online slots. These best online slots are packed with exciting themes, captivating visuals, and rewarding bonus features. From classic fruit machines to modern video slots, there is a slot game to suit every taste. The link to MontyCasinos will lead you to a treasure trove of top-rated slot games with incredible payouts and endless entertainment.]
+[]
+[Best online slots are the heart and soul of the online casino gaming world. These thrilling games offer endless excitement and the opportunity to win big. If you're looking for the ultimate slot experience, look no further than Parhaat-Netti-Kasinot This website is dedicated to providing players with a curated selection of the best online slots available.]
+[]
+[At Parhaat-Netti-Kasinot.com, you'll find a wide variety of slot games to suit every taste and preference. From classic fruit machines to modern video slots with immersive themes and stunning graphics, there is something for everyone. Whether you're a fan of high volatility slots that offer the chance for massive wins or prefer low volatility games with frequent payouts, this platform has got you covered.]
+[]
+[What sets the best online slots apart is not only their visual appeal but also the exciting bonus features they offer. From free spins and multipliers to interactive bonus rounds, these features enhance the gameplay and increase your chances of hitting a big win. The link to https://parhaat-netti-kasinot.com/parhaat-kolikkopelit/ will take you to a world of thrilling slot games that combine stunning visuals with rewarding bonus features.]
+[]
+[The best online slots are developed by renowned software providers who are known for their innovation and quality. These games are designed to be fair, random, and offer a high return to player (RTP) percentage. With captivating sound effects, smooth animations, and seamless gameplay, these slots provide an immersive gaming experience that keeps players coming back for more. So, if you're ready to spin the reels and embark on a thrilling slot adventure, visit Parhaat-Netti-Kasinot.com to discover the best online slots in the industry.]
+[]
+[Experience the thrill of playing free casino slot machines without registration in Austria at Online-Casino-Austria.com. This platform offers a fantastic selection of slot games that you can enjoy without the need to create an account or provide any personal information. It's the perfect opportunity to try out different slot titles and discover your favorites without any obligations.]
+[]
+[The free slot machines at https://online-casino-austria.com/spiele/spielautomaten/gratis/a designed to provide you with endless entertainment. You can enjoy a wide range of slot games with various themes, features, and paylines. From classic fruit machines to modern video slots, there is something for every type of player. Whether you're a novice or an experienced slot enthusiast, these free games allow you to sharpen your skills and have fun at your own pace.]
+[]
+[Playing free casino slot machines without registration is not only convenient but also allows you to explore the different gameplay mechanics and bonus features of each game. You can test different strategies, adjust your betting preferences, and get a feel for the overall mechanics before deciding to play for real money. The link to Online-Casino-Austria will lead you to a world of exciting free slot machines, where fun and entertainment are just a click away.]
+[]
+[Don't miss out on the opportunity to enjoy free casino slot machines without registration in Austria. Visit Online-Casino-Austria.com and immerse yourself in a vast collection of thrilling slot games. Whether you're in the mood for adventure, fantasy, or classic themes, there's a slot game that suits your preferences. Start spinning the reels today and experience the excitement of playing free slots with no registration required.]
+[]
+[Wednesday    Buy Tickets Now]
+[General Admission (after 4PM): Adults $10.25 Children & Seniors $7.50 Students (13+ w/ valid ID) $9.00]
+[3D Movies: All 3D movies are an additional $3.00]
+[Discount Pricing: Morning shows before 12PM - $6.00 Matinee shows before 4PM: Adults $8.25 Children & Seniors $6.50]
+[Tuesdays: All tickets are $7.00 for all shows, except for new releases and holidays]
+[Free Validated Parking w/ ticket purchase subject to mall rules and regulations]
+[A Quiet Place Part II]
+[Horror, Thriller (Rated PG-13)]
+[Duration: 1 Hr 37 Mins]
+[Thriller]
+[Advance Show @7:00 Thurs]
+[Following the events at home, the Abbott family now face…]
+[Read more...]
+[Bloodshot]
+[Action, Drama, Sci-Fi (Rated PG-13)]
+[Duration: 1 Hr 49 Mins]
+[Action]
+[12:45 1:40 3:30 4:20 6:10 7:00 8:50 9:45]
+[Ray Garrison, a slain soldier, is re-animated with superpowers.]
+[Read more...]
+[The Hunt]
+[Action, Horror, Thriller (Rated R)]
+[Duration: 1 Hr 29 Mins]
+[Action]
+[12:30 1:20 2:40 3:40 5:00 6:00 7:15 8:30 9:45]
+[Twelve strangers wake up in a clearing. They don't know…]
+[Read more...]
+[Onward]
+[Animation, Adventure, Comedy (Rated PG)]
+[Duration: 1 Hr 42 Mins]
+[Adventure]
+[2D: 1:30 3:15 4:15 6:00 7:00 9:00 9:40]
+[3D: 12:30 8:40]
+[Set in a suburban fantasy world, two teenage elf brothers…]
+[Read more...]
+[The Invisible Man]
+[Horror, Mystery, Sci-Fi (Rated R)]
+[Duration: 2 Hr 4 Mins]
+[Horror]
+[1:15 4:10 7:10 9:50]
+[When Cecilia's abusive ex takes his own life and leaves…]
+[Read more...]
+[Sonic the Hedgehog]
+[Action, Adventure, Family (Rated PG)]
+[Duration: 1 Hr 39 Mins]
+[Action]
+[12:50 3:40 6:30 9:00]
+[After discovering a small, blue, fast hedgehog, a small-town police…]
+[Read more...]
+[Mall Location]
+[]
+[301 Main Street]
+[Paterson, New Jersey 07505]
+[]
+[]
+[ContactTerms of UsePrivacy Policy]
+[About UsDirectionsLeasingParkingMovie ListingsAround Paterson]
+[HomeTwitterFacebook]
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Anxious Heart] [Final Fantasy 7] [Daniel Wise] [3:53]
+[Rim Elm Rebuilt] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [1:45]
+[Casino] [Yasunori Shiono] [Estpolis Denki 2 Prototype] [4:59]
+[Casino] [Lufia 2] [Yasunori Shiono - Estpolis Denki 2 Prototype] [4:59]
+[Fortress Clear] [Super Mario World] [Koji Kondo] [0:10]
+[Talking with Melzas 2] [Alundra] [Ray Wise] [0:18]
+[Dramatic 3] [Alundra] [Luna Wise] [0:19]
+[Dixie Clear (Boss Bossanova)] [Donkey Kong Country 2] [Dave Wise] [0:19]
+[Player Down (Krook's March)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+[Ancient Dragon's Fort] [Chrono Cross] [Yasunori Mitsuda] [4:04]
+[Secret of the Forest] [Chrono Trigger] [OST] [4:34]
+[Secret of the Forest] [Chrono Trigger] [OST] [4:34]
+log thread sleeping for 60 seconds at 2:55:00
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Player Down (Krook's March).mp3
+C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Dixie Clear (Boss Bossanova).mp3
+---Files---
+Player Down (Krook's March)
+Dixie Clear (Boss Bossanova)
+---Music files---
+[Player Down (Krook's March)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+[Dixie Clear (Boss Bossanova)] [Donkey Kong Country 2] [Dave Wise] [0:19]
+
+log thread sleeping for 60 seconds at 2:56:00
+log thread sleeping for 60 seconds at 2:57:00
+log thread sleeping for 60 seconds at 2:58:00
+[Leaving the Body] [Chrono Cross] [Yasunori Mitsuda] [3:53]
+log thread sleeping for 60 seconds at 2:59:00
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 3:00:00
+vk_code = 101
+print_next_up_song_list()
+[You will hear a loud banging noise]
+[when the camera is taking pictures of your brain.]
+log thread sleeping for 60 seconds at 3:01:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 3:02:00
+[Dungeon - Ruins Type 1] [Wild Arms 2] [Michiko Naruke] [2:11]
+log thread sleeping for 60 seconds at 3:03:00
+log thread sleeping for 60 seconds at 3:04:00
+log thread sleeping for 60 seconds at 3:05:00
+[Lost Woods] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:16]
+log thread sleeping for 60 seconds at 3:06:00
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+vk_code = 102
+iTunes_next_song()
+[Dungeon - Type 2] [Wild Arms 2] [Michiko Naruke] [1:43]
+log thread sleeping for 60 seconds at 3:07:00
+vk_code = 99
+activate_iTunes()
+vk_code = 102
+iTunes_next_song()
+[The Prelude] [Final Fantasy 6] [Tabby Wise] [2:43]
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 3:08:00
+log thread sleeping for 60 seconds at 3:09:00
+vk_code = 101
+print_next_up_song_list()
+[Grand Finale (part 2)] [Final Fantasy 6] [Tabby Wise] [3:05]
+[Tifa's Theme] [Final Fantasy 7] [Daniel Wise] [5:00]
+[Tyran Castle] [Chrono Trigger] [OST] [3:45]
+[Deep Dungeon] [Final Fantasy Tactics] [Jose Wise] [3:47]
+[Lab 16's Ruin] [Chrono Trigger] [OST] [1:23]
+[Land of Dwarves] [Final Fantasy 4] [Eric Wise] [1:50]
+[Another Termina] [Chrono Cross] [Yasunori Mitsuda] [2:53]
+[Great Fairy's Fountain] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:00]
+[Dark Madonna] [Wild Arms] [Michiko Naruke] [1:49]
+[Talking with Melzas 1] [Alundra] [Ray Wise] [0:18]
+[Epilogue] [Final Fantasy Tactics] [Jose Wise] [1:09]
+[Slide Show Part 1] [Final Fantasy 8] [Lily Wise] [1:33]
+[The Stronghold Surfaces] [Wild Arms 2] [Michiko Naruke] [1:35]
+[Fighting] [Final Fantasy Tactics] [Jose Wise] [1:36]
+[Stage Clear (Bayou Boogie)] [Donkey Kong Country 2] [Dave Wise] [0:04]
+[Dungeon - Battle Preparations] [Wild Arms 2] [Michiko Naruke] [1:37]
+[Count's Anger] [Final Fantasy Tactics] [Star Wise] [2:47]
+[Resistance Line (extended version)] [Kahori Asou] [Wild ARMS: 2nd Ignition OST] [4:05]
+[The Wedding Waltz-Duel (part 4)] [Final Fantasy 6] [Tabby Wise] [1:37]
+[I Want to Protect Papa] [Alundra 2] [Luna Wise] [2:48]
+[Grand Finale (part 2)] [Final Fantasy 6] [Tabby Wise] [3:05]
+log thread sleeping for 60 seconds at 3:10:00
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Secret of the Forest] [Chrono Trigger] [OST] [4:34]
+[Leaving the Body] [Chrono Cross] [Yasunori Mitsuda] [3:53]
+[Dungeon - Ruins Type 1] [Wild Arms 2] [Michiko Naruke] [2:11]
+[Lost Woods] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [1:16]
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+[Dungeon - Type 2] [Wild Arms 2] [Michiko Naruke] [1:43]
+[The Prelude] [Final Fantasy 6] [Tabby Wise] [2:43]
+[Grand Finale (part 2)] [Final Fantasy 6] [Tabby Wise] [3:05]
+[Grand Finale (part 2)] [Final Fantasy 6] [Tabby Wise] [3:05]
+vk_code = 102
+iTunes_next_song()
+[Tifa's Theme] [Final Fantasy 7] [Daniel Wise] [5:00]
+log thread sleeping for 60 seconds at 3:11:00
+log thread sleeping for 60 seconds at 3:12:00
+vk_code = 96
+Function key activated
+vk_code = 100
+activate_chrome()
+log thread sleeping for 60 seconds at 3:13:00
+log thread sleeping for 60 seconds at 3:14:01
+log thread sleeping for 59 seconds at 3:15:01
+[Tyran Castle] [Chrono Trigger] [OST] [3:45]
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 3:16:00
+log thread sleeping for 60 seconds at 3:17:00
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 3:18:00
+vk_code = 98
+activate_word()
+vk_code = 105
+3:18
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Grand Finale (part 2)] [Final Fantasy 6] [Tabby Wise] [3:05]
+[Tifa's Theme] [Final Fantasy 7] [Daniel Wise] [5:00]
+[Tyran Castle] [Chrono Trigger] [OST] [3:45]
+[Tyran Castle] [Chrono Trigger] [OST] [3:45]
+vk_code = 105
+3:18
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 1001
+3-6-24
+
+3:18
+log thread sleeping for 60 seconds at 3:19:00
+vk_code = 110
+post_next_or_prev() - Error: Status Code 404 - {
+  "error" : {
+    "status" : 404,
+    "message" : "Player command failed: No active device found",
+    "reason" : "NO_ACTIVE_DEVICE"
+  }
+}
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+[Tyran Castle] [Chrono Trigger] [OST] [3:45]
+log thread sleeping for 60 seconds at 3:20:00
+[Deep Dungeon] [Final Fantasy Tactics] [Jose Wise] [3:47]
+log thread sleeping for 60 seconds at 3:21:00
+log thread sleeping for 60 seconds at 3:22:00
+log thread sleeping for 60 seconds at 3:23:00
+log thread sleeping for 60 seconds at 3:24:00
+[Lab 16's Ruin] [Chrono Trigger] [OST] [1:23]
+log thread sleeping for 60 seconds at 3:25:00
+log thread sleeping for 60 seconds at 3:26:00
+[Land of Dwarves] [Final Fantasy 4] [Eric Wise] [1:50]
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 3:27:00
+log thread sleeping for 60 seconds at 3:28:00
+log thread sleeping for 60 seconds at 3:29:00
+vk_code = 105
+3:29
+log thread sleeping for 60 seconds at 3:30:00
+log thread sleeping for 60 seconds at 3:31:00
+log thread sleeping for 60 seconds at 3:32:00
+log thread sleeping for 60 seconds at 3:33:00
+log thread sleeping for 60 seconds at 3:34:00
+log thread sleeping for 60 seconds at 3:35:00
+log thread sleeping for 59 seconds at 3:36:01
+log thread sleeping for 60 seconds at 3:37:00
+log thread sleeping for 60 seconds at 3:38:00
+log thread sleeping for 60 seconds at 3:39:00
+log thread sleeping for 60 seconds at 3:40:00
+log thread sleeping for 60 seconds at 3:41:00
+log thread sleeping for 60 seconds at 3:42:00
+log thread sleeping for 60 seconds at 3:43:00
+log thread sleeping for 60 seconds at 3:44:00
+log thread sleeping for 60 seconds at 3:45:00
+log thread sleeping for 60 seconds at 3:46:00
+log thread sleeping for 60 seconds at 3:47:00
+log thread sleeping for 60 seconds at 3:48:00
+log thread sleeping for 60 seconds at 3:49:00
+log thread sleeping for 60 seconds at 3:50:00
+log thread sleeping for 60 seconds at 3:51:00
+log thread sleeping for 60 seconds at 3:52:00
+log thread sleeping for 60 seconds at 3:53:00
+log thread sleeping for 60 seconds at 3:54:00
+log thread sleeping for 60 seconds at 3:55:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 3:56:00
+log thread sleeping for 60 seconds at 3:57:00
+log thread sleeping for 60 seconds at 3:58:00
+log thread sleeping for 60 seconds at 3:59:00
+log thread sleeping for 60 seconds at 4:00:00
+log thread sleeping for 60 seconds at 4:01:01
+vk_code = 105
+4:01
+log thread sleeping for 59 seconds at 4:02:01
+log thread sleeping for 60 seconds at 4:03:00
+log thread sleeping for 60 seconds at 4:04:00
+log thread sleeping for 60 seconds at 4:05:00
+log thread sleeping for 60 seconds at 4:06:00
+log thread sleeping for 60 seconds at 4:07:00
+log thread sleeping for 60 seconds at 4:08:00
+log thread sleeping for 60 seconds at 4:09:00
+log thread sleeping for 60 seconds at 4:10:00
+log thread sleeping for 60 seconds at 4:11:00
+log thread sleeping for 60 seconds at 4:12:00
+refresh_tokens() - tokens refreshed
+wake state change detected at 5:38:32 on 3-6-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Wake Timer
+    Owner: [SERVICE] \Device\HarddiskVolume3\Windows\System32\svchost.exe (SystemEventsBroker)
+    Owner Supplied Reason: Windows will execute 'NT TASK\HP\HP Print Scan Doctor\Printer Health Monitor' scheduled task that requested waking the computer.
+log thread sleeping for 28 seconds at 5:38:32
+log thread sleeping for 60 seconds at 5:39:00
+log thread sleeping for 60 seconds at 5:40:00
+log thread sleeping for 60 seconds at 5:41:00
+log thread sleeping for 60 seconds at 5:42:00
+log thread sleeping for 60 seconds at 5:43:00
+log thread sleeping for 60 seconds at 5:44:00
+log thread sleeping for 60 seconds at 5:45:01
+log thread sleeping for 59 seconds at 5:46:01
+log thread sleeping for 60 seconds at 5:47:00
+log thread sleeping for 60 seconds at 5:48:00
+log thread sleeping for 60 seconds at 5:49:00
+log thread sleeping for 60 seconds at 5:50:00
+log thread sleeping for 60 seconds at 5:51:00
+log thread sleeping for 60 seconds at 5:52:00
+wake state change detected at 6:53:44 on 3-6-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Device
+    Instance Path: PCI\VEN_8086&DEV_A36D&SUBSYS_12381025&REV_10\3&11583659&0&A0
+    Friendly Name: Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+    Description: USB xHCI Compliant Host Controller
+    Manufacturer: Generic USB xHCI Host Controller
+log thread sleeping for 16 seconds at 6:53:44
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 6:54:00
+log thread sleeping for 60 seconds at 6:55:00
+log thread sleeping for 60 seconds at 6:56:00
+log thread sleeping for 60 seconds at 6:57:00
+log thread sleeping for 60 seconds at 6:58:00
+log thread sleeping for 60 seconds at 6:59:00
+log thread sleeping for 60 seconds at 7:00:00
+log thread sleeping for 60 seconds at 7:01:00
+log thread sleeping for 60 seconds at 7:02:00
+log thread sleeping for 59 seconds at 7:03:01
+log thread sleeping for 60 seconds at 7:04:00
+log thread sleeping for 60 seconds at 7:05:00
+log thread sleeping for 60 seconds at 7:06:00
+log thread sleeping for 60 seconds at 7:07:00
+log thread sleeping for 60 seconds at 7:08:00
+log thread sleeping for 60 seconds at 7:09:00
+log thread sleeping for 60 seconds at 7:10:00
+log thread sleeping for 60 seconds at 7:11:00
+log thread sleeping for 60 seconds at 7:12:00
+log thread sleeping for 60 seconds at 7:13:00
+log thread sleeping for 60 seconds at 7:14:00
+log thread sleeping for 60 seconds at 7:15:00
+log thread sleeping for 60 seconds at 7:16:00
+log thread sleeping for 60 seconds at 7:17:00
+log thread sleeping for 60 seconds at 7:18:00
+log thread sleeping for 60 seconds at 7:19:00
+log thread sleeping for 60 seconds at 7:20:00
+log thread sleeping for 60 seconds at 7:21:00
+log thread sleeping for 60 seconds at 7:22:00
+log thread sleeping for 60 seconds at 7:23:01
+log thread sleeping for 59 seconds at 7:24:01
+log thread sleeping for 60 seconds at 7:25:00
+log thread sleeping for 60 seconds at 7:26:00
+log thread sleeping for 60 seconds at 7:27:00
+log thread sleeping for 60 seconds at 7:28:00
+log thread sleeping for 60 seconds at 7:29:00
+log thread sleeping for 60 seconds at 7:30:00
+log thread sleeping for 60 seconds at 7:31:00
+log thread sleeping for 60 seconds at 7:32:00
+log thread sleeping for 60 seconds at 7:33:00
+log thread sleeping for 60 seconds at 7:34:00
+log thread sleeping for 60 seconds at 7:35:00
+log thread sleeping for 60 seconds at 7:36:00
+log thread sleeping for 60 seconds at 7:37:00
+log thread sleeping for 60 seconds at 7:38:00
+log thread sleeping for 60 seconds at 7:39:00
+log thread sleeping for 60 seconds at 7:40:00
+log thread sleeping for 60 seconds at 7:41:00
+log thread sleeping for 60 seconds at 7:42:00
+log thread sleeping for 60 seconds at 7:43:00
+log thread sleeping for 60 seconds at 7:44:00
+log thread sleeping for 60 seconds at 7:45:00
+log thread sleeping for 60 seconds at 7:46:01
+log thread sleeping for 59 seconds at 7:47:01
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 7:48:00
+log thread sleeping for 60 seconds at 7:49:00
+log thread sleeping for 60 seconds at 7:50:00
+log thread sleeping for 60 seconds at 7:51:00
+log thread sleeping for 60 seconds at 7:52:00
+log thread sleeping for 60 seconds at 7:53:00
+log thread sleeping for 60 seconds at 7:54:00
+log thread sleeping for 60 seconds at 7:55:00
+log thread sleeping for 60 seconds at 7:56:00
+log thread sleeping for 60 seconds at 7:57:00
+log thread sleeping for 60 seconds at 7:58:00
+log thread sleeping for 60 seconds at 7:59:00
+log thread sleeping for 60 seconds at 8:00:00
+log thread sleeping for 60 seconds at 8:01:00
+vk_code = 105
+8:01
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 2.
+log thread sleeping for 60 seconds at 8:02:00
+log thread sleeping for 60 seconds at 8:03:00
+log thread sleeping for 60 seconds at 8:04:00
+log thread sleeping for 60 seconds at 8:05:00
+log thread sleeping for 60 seconds at 8:06:00
+log thread sleeping for 60 seconds at 8:07:00
+log thread sleeping for 60 seconds at 8:08:00
+log thread sleeping for 60 seconds at 8:09:01
+log thread sleeping for 59 seconds at 8:10:01
+log thread sleeping for 60 seconds at 8:11:00
+log thread sleeping for 60 seconds at 8:12:00
+log thread sleeping for 60 seconds at 8:13:00
+log thread sleeping for 60 seconds at 8:14:00
+log thread sleeping for 60 seconds at 8:15:00
+log thread sleeping for 60 seconds at 8:16:00
+log thread sleeping for 60 seconds at 8:17:00
+log thread sleeping for 60 seconds at 8:18:00
+log thread sleeping for 60 seconds at 8:19:00
+log thread sleeping for 60 seconds at 8:20:00
+log thread sleeping for 60 seconds at 8:21:00
+log thread sleeping for 60 seconds at 8:22:00
+log thread sleeping for 60 seconds at 8:23:00
+log thread sleeping for 60 seconds at 8:24:00
+log thread sleeping for 60 seconds at 8:25:00
+log thread sleeping for 60 seconds at 8:26:00
+log thread sleeping for 60 seconds at 8:27:00
+log thread sleeping for 60 seconds at 8:28:00
+log thread sleeping for 60 seconds at 8:29:00
+log thread sleeping for 60 seconds at 8:30:00
+vk_code = 98
+activate_word()
+refresh_tokens() - tokens refreshed
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 1002
+3-6-24
+
+23:12
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 2.
+log thread sleeping for 18 seconds at 23:12:42
+log thread sleeping for 60 seconds at 23:13:00
+log thread sleeping for 60 seconds at 23:14:00
+log thread sleeping for 60 seconds at 23:15:00
+log thread sleeping for 60 seconds at 23:16:00
+log thread sleeping for 60 seconds at 23:17:00
+log thread sleeping for 60 seconds at 23:18:00
+log thread sleeping for 60 seconds at 23:19:00
+log thread sleeping for 60 seconds at 23:20:00
+log thread sleeping for 60 seconds at 23:21:00
+log thread sleeping for 60 seconds at 23:22:00
+log thread sleeping for 60 seconds at 23:23:00
+vk_code = 108
+spotify_play_pause()
+no active device
+spotify window found
+is_spotify_open() == true
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+now playing: [Good Old Days] [Woo York, Michael Mayo] [X] [7:31]
+vk_code = 108
+spotify_play_pause()
+play_song() == 204
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+vk_code = 104
+print_spotify_songs()
+[Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+[No Silence feat. Kuoko - Super Flu Remix] [Mollono.Bass, Super Flu, KUOKO] [Woods, Tales & Friends Remixes - Part Two] [7:17]
+[Amphibious] [Matan Caspi, R3cycle] [Amphibious] [9:06]
+[Learning To Fly] [Alfa Romero] [1001 Nights EP] [7:22]
+[Yemoja] [Matan Caspi, E'sh] [Yemoja] [7:38]
+[Dark Knight] [VNTM] [Dark Knight] [5:38]
+[Moments Of Clarity - VNTM Remix] [Eelke Kleijn, VNTM] [Moments Of Clarity (The Remixes)] [4:12]
+[Good Old Days] [Woo York, Michael Mayo] [X] [7:31]
+log thread sleeping for 60 seconds at 23:24:00
+log thread sleeping for 60 seconds at 23:25:00
+log thread sleeping for 60 seconds at 23:26:00
+log thread sleeping for 60 seconds at 23:27:00
+now playing: [Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+log thread sleeping for 60 seconds at 23:28:00
+log thread sleeping for 60 seconds at 23:29:00
+log thread sleeping for 60 seconds at 23:30:01
+vk_code = 106
+get_user_sp_queue()
+[Moving - Jonas Saalbach Remix (Mixed)] [Max von Sternberg, Jonas Saalbach] [Paradise Mixed (DJ Mix)] [4:51]
+[Perfect in a Way - Casper Cole Remix] [Booka Shade, Kaktus Einarsson, Casper Cole] [Perfect in a Way] [7:41]
+[Halos] [Hollt] [Halos] [6:51]
+[Second Surface] [Jonas Saalbach] [Second Surface] [6:48]
+[Circus] [Who Else, Zagitar] [Circus] [7:26]
+[Minimalism] [Woo York] [Echoes From Beyond] [5:41]
+[Nautique] [Budakid, Jonas Saalbach] [Nautique] [3:36]
+[Paloma] [Woo York] [Unity Pt. 2] [6:31]
+[Domuyo - Jonas Saalbach Remix - Mixed] [Clawz SG, Jonas Saalbach] [Proton Sessions 001 (DJ Mix)] [4:07]
+[You Shine] [Giorgia Angiuli] [You Shine Ep] [6:43]
+[Timeless Ghosts] [Several Definitions, Ed Begley] [Timeless Ghosts] [7:37]
+[Magna Terram] [Township Rebellion] [Memorial] [8:25]
+[Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+[What We Think - Lunar Plane Remix] [Giorgia Angiuli, Teenage Mutants, Lunar Plane] [What We Think The Remixes Part One] [6:16]
+[Sender] [Patrice Bäumel] [Transmission EP] [6:42]
+[Acstatic] [Jonas Saalbach] [Headlights] [4:25]
+[Walls] [Tone Depth, GROJ] [Walls] [4:12]
+[Take Me Away] [Jonas Saalbach, Guzy] [Take Me Away] [4:00]
+[Nothing to Lose - Oliver Koletzki Remix] [Giorgia Angiuli, Oliver Koletzki] [In a Pink Bubble Remixed] [6:51]
+[Shibuya Crossing] [Jonas Saalbach] [Reminiscence] [3:47]
+[Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+vk_code = 104
+print_spotify_songs()
+[Mind Groove] [Jonas Saalbach, Budakid] [The Feathers' Eyes, Vol. 1] [8:32]
+log thread sleeping for 59 seconds at 23:31:01
+log thread sleeping for 60 seconds at 23:32:00
+log thread sleeping for 60 seconds at 23:33:00
+log thread sleeping for 60 seconds at 23:34:00
+log thread sleeping for 60 seconds at 23:35:00
+log thread sleeping for 60 seconds at 23:36:00
+now playing: [Moving - Jonas Saalbach Remix (Mixed)] [Max von Sternberg, Jonas Saalbach] [Paradise Mixed (DJ Mix)] [4:51]
+log thread sleeping for 60 seconds at 23:37:00
+log thread sleeping for 60 seconds at 23:38:00
+log thread sleeping for 60 seconds at 23:39:00
+log thread sleeping for 60 seconds at 23:40:00
+log thread sleeping for 60 seconds at 23:41:00
+now playing: [Perfect in a Way - Casper Cole Remix] [Booka Shade, Kaktus Einarsson, Casper Cole] [Perfect in a Way] [7:41]
+log thread sleeping for 60 seconds at 23:42:00
+log thread sleeping for 60 seconds at 23:43:00
+log thread sleeping for 60 seconds at 23:44:00
+log thread sleeping for 60 seconds at 23:45:00
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+log thread sleeping for 60 seconds at 23:46:00
+log thread sleeping for 60 seconds at 23:47:00
+log thread sleeping for 60 seconds at 23:48:00
+now playing: [Halos] [Hollt] [Halos] [6:51]
+log thread sleeping for 60 seconds at 23:49:00
+log thread sleeping for 60 seconds at 23:50:00
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 1003
+3-6-24
+
+23:50
+log thread sleeping for 60 seconds at 23:51:01
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-6-24 at 23:51:01
+***

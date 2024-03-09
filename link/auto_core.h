@@ -9,12 +9,14 @@
 #include <itunes_t.h>
 #include <keyboard.h>
 #include <logger.h>
+#include <logger_c.h>
 #include <main.h>
 #include <numkey.h>
 #include <server.h>
+#include <slash.h>
+#include <slash_i.h>
 #include <sp_thread.h>
 #include <spotify.h>
-#include <slash.h>
 #include <star.h>
 #include <taskbar.h>
 #include <taskbar_11.h>

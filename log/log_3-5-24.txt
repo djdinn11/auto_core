@@ -1,0 +1,1451 @@
+Session started 3-5-24 at 11:59:09
+server started on port 8585
+Program ready
+sp_thread started
+wake state change detected at 11:59:09 on 3-5-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 0
+log thread sleeping for 51 seconds at 11:59:09
+refresh_tokens() - tokens refreshed
+vk_code = 96
+Function key activated
+vk_code = 96
+Function key deactivated
+vk_code = 96
+Function key activated
+vk_code = 102
+activate_discord()
+log thread sleeping for 60 seconds at 12:00:00
+log thread sleeping for 60 seconds at 12:01:00
+log thread sleeping for 60 seconds at 12:02:00
+log thread sleeping for 60 seconds at 12:03:00
+log thread sleeping for 60 seconds at 12:04:00
+log thread sleeping for 60 seconds at 12:05:00
+log thread sleeping for 60 seconds at 12:06:00
+log thread sleeping for 60 seconds at 12:07:00
+log thread sleeping for 60 seconds at 12:08:00
+log thread sleeping for 60 seconds at 12:09:00
+log thread sleeping for 60 seconds at 12:10:00
+log thread sleeping for 60 seconds at 12:11:00
+log thread sleeping for 60 seconds at 12:12:00
+log thread sleeping for 60 seconds at 12:13:00
+log thread sleeping for 60 seconds at 12:14:00
+log thread sleeping for 60 seconds at 12:15:00
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 987
+3-5-24
+
+12:15
+log thread sleeping for 60 seconds at 12:16:00
+vk_code = 105
+12:16
+log thread sleeping for 60 seconds at 12:17:01
+log thread sleeping for 59 seconds at 12:18:01
+log thread sleeping for 60 seconds at 12:19:00
+log thread sleeping for 60 seconds at 12:20:00
+vk_code = 98
+activate_word()
+log thread sleeping for 60 seconds at 12:21:00
+vk_code = 105
+12:21
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 2.
+log thread sleeping for 60 seconds at 12:22:00
+log thread sleeping for 60 seconds at 12:23:00
+log thread sleeping for 60 seconds at 12:24:00
+log thread sleeping for 60 seconds at 12:25:00
+log thread sleeping for 60 seconds at 12:26:00
+vk_code = 105
+12:26
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 988
+3-5-24
+
+12:26
+log thread sleeping for 60 seconds at 12:27:00
+vk_code = 105
+12:27
+vk_code = 105
+12:27
+vk_code = 105
+12:27
+log thread sleeping for 60 seconds at 12:28:00
+log thread sleeping for 60 seconds at 12:29:00
+vk_code = 105
+12:29
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 0.
+vk_code = 96
+Function key activated
+vk_code = 111
+set_focus_auto_core()
+Enter number of choices: Eric selects 5.
+log thread sleeping for 60 seconds at 12:30:00
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 4.
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 5.
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: Star selects 3.
+vk_code = 96
+Function key activated
+vk_code = 112
+set_focus_auto_core()
+Enter number of choices: Katrina selects 2.
+log thread sleeping for 60 seconds at 12:31:00
+vk_code = 105
+12:31
+log thread sleeping for 60 seconds at 12:32:00
+vk_code = 112
+iTunes_play_pause()
+iTunes_thread started
+vk_code = 99
+activate_iTunes()
+vk_code = 112
+iTunes_play_pause()
+[Cold Darkness] [Wild Arms] [Michiko Naruke] [1:31]
+vk_code = 102
+iTunes_next_song()
+[Valeria Château] [Wild Arms 2] [Michiko Naruke] [1:38]
+vk_code = 105
+12:32
+vk_code = 105
+12:32
+vk_code = 105
+12:32
+log thread sleeping for 60 seconds at 12:33:00
+vk_code = 101
+print_next_up_song_list()
+[Character Making] [Final Fantasy Tactics] [Star Wise] [1:45]
+[DJ00_00_01] [Time Stalkers] [Katrina Wise] [0:19]
+[Forested Temple] [Final Fantasy 7] [Daniel Wise] [3:34]
+[Stage Clear (Jib Jig)] [Donkey Kong Country 2] [Dave Wise] [0:04]
+[Thunder God Cid] [Final Fantasy Tactics] [Jose Wise] [1:51]
+[The Airship] [Final Fantasy 4] [Eric Wise] [0:55]
+[Odeka ke Chocobo] [Final Fantasy 8] [Lily Wise] [1:21]
+[Stage Clear (Disco Train)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+[Courage and Pride] [Chrono Trigger] [OST] [3:20]
+[Time Vortex] [Chrono Trigger] [OST] [4:04]
+[Dungeon - Ruins Type 1] [Wild Arms 2] [Michiko Naruke] [2:11]
+[Timber Owls] [Final Fantasy 8] [Lily Wise] [2:58]
+[Excitement 1] [Alundra] [Luna Wise] [1:22]
+[Backborn Story] [Final Fantasy Tactics] [Star Wise] [1:34]
+[Bowser Defeated] [Super Mario World] [Koji Kondo] [0:09]
+[Hummingway's Tune] [Final Fantasy 4] [Eric Wise] [0:05]
+[Julia] [Final Fantasy 8] [Lily Wise] [1:19]
+[Enemy Attack] [Final Fantasy Tactics] [Jose Wise] [1:38]
+[Win!] [Wild Arms] [Michiko Naruke] [0:22]
+[The Genesis Tree] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [1:39]
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Cold Darkness] [Wild Arms] [Michiko Naruke] [1:31]
+[Valeria Château] [Wild Arms 2] [Michiko Naruke] [1:38]
+[Valeria Château] [Wild Arms 2] [Michiko Naruke] [1:38]
+[Character Making] [Final Fantasy Tactics] [Star Wise] [1:45]
+log thread sleeping for 60 seconds at 12:34:00
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Valeria Château] [Wild Arms 2] [Michiko Naruke] [1:38]
+[Character Making] [Final Fantasy Tactics] [Star Wise] [1:45]
+[Character Making] [Final Fantasy Tactics] [Star Wise] [1:45]
+vk_code = 102
+iTunes_next_song()
+vk_code = 112
+iTunes_play_pause()
+[Church] [Time Stalkers] [Katrina Wise] [3:01]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 102
+iTunes_next_song()
+[Cosmo Canyon] [Final Fantasy 7] [Daniel Wise] [3:26]
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 12:35:00
+log thread sleeping for 60 seconds at 12:36:00
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 12:37:00
+log thread sleeping for 60 seconds at 12:38:00
+log thread sleeping for 60 seconds at 12:39:00
+log thread sleeping for 60 seconds at 12:40:00
+log thread sleeping for 60 seconds at 12:41:00
+log thread sleeping for 59 seconds at 12:42:01
+vk_code = 112
+iTunes_play_pause()
+vk_code = 105
+12:42
+log thread sleeping for 60 seconds at 12:43:00
+vk_code = 105
+12:43
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 989
+3-5-24
+
+12:43
+log thread sleeping for 60 seconds at 12:44:00
+vk_code = 105
+12:44
+vk_code = 105
+12:44
+vk_code = 105
+12:44
+[Ocarina ~Song Of Time~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:10]
+vk_code = 97
+activate_auto_core()
+vk_code = 99
+activate_iTunes()
+vk_code = 97
+activate_auto_core()
+vk_code = 98
+activate_word()
+[Lavos' Theme] [Chrono Trigger] [OST] [1:29]
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 990
+3-5-24
+
+12:44
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Character Making] [Final Fantasy Tactics] [Star Wise] [1:45]
+[Church] [Time Stalkers] [Katrina Wise] [3:01]
+[Cosmo Canyon] [Final Fantasy 7] [Daniel Wise] [3:26]
+[Ocarina ~Song Of Time~] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:10]
+[Lavos' Theme] [Chrono Trigger] [OST] [1:29]
+[Lavos' Theme] [Chrono Trigger] [OST] [1:29]
+log thread sleeping for 60 seconds at 12:45:00
+log thread sleeping for 60 seconds at 12:46:00
+[Snakey Chantey] [Donkey Kong Country 2] [Dave Wise] [1:35]
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 12:47:00
+vk_code = 102
+iTunes_next_song()
+[Chemical Plant Zone] [Sonic the Hedgehog 2] [Star Wise] [2:01]
+vk_code = 97
+activate_auto_core()
+vk_code = 98
+activate_word()
+vk_code = 105
+12:47
+vk_code = 105
+12:47
+log thread sleeping for 60 seconds at 12:48:00
+vk_code = 102
+iTunes_next_song()
+[Cryptic Mood] [Final Fantasy Tactics] [Star Wise] [1:50]
+log thread sleeping for 60 seconds at 12:49:00
+log thread sleeping for 60 seconds at 12:50:00
+[Ending Theme] [Sonic the Hedgehog 2] [Star Wise] [1:13]
+vk_code = 102
+iTunes_next_song()
+[Overture (part 3)] [Final Fantasy 6] [Tabby Wise] [2:15]
+vk_code = 96
+Function key activated
+vk_code = 96
+Function key deactivated
+log thread sleeping for 60 seconds at 12:51:00
+log thread sleeping for 60 seconds at 12:52:00
+vk_code = 105
+12:52
+[Agitation to Destruction] [Wild Arms] [Michiko Naruke] [1:27]
+log thread sleeping for 60 seconds at 12:53:00
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Lavos' Theme] [Chrono Trigger] [OST] [1:29]
+[Snakey Chantey] [Donkey Kong Country 2] [Dave Wise] [1:35]
+[Chemical Plant Zone] [Sonic the Hedgehog 2] [Star Wise] [2:01]
+[Cryptic Mood] [Final Fantasy Tactics] [Star Wise] [1:50]
+[Ending Theme] [Sonic the Hedgehog 2] [Star Wise] [1:13]
+[Overture (part 3)] [Final Fantasy 6] [Tabby Wise] [2:15]
+[Agitation to Destruction] [Wild Arms] [Michiko Naruke] [1:27]
+[Agitation to Destruction] [Wild Arms] [Michiko Naruke] [1:27]
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 12:54:00
+[Under the Stars] [Final Fantasy Tactics] [Star Wise] [3:05]
+log thread sleeping for 60 seconds at 12:55:00
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+now playing: [Black Mountain - Jonas Saalbach Remix] [Budakid, Jonas Saalbach] [Black Mountain] [7:41]
+log thread sleeping for 60 seconds at 12:56:00
+vk_code = 105
+12:56
+log thread sleeping for 60 seconds at 12:57:00
+[Never Look Back] [Final Fantasy 8] [Lily Wise] [3:20]
+log thread sleeping for 60 seconds at 12:58:00
+vk_code = 106
+get_user_sp_queue()
+[Jenora] [Jonas Saalbach] [Headlights] [6:31]
+[Magna Terram] [Township Rebellion] [Memorial] [8:25]
+[Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+[What We Think - Lunar Plane Remix] [Giorgia Angiuli, Teenage Mutants, Lunar Plane] [What We Think The Remixes Part One] [6:16]
+[Sender] [Patrice Bäumel] [Transmission EP] [6:42]
+[Nihal - Original Mix] [D-Formation, Sean & Dee] [Beatfreak Madrid, Mixed & Compiled by D-Formation] [7:05]
+[Call - Original Mix] [Stil & Bense, Ally] [Call EP] [6:43]
+[Walls] [Tone Depth, GROJ] [Walls] [4:12]
+[Take Me Away] [Jonas Saalbach, Guzy] [Take Me Away] [4:00]
+[Corso] [BOg] [Corso / Juno 99] [7:30]
+[Cramp] [Edone] [Cramp] [7:02]
+[I Go, I Go - Undercatt Remix] [Booka Shade, Kaktus Einarsson, Undercatt] [I Go, I Go (Undercatt Remix)] [7:46]
+[Bird Vision] [Township Rebellion, Kellerkind] [15 Years Stil vor Talent, Part 1] [6:36]
+[Romeo] [Township Rebellion] [Balance] [7:48]
+[Life (Tone Depth Remix)] [Joris Voorn, Tone Depth] [Four (Remixes Deluxe)] [4:02]
+[Receiver] [Patrice Bäumel] [Transmission EP] [6:39]
+[Infinite Meadow] [Township Rebellion] [Rituals] [7:51]
+[Silent Summer] [Budakid] [Silent Summer / Story Of Tokay] [6:25]
+[Odisey - Original Mix] [D-Formation, Rick Pier O'Neil] [This Is Beatfreak] [7:48]
+[Black Mountain - Jonas Saalbach Remix] [Budakid, Jonas Saalbach] [Black Mountain] [7:41]
+log thread sleeping for 60 seconds at 12:59:00
+vk_code = 102
+iTunes_next_song()
+[Forest Interlude] [Donkey Kong Country 2] [Dave Andrew Wise] [4:33]
+log thread sleeping for 60 seconds at 1:00:00
+log thread sleeping for 60 seconds at 1:01:00
+log thread sleeping for 60 seconds at 1:02:00
+vk_code = 105
+1:02
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: Daniel selects 1.
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: Star selects 3.
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 0.
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 4.
+log thread sleeping for 60 seconds at 1:03:00
+log thread sleeping for 60 seconds at 1:04:00
+[Overture (part 1)] [Final Fantasy 6] [Tabby Wise] [1:44]
+vk_code = 99
+activate_iTunes()
+vk_code = 97
+activate_auto_core()
+vk_code = 98
+activate_word()
+vk_code = 96
+Function key activated
+vk_code = 100
+activate_chrome()
+log thread sleeping for 60 seconds at 1:05:00
+log thread sleeping for 60 seconds at 1:06:00
+[Village of the Elw] [Wild Arms] [Michiko Naruke] [1:28]
+log thread sleeping for 60 seconds at 1:07:01
+vk_code = 99
+activate_iTunes()
+[Player Down (Snakey Chantey)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+[Dragon God] [Chrono Cross] [Yasunori Mitsuda] [3:31]
+log thread sleeping for 59 seconds at 1:08:01
+vk_code = 105
+1:08
+log thread sleeping for 60 seconds at 1:09:00
+vk_code = 105
+1:09
+log thread sleeping for 60 seconds at 1:10:00
+vk_code = 98
+activate_word()
+vk_code = 105
+1:10
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Agitation to Destruction] [Wild Arms] [Michiko Naruke] [1:27]
+[Under the Stars] [Final Fantasy Tactics] [Star Wise] [3:05]
+[Never Look Back] [Final Fantasy 8] [Lily Wise] [3:20]
+[Forest Interlude] [Donkey Kong Country 2] [Dave Andrew Wise] [4:33]
+[Overture (part 1)] [Final Fantasy 6] [Tabby Wise] [1:44]
+[Village of the Elw] [Wild Arms] [Michiko Naruke] [1:28]
+[Player Down (Snakey Chantey)] [Donkey Kong Country 2] [Dave Wise] [0:05]
+[Dragon God] [Chrono Cross] [Yasunori Mitsuda] [3:31]
+[Dragon God] [Chrono Cross] [Yasunori Mitsuda] [3:31]
+vk_code = 105
+1:10
+log thread sleeping for 60 seconds at 1:11:00
+[Operation ARMS's Theme] [Wild Arms 2] [Michiko Naruke] [1:37]
+log thread sleeping for 60 seconds at 1:12:00
+[Demon Doll] [Alundra 2] [Luna Wise] [3:26]
+log thread sleeping for 60 seconds at 1:13:00
+log thread sleeping for 60 seconds at 1:14:00
+log thread sleeping for 60 seconds at 1:15:00
+vk_code = 102
+iTunes_next_song()
+[Lockjaw's Saga] [Donkey Kong Country 2] [Dave Wise] [1:52]
+log thread sleeping for 60 seconds at 1:16:00
+log thread sleeping for 60 seconds at 1:17:00
+[Shinra Explodes] [Final Fantasy 7] [Daniel Wise] [0:21]
+log thread sleeping for 60 seconds at 1:18:00
+[Vanilla Capital] [Alundra 2] [Luna Wise] [3:38]
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 1:18:15
+***
+Session started 3-5-24 at 1:18:38
+sp_thread started
+server started on port 8585
+Program ready
+log thread sleeping for 22 seconds at 1:18:38
+iTunes_thread started
+[Vanilla Capital] [Alundra 2] [Luna Wise] [3:38]
+vk_code = 102
+iTunes_next_song()
+[Under Martial Law] [Final Fantasy 6] [Tabby Wise] [2:19]
+log thread sleeping for 60 seconds at 1:19:00
+vk_code = 96
+Function key activated
+vk_code = 103
+activate_folder()
+log thread sleeping for 60 seconds at 1:20:00
+[Rat-a-Tat-Tat It's... Mitsuda] [Chrono Trigger] [OST] [0:05]
+log thread sleeping for 60 seconds at 1:21:00
+[The Fire Path] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [4:09]
+log thread sleeping for 60 seconds at 1:22:00
+log thread sleeping for 60 seconds at 1:23:00
+vk_code = 102
+iTunes_next_song()
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Vanilla Capital] [Alundra 2] [Luna Wise] [3:38]
+[Under Martial Law] [Final Fantasy 6] [Tabby Wise] [2:19]
+[Rat-a-Tat-Tat It's... Mitsuda] [Chrono Trigger] [OST] [0:05]
+[The Fire Path] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [4:09]
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+vk_code = 102
+iTunes_next_song()
+[Diddy Clear (Forest Interlude)] [Donkey Kong Country 2] [Dave Wise] [0:24]
+vk_code = 102
+iTunes_next_song()
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+log thread sleeping for 60 seconds at 1:24:00
+[Win!] [Wild Arms] [Michiko Naruke] [0:22]
+[Athletic (Hurry Yoshi)] [Super Mario World] [Koji Kondo] [1:14]
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+vk_code = 98
+activate_word()
+vk_code = 105
+1:24
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Unused - Track 92 (Wing Fortress)] [Sonic the Hedgehog] [Beta Zero] [1:48]
+[Diddy Clear (Forest Interlude)] [Donkey Kong Country 2] [Dave Wise] [0:24]
+[Hyrule Field] [The Legend of Zelda: Ocarina of Time ] [Koji Kondo] [0:14]
+[Win!] [Wild Arms] [Michiko Naruke] [0:22]
+[Athletic (Hurry Yoshi)] [Super Mario World] [Koji Kondo] [1:14]
+[Athletic (Hurry Yoshi)] [Super Mario World] [Koji Kondo] [1:14]
+log thread sleeping for 60 seconds at 1:25:00
+[Screaming World] [Wild Arms] [Michiko Naruke] [1:26]
+log thread sleeping for 60 seconds at 1:26:00
+vk_code = 105
+1:26
+log thread sleeping for 60 seconds at 1:27:00
+vk_code = 105
+1:27
+[Warrior's Hideout] [Final Fantasy Tactics] [Jose Wise] [1:46]
+vk_code = 105
+1:27
+vk_code = 96
+Function key activated
+vk_code = 112
+set_focus_auto_core()
+Enter number of choices: Katrina selects 2.
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 1:28:00
+vk_code = 98
+activate_word()
+[Black Omen] [Chrono Trigger] [OST] [2:56]
+log thread sleeping for 60 seconds at 1:29:00
+log thread sleeping for 60 seconds at 1:30:00
+log thread sleeping for 60 seconds at 1:31:00
+[Used by a User] [Wild Arms 2] [Michiko Naruke] [0:59]
+log thread sleeping for 60 seconds at 1:32:00
+vk_code = 102
+iTunes_next_song()
+[Antipyretic] [Final Fantasy Tactics] [Jose Wise] [3:42]
+log thread sleeping for 60 seconds at 1:33:00
+vk_code = 105
+1:33
+log thread sleeping for 60 seconds at 1:34:00
+vk_code = 102
+iTunes_next_song()
+iTunes error with V_BSTR in get_track_info
+[8 Arranged Tracks] [] [Wild ARMS: 2nd Ignition OST] [16:00]
+iTunes error with V_BSTR in get_track_info
+iTunes error with V_BSTR in get_track_info
+iTunes error with V_BSTR in get_track_info
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: iTunes error with V_BSTR in get_track_info
+Daniel selects 3.
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: Star selects 0.
+vk_code = 109
+sp_switch_player()
+iTunes error with V_BSTR in get_track_info
+no active device
+spotify window found
+is_spotify_open() == true
+vk_code = 108
+spotify_play_pause()
+iTunes error with V_BSTR in get_track_info
+is_spotify_playing() == true
+vk_code = 102
+iTunes_next_song()
+[Game Over] [Super Mario World] [Koji Kondo] [0:07]
+vk_code = 96
+Function key activated
+vk_code = 109
+set_focus_auto_core()
+Enter number of choices: Jose selects 3.
+now playing: [Black Mountain - Jonas Saalbach Remix] [Budakid, Jonas Saalbach] [Black Mountain] [7:41]
+vk_code = 96
+Function key activated
+[Waltz de Chocobo] [Final Fantasy 7] [Daniel Wise] [0:32]
+vk_code = 111
+set_focus_auto_core()
+Enter number of choices: Eric selects 1.
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: Lily selects 3.
+log thread sleeping for 60 seconds at 1:35:01
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: Luna selects 1.
+[Bitter Return] [Wild Arms 2] [Michiko Naruke] [1:36]
+vk_code = 102
+iTunes_next_song()
+[Who Changed Me into a Jellyfish Like This] [Lundra 2 ~The Mystery of Machinevolution~] [Ray Wise] [1:37]
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 59 seconds at 1:36:01
+vk_code = 112
+iTunes_play_pause()
+vk_code = 102
+iTunes_next_song()
+[The Salt Flats] [Final Fantasy 8] [Lily Wise] [3:24]
+vk_code = 102
+iTunes_next_song()
+[Final Battle Theme] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [2:11]
+log thread sleeping for 60 seconds at 1:37:00
+vk_code = 102
+iTunes_next_song()
+[Breath of Lavos] [Chrono Trigger] [OST] [0:18]
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 1:38:00
+vk_code = 112
+iTunes_play_pause()
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+vk_code = 102
+iTunes_next_song()
+[Last Battle] [Chrono Trigger] [OST] [3:37]
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 1:39:00
+log thread sleeping for 60 seconds at 1:40:00
+vk_code = 103
+print_gpt_message()
+set_focus_auto_core()
+get_gpt_message()
+format_dash_prompt: Star, Rune, Nova, Sol, Ray
+Luna, Dune, Dinn, Ace, Acer
+Iso, Iser, Iris, Tide, Tile
+Ryle, Rel, Lehi, Nune, Revi
+Rye, Ryu, Reva, Ryla, Riya
+Leila, Reya, Rela, Reia, Rei
+Lei, Cei, Ria, Leia, Lela, Ri
+Enter the number:
+1 for GPT-5
+2 for GPT-4.5
+3 for Star, Rune, Nova, Sol, Ray, Luna, Dune, Dinn, Ace, Acer, Iso, Iser, Iris, Tide, Tile, Ryle, Rel, Lehi, Nune, Revi, Rye, Ryu, Reva, Ryla, Riya, Leila, Reya, Rela, Reia, Rei, Lei, Cei, Ria, Leia, Lela, Ri
+4 for GPT-4
+5 for dash
+6 for GPT-5
+> log thread sleeping for 60 seconds at 1:41:00
+1
+Hi GPT-5, this is DJ. I am building a C++ project named Auto Core for Windows 11 systems.
+vk_code = 102
+iTunes_next_song()
+[Inclination of the Rabbit] [Time Stalkers] [Katrina Wise] [2:17]
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+vk_code = 112
+iTunes_play_pause()
+vk_code = 108
+spotify_play_pause()
+play_song() == 204
+vk_code = 102
+iTunes_next_song()
+[Koru Battle Theme 2] [Legend of Legaia] [Michiru Oshima, Kohei Tanaka] [3:54]
+log thread sleeping for 60 seconds at 1:42:00
+vk_code = 110
+now playing: [Jenora] [Jonas Saalbach] [Headlights] [6:31]
+log thread sleeping for 60 seconds at 1:43:00
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+vk_code = 110
+now playing: [Magna Terram] [Township Rebellion] [Memorial] [8:25]
+log thread sleeping for 60 seconds at 1:44:00
+log thread sleeping for 60 seconds at 1:45:00
+log thread sleeping for 60 seconds at 1:46:00
+log thread sleeping for 60 seconds at 1:47:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 1:48:00
+log thread sleeping for 60 seconds at 1:49:00
+log thread sleeping for 60 seconds at 1:50:00
+vk_code = 105
+1:50
+log thread sleeping for 60 seconds at 1:51:00
+log thread sleeping for 60 seconds at 1:52:00
+now playing: [Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+log thread sleeping for 60 seconds at 1:53:00
+log thread sleeping for 60 seconds at 1:54:00
+log thread sleeping for 60 seconds at 1:55:00
+[Locke] [Final Fantasy 6] [Tabby Wise] [1:56]
+log thread sleeping for 60 seconds at 1:56:00
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 1:57:00
+log thread sleeping for 60 seconds at 1:58:00
+now playing: [What We Think - Lunar Plane Remix] [Giorgia Angiuli, Teenage Mutants, Lunar Plane] [What We Think The Remixes Part One] [6:16]
+log thread sleeping for 60 seconds at 1:59:01
+log thread sleeping for 59 seconds at 2:00:01
+log thread sleeping for 60 seconds at 2:01:00
+log thread sleeping for 60 seconds at 2:02:00
+log thread sleeping for 60 seconds at 2:03:00
+log thread sleeping for 60 seconds at 2:04:00
+log thread sleeping for 60 seconds at 2:05:00
+now playing: [Sender] [Patrice Bäumel] [Transmission EP] [6:42]
+log thread sleeping for 60 seconds at 2:06:00
+log thread sleeping for 60 seconds at 2:07:00
+log thread sleeping for 60 seconds at 2:08:00
+log thread sleeping for 60 seconds at 2:09:00
+log thread sleeping for 60 seconds at 2:10:00
+vk_code = 102
+iTunes_next_song()
+[Fabul] [Final Fantasy 4] [Eric Wise] [2:01]
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+vk_code = 102
+iTunes_next_song()
+[Ancient Shrine] [Wild Arms] [Michiko Naruke] [1:01]
+vk_code = 110
+now playing: [Nihal - Original Mix] [D-Formation, Sean & Dee] [Beatfreak Madrid, Mixed & Compiled by D-Formation] [7:05]
+log thread sleeping for 60 seconds at 2:11:00
+log thread sleeping for 60 seconds at 2:12:00
+log thread sleeping for 60 seconds at 2:13:00
+log thread sleeping for 60 seconds at 2:14:00
+log thread sleeping for 60 seconds at 2:15:00
+log thread sleeping for 60 seconds at 2:16:00
+log thread sleeping for 60 seconds at 2:17:00
+vk_code = 99
+activate_iTunes()
+vk_code = 99
+activate_iTunes()
+now playing: [Call - Original Mix] [Stil & Bense, Ally] [Call EP] [6:43]
+log thread sleeping for 60 seconds at 2:18:00
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 2:19:00
+log thread sleeping for 60 seconds at 2:20:00
+log thread sleeping for 60 seconds at 2:21:00
+log thread sleeping for 60 seconds at 2:22:00
+log thread sleeping for 60 seconds at 2:23:00
+log thread sleeping for 60 seconds at 2:24:00
+now playing: [Walls] [Tone Depth, GROJ] [Walls] [4:12]
+log thread sleeping for 59 seconds at 2:25:01
+log thread sleeping for 60 seconds at 2:26:00
+log thread sleeping for 60 seconds at 2:27:00
+log thread sleeping for 60 seconds at 2:28:00
+now playing: [Take Me Away] [Jonas Saalbach, Guzy] [Take Me Away] [4:00]
+log thread sleeping for 60 seconds at 2:29:00
+log thread sleeping for 60 seconds at 2:30:00
+log thread sleeping for 60 seconds at 2:31:00
+log thread sleeping for 60 seconds at 2:32:00
+now playing: [Corso] [BOg] [Corso / Juno 99] [7:30]
+log thread sleeping for 60 seconds at 2:33:00
+log thread sleeping for 60 seconds at 2:34:00
+log thread sleeping for 60 seconds at 2:35:00
+log thread sleeping for 60 seconds at 2:36:00
+log thread sleeping for 60 seconds at 2:37:00
+log thread sleeping for 60 seconds at 2:38:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 2:38:24
+***
+Session started 3-5-24 at 2:38:31
+server started on port 8585
+sp_thread started
+Program ready
+log thread sleeping for 29 seconds at 2:38:31
+iTunes_thread started
+[Ancient Shrine] [Wild Arms] [Michiko Naruke] [1:01]
+now playing: [Corso] [BOg] [Corso / Juno 99] [7:30]
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 991
+3-5-24
+
+2:38
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+
+
+log thread sleeping for 60 seconds at 2:39:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 2:39:03
+***
+Session started 3-5-24 at 2:39:04
+sp_thread startedserver started on port 8585
+
+Program ready
+log thread sleeping for 56 seconds at 2:39:04
+iTunes_thread started
+[Ancient Shrine] [Wild Arms] [Michiko Naruke] [1:01]
+now playing: [Corso] [BOg] [Corso / Juno 99] [7:30]
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 2:39:05
+***
+Session started 3-5-24 at 2:39:11
+server started on port 8585
+Program ready
+sp_thread started
+log thread sleeping for 49 seconds at 2:39:11
+iTunes_thread started
+[Ancient Shrine] [Wild Arms] [Michiko Naruke] [1:01]
+now playing: [Corso] [BOg] [Corso / Juno 99] [7:30]
+vk_code = 98
+activate_word()
+multiple windows detected
+vk_code = 98
+cycle window
+vk_code = 97
+window selected
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Genomind-PatientAssistanceForm-060922.pdf
+---Files---
+Genomind-PatientAssistanceForm-060922
+
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+
+
+log thread sleeping for 60 seconds at 2:40:00
+now playing: [Cramp] [Edone] [Cramp] [7:02]
+log thread sleeping for 60 seconds at 2:41:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 2:42:00
+log thread sleeping for 60 seconds at 2:43:00
+vk_code = 103
+print_gpt_message()
+set_focus_auto_core()
+get_gpt_message()
+format_dash_prompt: Star, Rune, Nova, Sol, Ray
+Luna, Dune, Dinn, Ace, Acer
+Iso, Iser, Iris, Tide, Tile
+Ryle, Rel, Lehi, Nune, Revi
+Rye, Ryu, Reva, Ryla, Riya
+Leila, Reya, Rela, Reia, Rei
+Lei, Cei, Ria, Leia, Lela, Ri
+Enter the number:
+1 for GPT-5
+2 for GPT-4.5
+3 for Star, Rune, Nova, Sol, Ray, Luna, Dune, Dinn, Ace, Acer, Iso, Iser, Iris, Tide, Tile, Ryle, Rel, Lehi, Nune, Revi, Rye, Ryu, Reva, Ryla, Riya, Leila, Reya, Rela, Reia, Rei, Lei, Cei, Ria, Leia, Lela, Ri
+4 for GPT-4
+5 for dash
+6 for GPT-5
+> 1
+Hi GPT-5, this is DJ. I am building a C++ project named Auto Core for Windows 11 systems.
+log thread sleeping for 60 seconds at 2:44:00
+log thread sleeping for 60 seconds at 2:45:00
+log thread sleeping for 60 seconds at 2:46:00
+log thread sleeping for 60 seconds at 2:47:00
+now playing: [I Go, I Go - Undercatt Remix] [Booka Shade, Kaktus Einarsson, Undercatt] [I Go, I Go (Undercatt Remix)] [7:46]
+log thread sleeping for 60 seconds at 2:48:00
+log thread sleeping for 60 seconds at 2:49:00
+log thread sleeping for 60 seconds at 2:50:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 2:50:53
+***
+Session started 3-5-24 at 2:51:07
+Program ready
+sp_thread startedserver started on port 8585
+
+log thread sleeping for 53 seconds at 2:51:07
+iTunes_thread started
+[Ancient Shrine] [Wild Arms] [Michiko Naruke] [1:01]
+now playing: [I Go, I Go - Undercatt Remix] [Booka Shade, Kaktus Einarsson, Undercatt] [I Go, I Go (Undercatt Remix)] [7:46]
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+vk_code = 112
+iTunes_play_pause()
+[Lose] [Donkey Kong Country 2] [Dave Wise] [0:04]
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+log thread sleeping for 60 seconds at 2:52:00
+vk_code = 112
+iTunes_play_pause()
+[Game Over] [Alundra] [Luna Wise] [1:22]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Lose.mp3
+C:\DJ\Documents\Music\iTunes Media\Music\Alundra\Luna Wise\Game Over.mp3
+---Files---
+Lose
+Game Over
+---Music files---
+[Lose] [Donkey Kong Country 2] [Dave Wise] [0:04]
+[Game Over] [Alundra] [Luna Wise] [1:22]
+
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+
+
+vk_code = 108
+spotify_play_pause()
+play_song() == 204
+log thread sleeping for 60 seconds at 2:53:00
+log thread sleeping for 60 seconds at 2:54:00
+log thread sleeping for 60 seconds at 2:55:00
+log thread sleeping for 60 seconds at 2:56:00
+now playing: [Bird Vision] [Township Rebellion, Kellerkind] [15 Years Stil vor Talent, Part 1] [6:36]
+log thread sleeping for 60 seconds at 2:57:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 2:57:43
+***
+Session started 3-5-24 at 2:57:51
+server started on port 8585
+sp_thread started
+Program ready
+log thread sleeping for 9 seconds at 2:57:51
+now playing: [Bird Vision] [Township Rebellion, Kellerkind] [15 Years Stil vor Talent, Part 1] [6:36]
+iTunes_thread started
+log thread sleeping for 60 seconds at 2:58:00
+vk_code = 105
+2:58
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+
+
+vk_code = 99
+activate_iTunes()
+vk_code = 112
+iTunes_play_pause()
+[Fighting - version 2] [Final Fantasy Tactics] [Jose Wise] [2:23]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+vk_code = 112
+iTunes_play_pause()
+[Player Down (Lockjaw's Saga)] [Donkey Kong Country 2] [Dave Wise] [0:06]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+File moved to the recycle bin: C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Player Down (Lockjaw's Saga).mp3
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Documents\Music\iTunes Media\Music\Donkey Kong Country 2\Dave Wise\Player Down (Lockjaw's Saga).mp3
+---Files---
+Player Down (Lockjaw's Saga)
+---Music files---
+[Player Down (Lockjaw's Saga)] [Donkey Kong Country 2] [Dave Wise] [0:06]
+
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+log thread sleeping for 60 seconds at 2:59:00
+log thread sleeping for 60 seconds at 3:00:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 3:00:08
+***
+Session started 3-5-24 at 3:00:19
+sp_thread started
+server started on port 8585Program ready
+
+log thread sleeping for 41 seconds at 3:00:19
+now playing: [Bird Vision] [Township Rebellion, Kellerkind] [15 Years Stil vor Talent, Part 1] [6:36]
+iTunes_thread started
+vk_code = 99
+activate_iTunes()
+vk_code = 98
+activate_word()
+vk_code = 97
+activate_auto_core()
+vk_code = 112
+iTunes_play_pause()
+[Fade Out!] [Super Mario World] [Koji Kondo] [0:02]
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+vk_code = 112
+iTunes_play_pause()
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+File moved to the recycle bin: C:\DJ\Documents\Music\iTunes Media\Music\Super Mario World\Koji Kondo\Fade Out!.mp3
+vk_code = 96
+Function key activated
+vk_code = 111
+remove_iTunes_song()
+vk_code = 111
+retrieve_and_delete_recycle_bin()
+Recycle bin contents:
+C:\DJ\Documents\Music\iTunes Media\Music\Super Mario World\Koji Kondo\Fade Out!.mp3
+---Files---
+Fade Out!
+---Music files---
+[Fade Out!] [Super Mario World] [Koji Kondo] [0:02]
+
+log thread sleeping for 60 seconds at 3:01:00
+log thread sleeping for 60 seconds at 3:02:00
+log thread sleeping for 60 seconds at 3:03:00
+log thread sleeping for 60 seconds at 3:04:00
+log thread sleeping for 60 seconds at 3:05:00
+log thread sleeping for 60 seconds at 3:06:01
+log thread sleeping for 59 seconds at 3:07:01
+log thread sleeping for 60 seconds at 3:08:00
+log thread sleeping for 60 seconds at 3:09:00
+log thread sleeping for 60 seconds at 3:10:00
+log thread sleeping for 60 seconds at 3:11:00
+log thread sleeping for 60 seconds at 3:12:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 3:13:00
+***
+Session started 3-5-24 at 3:13:06
+server started on port 8585
+sp_thread started
+Program ready
+log thread sleeping for 54 seconds at 3:13:06
+iTunes_thread started
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 3:13:47
+***
+Session started 3-5-24 at 3:15:07
+sp_thread started
+server started on port 8585
+Program ready
+log thread sleeping for 53 seconds at 3:15:07
+iTunes_thread started
+log thread sleeping for 60 seconds at 3:16:00
+log thread sleeping for 60 seconds at 3:17:00
+log thread sleeping for 60 seconds at 3:18:00
+log thread sleeping for 60 seconds at 3:19:00
+now playing: [Jenora] [Jonas Saalbach] [Headlights] [6:31]
+log thread sleeping for 60 seconds at 3:20:00
+log thread sleeping for 60 seconds at 3:21:00
+log thread sleeping for 60 seconds at 3:22:00
+log thread sleeping for 60 seconds at 3:23:00
+log thread sleeping for 60 seconds at 3:24:00
+log thread sleeping for 60 seconds at 3:25:00
+log thread sleeping for 60 seconds at 3:26:00
+now playing: [Magna Terram] [Township Rebellion] [Memorial] [8:25]
+log thread sleeping for 60 seconds at 3:27:00
+log thread sleeping for 60 seconds at 3:28:00
+log thread sleeping for 60 seconds at 3:29:00
+log thread sleeping for 60 seconds at 3:30:00
+log thread sleeping for 60 seconds at 3:31:00
+log thread sleeping for 60 seconds at 3:32:00
+log thread sleeping for 60 seconds at 3:33:00
+log thread sleeping for 60 seconds at 3:34:00
+log thread sleeping for 60 seconds at 3:35:00
+Error: Rate Limit Reached
+Status Code 0 - 
+log thread sleeping for 60 seconds at 3:36:01
+vk_code = 112
+iTunes_play_pause()
+[Undersea Palace] [Chrono Trigger] [OST] [3:10]
+vk_code = 105
+3:48
+vk_code = 96
+Function key activated
+vk_code = 107
+print_iTunes_songs()
+[Undersea Palace] [Chrono Trigger] [OST] [3:10]
+wake state change detected at 3:49:04 on 3-5-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Device
+    Instance Path: PCI\VEN_8086&DEV_A36D&SUBSYS_12381025&REV_10\3&11583659&0&A0
+    Friendly Name: Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+    Description: USB xHCI Compliant Host Controller
+    Manufacturer: Generic USB xHCI Host Controller
+log thread sleeping for 56 seconds at 3:49:04
+vk_code = 96
+Function key activated
+vk_code = 98
+activate_vs_code()
+log thread sleeping for 60 seconds at 3:50:01
+vk_code = 96
+Function key activated
+vk_code = 110
+activate_spotify()
+vk_code = 108
+spotify_play_pause()
+Error: Status Code 401 - {
+  "error": {
+    "status": 401,
+    "message": "The access token expired"
+  }
+}
+spotify window found
+is_spotify_open() == true
+Error: Status Code 401 - {
+  "error": {
+    "status": 401,
+    "message": "The access token expired"
+  }
+}
+vk_code = 104
+print_spotify_songs()
+[Jenora] [Jonas Saalbach] [Headlights] [6:31]
+[Magna Terram] [Township Rebellion] [Memorial] [8:25]
+vk_code = 110
+post_next_or_prev() - Error: Status Code 401 - {
+  "error": {
+    "status": 401,
+    "message": "The access token expired"
+  }
+}
+log thread sleeping for 59 seconds at 3:51:01
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 3:51:08
+***
+Session started 3-5-24 at 3:51:08
+sp_thread started
+server started on port 8585
+Program ready
+log thread sleeping for 52 seconds at 3:51:08
+refresh_tokens() - tokens refreshed
+iTunes_thread started
+[Undersea Palace] [Chrono Trigger] [OST] [3:10]
+now playing: [Magna Terram] [Township Rebellion] [Memorial] [8:25]
+vk_code = 110
+now playing: [Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+[Drifting] [Final Fantasy 8] [Lily Wise] [2:42]
+log thread sleeping for 60 seconds at 3:52:01
+log thread sleeping for 59 seconds at 3:53:01
+vk_code = 102
+iTunes_next_song()
+[Super Mario Bros. Remix] [Super Mario World] [Koji Kondo] [3:01]
+vk_code = 99
+activate_iTunes()
+log thread sleeping for 60 seconds at 3:54:00
+log thread sleeping for 60 seconds at 3:55:00
+log thread sleeping for 60 seconds at 3:56:00
+[Hurry, Faster!] [Final Fantasy 7] [Daniel Wise] [2:47]
+log thread sleeping for 60 seconds at 3:57:00
+log thread sleeping for 60 seconds at 3:58:00
+log thread sleeping for 60 seconds at 3:59:00
+[First Ignition] [Wild Arms 2] [Michiko Naruke] [2:09]
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 3:59:51
+***
+Session started 3-5-24 at 4:00:21
+Program ready
+server started on port 8585
+sp_thread started
+log thread sleeping for 39 seconds at 4:00:21
+iTunes_thread started
+[First Ignition] [Wild Arms 2] [Michiko Naruke] [2:09]
+now playing: [Arteon (Dealing With God)] [Ae:ther] [Realm Of Consciousness Pt. IV] [6:52]
+log thread sleeping for 60 seconds at 4:01:00
+[Backborn Story] [Final Fantasy Tactics] [Star Wise] [1:34]
+vk_code = 102
+iTunes_next_song()
+[Magic Knight Belgar] [Alundra 2] [Luna Wise] [2:58]
+log thread sleeping for 60 seconds at 4:02:00
+vk_code = 99
+activate_iTunes()
+vk_code = 102
+iTunes_next_song()
+[Warrior's Hideout] [Final Fantasy Tactics] [Jose Wise] [1:46]
+log thread sleeping for 60 seconds at 4:03:00
+vk_code = 112
+iTunes_play_pause()
+log thread sleeping for 60 seconds at 4:04:00
+log thread sleeping for 60 seconds at 4:05:01
+log thread sleeping for 59 seconds at 4:06:01
+log thread sleeping for 60 seconds at 4:07:00
+log thread sleeping for 60 seconds at 4:08:00
+log thread sleeping for 60 seconds at 4:09:00
+log thread sleeping for 60 seconds at 4:10:00
+log thread sleeping for 60 seconds at 4:11:00
+log thread sleeping for 60 seconds at 4:12:00
+log thread sleeping for 60 seconds at 4:13:00
+log thread sleeping for 60 seconds at 4:14:00
+log thread sleeping for 60 seconds at 4:15:00
+log thread sleeping for 60 seconds at 4:16:00
+log thread sleeping for 60 seconds at 4:17:00
+log thread sleeping for 60 seconds at 4:18:00
+log thread sleeping for 60 seconds at 4:19:00
+log thread sleeping for 60 seconds at 4:20:00
+log thread sleeping for 60 seconds at 4:21:00
+log thread sleeping for 60 seconds at 4:22:00
+log thread sleeping for 60 seconds at 4:23:00
+log thread sleeping for 60 seconds at 4:24:01
+log thread sleeping for 59 seconds at 4:25:01
+log thread sleeping for 60 seconds at 4:26:00
+log thread sleeping for 60 seconds at 4:27:00
+log thread sleeping for 60 seconds at 4:28:00
+log thread sleeping for 60 seconds at 4:29:00
+log thread sleeping for 60 seconds at 4:30:00
+log thread sleeping for 60 seconds at 4:31:00
+log thread sleeping for 60 seconds at 4:32:00
+log thread sleeping for 60 seconds at 4:33:00
+log thread sleeping for 60 seconds at 4:34:00
+refresh_tokens() - tokens refreshed
+now playing: [Life (Tone Depth Remix)] [Joris Voorn, Tone Depth] [Four (Remixes Deluxe)] [4:02]
+log thread sleeping for 11 seconds at 6:23:49
+log thread sleeping for 60 seconds at 6:24:00
+now playing: [Receiver] [Patrice Bäumel] [Transmission EP] [6:39]
+log thread sleeping for 60 seconds at 6:25:00
+log thread sleeping for 60 seconds at 6:26:00
+log thread sleeping for 60 seconds at 6:27:00
+log thread sleeping for 60 seconds at 6:28:01
+log thread sleeping for 59 seconds at 6:29:01
+log thread sleeping for 60 seconds at 6:30:00
+now playing: [Infinite Meadow] [Township Rebellion] [Rituals] [7:51]
+log thread sleeping for 60 seconds at 6:31:00
+log thread sleeping for 60 seconds at 6:32:00
+log thread sleeping for 60 seconds at 6:33:00
+log thread sleeping for 60 seconds at 6:34:00
+log thread sleeping for 60 seconds at 6:35:00
+log thread sleeping for 60 seconds at 6:36:00
+log thread sleeping for 60 seconds at 6:37:00
+log thread sleeping for 60 seconds at 6:38:00
+log thread sleeping for 60 seconds at 6:39:00
+now playing: [Silent Summer] [Budakid] [Silent Summer / Story Of Tokay] [6:25]
+log thread sleeping for 60 seconds at 6:40:00
+log thread sleeping for 60 seconds at 6:41:00
+log thread sleeping for 60 seconds at 6:42:00
+vk_code = 108
+spotify_play_pause()
+no active device
+spotify window found
+is_spotify_open() == true
+vk_code = 97
+activate_auto_core()
+vk_code = 108
+spotify_play_pause()
+is_spotify_playing() == true
+log thread sleeping for 60 seconds at 6:43:00
+log thread sleeping for 60 seconds at 6:44:00
+log thread sleeping for 60 seconds at 6:45:00
+log thread sleeping for 60 seconds at 6:46:00
+log thread sleeping for 60 seconds at 6:47:00
+log thread sleeping for 60 seconds at 6:48:00
+log thread sleeping for 60 seconds at 6:49:00
+log thread sleeping for 60 seconds at 6:50:00
+log thread sleeping for 60 seconds at 6:51:00
+log thread sleeping for 60 seconds at 6:52:01
+log thread sleeping for 59 seconds at 6:53:01
+log thread sleeping for 60 seconds at 6:54:00
+log thread sleeping for 60 seconds at 6:55:00
+vk_code = 96
+Function key activated
+vk_code = 97
+end of iTunes thread
+end of close_program()
+Session ended 3-5-24 at 6:55:23
+***
+Session started 3-5-24 at 7:10:18
+Program ready
+sp_thread started
+server started on port 8585
+wake state change detected at 7:10:18 on 3-5-24
+Wake History Count - 0
+log thread sleeping for 42 seconds at 7:10:18
+log thread sleeping for 60 seconds at 7:11:00
+log thread sleeping for 60 seconds at 7:12:00
+log thread sleeping for 60 seconds at 7:13:00
+log thread sleeping for 60 seconds at 7:14:00
+log thread sleeping for 60 seconds at 7:15:00
+log thread sleeping for 60 seconds at 7:16:01
+log thread sleeping for 59 seconds at 7:17:01
+refresh_tokens() - tokens refreshed
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 992
+3-5-24
+
+7:17
+log thread sleeping for 60 seconds at 7:18:00
+log thread sleeping for 60 seconds at 7:19:00
+log thread sleeping for 60 seconds at 7:20:00
+log thread sleeping for 60 seconds at 7:21:00
+log thread sleeping for 60 seconds at 7:22:00
+log thread sleeping for 60 seconds at 7:23:00
+log thread sleeping for 60 seconds at 7:24:00
+log thread sleeping for 60 seconds at 7:25:00
+log thread sleeping for 60 seconds at 7:26:00
+log thread sleeping for 60 seconds at 7:27:00
+log thread sleeping for 60 seconds at 7:28:00
+log thread sleeping for 60 seconds at 7:29:00
+log thread sleeping for 60 seconds at 7:30:00
+log thread sleeping for 60 seconds at 7:31:00
+log thread sleeping for 60 seconds at 7:32:00
+log thread sleeping for 60 seconds at 7:33:00
+log thread sleeping for 60 seconds at 7:34:00
+log thread sleeping for 60 seconds at 7:35:00
+log thread sleeping for 60 seconds at 7:36:00
+log thread sleeping for 60 seconds at 7:37:00
+log thread sleeping for 60 seconds at 7:38:00
+log thread sleeping for 60 seconds at 7:39:00
+log thread sleeping for 60 seconds at 7:40:00
+log thread sleeping for 60 seconds at 7:41:01
+log thread sleeping for 59 seconds at 7:42:01
+log thread sleeping for 60 seconds at 7:43:00
+log thread sleeping for 60 seconds at 7:44:00
+log thread sleeping for 60 seconds at 7:45:00
+log thread sleeping for 60 seconds at 7:46:00
+log thread sleeping for 60 seconds at 7:47:00
+log thread sleeping for 60 seconds at 7:48:00
+log thread sleeping for 60 seconds at 7:49:00
+log thread sleeping for 60 seconds at 7:50:00
+log thread sleeping for 60 seconds at 7:51:00
+log thread sleeping for 60 seconds at 7:52:00
+log thread sleeping for 60 seconds at 7:53:00
+log thread sleeping for 60 seconds at 7:54:00
+log thread sleeping for 60 seconds at 7:55:00
+log thread sleeping for 60 seconds at 7:56:00
+log thread sleeping for 60 seconds at 7:57:00
+vk_code = 99
+activate_iTunes()
+iTunes_thread started
+log thread sleeping for 60 seconds at 7:58:00
+vk_code = 97
+activate_auto_core()
+log thread sleeping for 60 seconds at 7:59:00
+log thread sleeping for 60 seconds at 8:00:00
+log thread sleeping for 60 seconds at 8:01:00
+log thread sleeping for 60 seconds at 8:02:00
+log thread sleeping for 60 seconds at 8:03:00
+log thread sleeping for 60 seconds at 8:04:00
+log thread sleeping for 60 seconds at 8:05:01
+log thread sleeping for 59 seconds at 8:06:01
+log thread sleeping for 60 seconds at 8:07:00
+log thread sleeping for 60 seconds at 8:08:00
+log thread sleeping for 60 seconds at 8:09:00
+log thread sleeping for 60 seconds at 8:10:00
+log thread sleeping for 60 seconds at 8:11:00
+refresh_tokens() - tokens refreshed
+log thread sleeping for 60 seconds at 8:12:00
+log thread sleeping for 60 seconds at 8:13:00
+log thread sleeping for 60 seconds at 8:14:00
+log thread sleeping for 60 seconds at 8:15:00
+log thread sleeping for 60 seconds at 8:16:00
+log thread sleeping for 60 seconds at 8:17:00
+now playing: [Silent Summer] [Budakid] [Silent Summer / Story Of Tokay] [6:25]
+log thread sleeping for 60 seconds at 8:18:00
+now playing: [Odisey - Original Mix] [D-Formation, Rick Pier O'Neil] [This Is Beatfreak] [7:48]
+log thread sleeping for 60 seconds at 8:19:00
+log thread sleeping for 60 seconds at 8:20:00
+log thread sleeping for 60 seconds at 8:21:00
+log thread sleeping for 60 seconds at 8:22:00
+log thread sleeping for 60 seconds at 8:23:00
+now playing: [Raven] [Ae:ther] [Spectre] [6:35]
+log thread sleeping for 60 seconds at 8:24:00
+log thread sleeping for 60 seconds at 8:25:00
+log thread sleeping for 60 seconds at 8:26:00
+log thread sleeping for 60 seconds at 8:27:00
+log thread sleeping for 60 seconds at 8:28:00
+log thread sleeping for 60 seconds at 8:29:00
+log thread sleeping for 60 seconds at 8:30:00
+log thread sleeping for 60 seconds at 8:31:01
+log thread sleeping for 59 seconds at 8:32:01
+log thread sleeping for 60 seconds at 8:33:00
+log thread sleeping for 60 seconds at 8:34:00
+log thread sleeping for 60 seconds at 8:35:00
+log thread sleeping for 60 seconds at 8:36:00
+refresh_tokens() - tokens refreshed
+wake state change detected at 22:55:25 on 3-5-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Device
+    Instance Path: PCI\VEN_8086&DEV_A36D&SUBSYS_12381025&REV_10\3&11583659&0&A0
+    Friendly Name: Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+    Description: USB xHCI Compliant Host Controller
+    Manufacturer: Generic USB xHCI Host Controller
+log thread sleeping for 35 seconds at 22:55:25
+log thread sleeping for 60 seconds at 22:56:00
+log thread sleeping for 60 seconds at 22:57:00
+log thread sleeping for 60 seconds at 22:58:00
+log thread sleeping for 60 seconds at 22:59:00
+log thread sleeping for 60 seconds at 23:00:00
+log thread sleeping for 60 seconds at 23:01:00
+log thread sleeping for 60 seconds at 23:02:00
+log thread sleeping for 60 seconds at 23:03:00
+log thread sleeping for 60 seconds at 23:04:00
+log thread sleeping for 60 seconds at 23:05:00
+log thread sleeping for 60 seconds at 23:06:00
+log thread sleeping for 60 seconds at 23:07:00
+log thread sleeping for 60 seconds at 23:08:00
+log thread sleeping for 60 seconds at 23:09:00
+log thread sleeping for 60 seconds at 23:10:00
+log thread sleeping for 60 seconds at 23:11:00
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 993
+3-5-24
+
+23:11
+log thread sleeping for 60 seconds at 23:12:00
+log thread sleeping for 60 seconds at 23:13:00
+log thread sleeping for 60 seconds at 23:14:01
+log thread sleeping for 59 seconds at 23:15:01
+log thread sleeping for 60 seconds at 23:16:00
+log thread sleeping for 60 seconds at 23:17:00
+log thread sleeping for 60 seconds at 23:18:00

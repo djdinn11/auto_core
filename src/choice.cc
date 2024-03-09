@@ -48,8 +48,10 @@ void set_number_of_choices() {
     getline(cin, choice_number_str);
     if (choice_number_str.empty()) {
         upper_choice = 2;
+        logg("");
     }
     else {
+        logg("{}", choice_number_str);
         try {
             int choice_number = stoi(choice_number_str);
             if (choice_number >= 2) {
@@ -86,7 +88,7 @@ void print_Eric_choice() {
 }
 void print_Katrina_choice() {
     choice_selector = "Katrina";
-    thread t([=]() {run_with_exception_handling(thread_print_choice_with_zero); });
+    thread t([=]() {run_with_exception_handling(thread_print_choice_with_zero);});
     t.detach();
 }
 void print_Lily_choice() {

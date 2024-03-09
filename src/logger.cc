@@ -1,18 +1,26 @@
 #include <logger.h>
 #include <locale>
 #include <wake.h>
+#include <logger_c.h>
 
 ofstream log_stream;
 string logger_name;
 string logger_datestamp;
 string session_start;
 string log_directory = R"(.\log\)";
+bool send_cerr_to_cout = false;
 
 void logg(const string& message) {
     cerr << message << endl;
+    if (send_cerr_to_cout) {
+        cout << message << endl;
+    }
 }
 void loggnl(const string& message) {
     cerr << message;
+    if (send_cerr_to_cout) {
+        cout << message;
+    }
 }
 void update_log_file() {
     if (log_stream.is_open()) {
@@ -30,13 +38,14 @@ void log_thread() {
     string current_datestamp = get_datestamp();
     while (true) {
         int seconds_to_sleep = log_thread_sleep_time - get_current_seconds();
+        log_last_wake();
         logg("log thread sleeping for {} seconds at {}", seconds_to_sleep, get_timestamp_with_seconds());
-        loggnl(log_last_wake());
         this_thread::sleep_for(chrono::seconds(seconds_to_sleep));
         current_datestamp = get_datestamp();
         if (current_datestamp != logger_datestamp) {
             logg("---");
             update_log_file();
+            update_log_files();
             logg("---");
             logg(session_start);
         }

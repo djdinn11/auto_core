@@ -1,5 +1,6 @@
 #include <sp_thread.h>
 #include <clock.h>
+#include <logger_c.h>
 
 mutex sp_mtx;
 condition_variable sp_cv;
@@ -21,7 +22,7 @@ void spotify_next_song() {
     sp_cv.notify_one();
 }
 void sp_song_thread() {
-    logg("sp_thread started");
+    sp_logger.logg_and_logg("sp_thread started");
     try {
         unique_lock<mutex> lock(sp_mtx);
         int sleep_time_ms;
@@ -32,10 +33,11 @@ void sp_song_thread() {
         while (true) {
             sp_playback_state_change = false;
             if (!ac_spotify.is_playing) {
+                sp_logger.loggnl("Spotify not playing - ");
                 sleep_time_ms = sleep_timerate_ms;
             }
             else if (ac_spotify.last_status_code == speed_boost_code) {
-                print("speed boost!");
+                sp_logger.logg_and_print("speed boost!");
                 sleep_time_ms = speed_boost_ms;
             }
             else if (ac_spotify.remaining_song_duration_ms < sleep_timerate_ms) {
@@ -44,18 +46,18 @@ void sp_song_thread() {
             else {
                 sleep_time_ms = sleep_timerate_ms;
             }
-            logg("sleep time {} seconds at {}", sleep_time_ms / 1000, get_timestamp_with_seconds());
+            sp_logger.logg("sleep time {} seconds at {}", sleep_time_ms / 1000, get_timestamp_with_seconds());
             if (sp_cv.wait_for(lock, chrono::milliseconds(sleep_time_ms), [] {return sp_playback_state_change;})) {
-                logg("sp_playback_state_change at {}", get_timestamp_with_seconds());
+                sp_logger.logg("sp_playback_state_change at {}", get_timestamp_with_seconds());
                 Sleep(processing_delay);
             }
             ac_spotify.get_current_song();
         }
     }
     catch (const exception& e) {
-        print("sp_song_thread() has crashed: {}", e.what());
+        sp_logger.logg_and_print("sp_song_thread() has crashed: {}", e.what());
     }
     catch (...) {
-        print("sp_song_thread() has crashed due to an unknown exception");
+        sp_logger.logg_and_print("sp_song_thread() has crashed due to an unknown exception");
     }
 }

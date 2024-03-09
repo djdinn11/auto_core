@@ -21,8 +21,8 @@ void set_action_map() {
     ac_numkey_event[ac_numkey_dot]  = {spotify_next_song, activate_spotify};
     ac_numkey_event[ac_numkey_enter] = {spotify_play_pause, print_Star_choice};
     ac_numkey_event[ac_numkey_dash]  = {sp_switch_player, print_Jose_choice};
-    ac_numkey_event[ac_numkey_slash] = {retrieve_and_delete_recycle_bin, print_Eric_choice};
-    ac_numkey_event[ac_numkey_play_pause] = {iTunes_play_pause, print_Katrina_choice};
+    ac_numkey_event[ac_numkey_slash] = {retrieve_and_delete_recycle_bin, remove_iTunes_song};
+    ac_numkey_event[ac_numkey_play_pause] = {iTunes_play_pause, print_Eric_choice};
 }
 void process_numpad_event(const MSG& msg) {
     if (taskbar.switch_set) {

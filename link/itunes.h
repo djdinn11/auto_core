@@ -36,6 +36,9 @@ public:
     bool end_thread;
     thread iTunes_thread;
     void start_iTunes_thread();
+    void remove_track();
+    void recycle_bin_track();
+    void delete_track();
 };
 
 extern iTunes ac_iTunes;
