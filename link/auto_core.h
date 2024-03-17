@@ -3,6 +3,7 @@
 #include <choice.h>
 #include <clipboard.h>
 #include <clock.h>
+#include <close.h>
 #include <crash.h>
 #include <dash.h>
 #include <itunes.h>
@@ -23,5 +24,6 @@
 
 bool primary = true;
 HWND program_window;
+HWND close_window;
 HHOOK keyboard_hook;
 DWORD main_thread_id;

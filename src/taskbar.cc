@@ -4,20 +4,23 @@
 
 Taskbar taskbar;
 
-enum position {
-    auto_core = 1,
-    folder = 2,
-    word = 3,
-    vs_code = 4,
-    itunes = 5,
-    spotify = 6,
-    chrome = 7,
-    visual = 8,
-    discord = 9,
-    firefox = 0,
-    taskbar_9 = 9,
-    taskbar_10 = 0,
-};
+unordered_map<string, int> position;
+
+void set_positions() {
+    ifstream taskbar_config_file(R"(config\taskbar.txt)");
+    string line;
+    while (getline(taskbar_config_file, line)) {
+        size_t first_space = line.find(' ');
+        size_t second_space = line.rfind(' ');
+        int number = stoi(line.substr(0, 1));
+        string program = line.substr(second_space + 1);
+        position[program] = number;
+    }
+    taskbar_config_file.close();
+    position["taskbar_9"] = 9;
+    position["taskbar_10"] = 0;
+    logg("positions map set");
+}
 wstring get_window_title(HWND hwnd) {
     const int length = GetWindowTextLengthW(hwnd) + 1;
     wchar_t* title = new wchar_t[length];
@@ -118,54 +121,54 @@ void Taskbar::switch_windows(int keycode) {
     }
 }
 void Taskbar::activate_auto_core() {
-    send_winkey(auto_core);
+    send_winkey(position["auto_core"]);
 }
 void Taskbar::activate_folder() {
     folder_windows = 0;
     EnumWindows(enum_folder_windows, 0);
     if (folder_windows < 2) {
-        send_winkey(folder);
+        send_winkey(position["folder"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(folder);
-        switch_position = folder;
+        send_winkey_with_number(position["folder"]);
+        switch_position = position["folder"];
     }
 }
 void Taskbar::activate_word() {
     word_windows = 0;
     EnumWindows(enum_word_windows, 0);
     if (word_windows < 2) {
-        send_winkey(word);
+        send_winkey(position["word"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(word);
-        switch_position = word;
+        send_winkey_with_number(position["word"]);
+        switch_position = position["word"];
     }
 }
 void Taskbar::activate_vs_code() {
     vs_code_windows = 0;
     EnumWindows(enum_vs_code_windows, 0);
     if (vs_code_windows < 2) {
-        send_winkey(vs_code);
+        send_winkey(position["vs_code"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(vs_code);
-        switch_position = vs_code;
+        send_winkey_with_number(position["vs_code"]);
+        switch_position = position["vs_code"];
     }
 }
 void Taskbar::activate_iTunes() {
     if (ac_iTunes.initialized)
     {
-        send_winkey(itunes);
+        send_winkey(position["itunes"]);
     }
     else {ac_iTunes.initialize_com();}
 }
@@ -173,63 +176,63 @@ void Taskbar::activate_chrome() {
     chrome_windows = 0;
     EnumWindows(enum_chrome_windows, 0);
     if (chrome_windows < 2) {
-        send_winkey(chrome);
+        send_winkey(position["chrome"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(chrome);
-        switch_position = chrome;
+        send_winkey_with_number(position["chrome"]);
+        switch_position = position["chrome"];
     }
 }
 void Taskbar::activate_visual() {
     visual_windows = 0;
     EnumWindows(enum_visual_windows, 0);
     if (visual_windows < 2) {
-        send_winkey(visual);
+        send_winkey(position["visual"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(visual);
-        switch_position = visual;
+        send_winkey_with_number(position["visual"]);
+        switch_position = position["visual"];
     }
 }
 void Taskbar::activate_discord() {
-    send_winkey(discord);
+    send_winkey(position["discord"]);
 }
 void Taskbar::activate_firefox() {
     firefox_windows = 0;
     EnumWindows(enum_firefox_windows, 0);
     if (firefox_windows < 2) {
-        send_winkey(firefox);
+        send_winkey(position["firefox"]);
     }
     else {
         logg("multiple windows detected");
         press_and_hold_winkey();
         switch_set = true;
-        send_winkey_with_number(firefox);
-        switch_position = firefox;
+        send_winkey_with_number(position["firefox"]);
+        switch_position = position["firefox"];
     }
 }
 void Taskbar::activate_spotify() {
-    send_winkey(spotify);
+    send_winkey(position["spotify"]);
 }
 void Taskbar::activate_taskbar_9() {
-    send_winkey(taskbar_9);
+    send_winkey(position["taskbar_9"]);
 }
 void Taskbar::activate_taskbar_10_multiple() {
     print("winkey is locked");
     winkey_locked = true;
     press_and_hold_winkey();
     switch_set = true;
-    send_winkey_with_number(taskbar_10);
-    switch_position = taskbar_10;
+    send_winkey_with_number(position["taskbar_10"]);
+    switch_position = position["taskbar_10"];
 }
-void Taskbar::activate_taskbar_10()  {
-    send_winkey(taskbar_10);
+void Taskbar::activate_taskbar_10() {
+    send_winkey(position["taskbar_10"]);
     Sleep(152);
     HWND current_window = GetForegroundWindow();
     wstring title = get_window_title(current_window);

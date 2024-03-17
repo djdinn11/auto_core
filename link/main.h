@@ -14,12 +14,11 @@ void run_with_exception_handling(Func func) {
     }
 }
 
-BOOL WINAPI x_close_event(DWORD dwType);
-
 extern bool primary;
 extern HWND program_window;
 extern HHOOK keyboard_hook;
 extern DWORD main_thread_id;
+extern bool program_closing;
 
 void close_program();
 void activate_function_key();

@@ -23,6 +23,7 @@
     <ClCompile Include="..\src\choice.cc" />
     <ClCompile Include="..\src\clipboard.cc" />
     <ClCompile Include="..\src\clock.cc" />
+    <ClCompile Include="..\src\close.cc" />
     <ClCompile Include="..\src\crash.cc" />
     <ClCompile Include="..\src\dash.cc" />
     <ClCompile Include="..\src\itunes.cc" />
@@ -51,6 +52,7 @@
     <ClInclude Include="..\link\choice.h" />
     <ClInclude Include="..\link\clipboard.h" />
     <ClInclude Include="..\link\clock.h" />
+    <ClInclude Include="..\link\close.h" />
     <ClInclude Include="..\link\crash.h" />
     <ClInclude Include="..\link\dash.h" />
     <ClInclude Include="..\link\itunes.h" />

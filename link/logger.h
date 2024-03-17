@@ -5,6 +5,7 @@
 #include <fstream>
 #include <filesystem>
 #include <thread>
+#include <exception>
 
 namespace fs = std::filesystem;
 namespace this_thread = std::this_thread;

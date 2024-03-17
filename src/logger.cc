@@ -27,7 +27,7 @@ void update_log_file() {
         log_stream.close();
     }
     logger_datestamp = get_datestamp();
-    logger_name = "log_" + logger_datestamp + ".txt";
+    logger_name = "log_" + logger_datestamp + ".log";
     string logger_path = log_directory + logger_name;
     log_stream.open(logger_path, ios::app);
     cerr.rdbuf(log_stream.rdbuf());

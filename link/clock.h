@@ -5,6 +5,7 @@
 #include <string>
 #include <ostream>
 #include <sstream>
+#include <exception>
 
 using oss = std::ostringstream;
 namespace chrono = std::chrono;

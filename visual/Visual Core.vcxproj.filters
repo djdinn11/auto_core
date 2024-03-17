@@ -84,6 +84,9 @@
     <ClCompile Include="..\src\slash_i.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\close.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="..\sun\resource.rc">
@@ -158,6 +161,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\link\slash_i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\link\close.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

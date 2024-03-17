@@ -59,7 +59,7 @@ void Logger::update_log_file() {
     }
     session_status += session_started;
     string datestamp = get_datestamp();
-    string filename = name + "_" + datestamp + ".txt";
+    string filename = name + "_" + datestamp + ".log";
     string logger_path = directory + filename;
     log_stream.open(logger_path, ios::app);
     log_stream << session_status << endl;

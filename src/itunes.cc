@@ -47,7 +47,7 @@ bool iTunes::is_playing() {
     }
     bool is_playing = false;
     if (V_VT(&varResult) == VT_I4) {
-        // ITPlayerStateStopped = 0, ITPlayerStatePlaying = 1, ITPlayerStateFastForward = 2, ITPlayerStateRewind = 3
+        /* ITPlayerStateStopped = 0, ITPlayerStatePlaying = 1, ITPlayerStateFastForward = 2, ITPlayerStateRewind = 3 */
         is_playing = V_I4(&varResult) == 1;
     }
     VariantClear(&varResult);

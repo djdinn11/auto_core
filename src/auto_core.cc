@@ -53,11 +53,13 @@ int main() {
     SetConsoleTitle(L"Auto Core");
     SetUnhandledExceptionFilter(unhandled_exception_handler);
     SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCtrlHandler(x_close_event, TRUE);
+    SetConsoleCtrlHandler(console_close_event, TRUE);
     keyboard_hook = SetWindowsHookEx(WH_KEYBOARD_LL, send_numpad_event, NULL, 0);
     main_thread_id = GetCurrentThreadId();
     set_action_map();
     program_window = GetConsoleWindow();
+    close_window = close_window_hidden_init();
+    set_positions();
     print("Program ready");
     while (GetMessage(&msg, NULL, 0, 0) > 0) {
         try {process_numpad_event(msg);}
@@ -66,6 +68,5 @@ int main() {
         TranslateMessage(&msg);
         DispatchMessage(&msg);
     }
-    log_end();
     return 0;
 }

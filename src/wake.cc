@@ -4,9 +4,9 @@
 void log_last_wake() {
     string wake_directory = R"(.\log\wake\)";
     fs::create_directories(wake_directory);
-    static string previous_last_wake_file = wake_directory + "previous_wake.txt";
-    static string current_last_wake_file = wake_directory + "current_wake.txt";
-    static string last_wake_log_file = wake_directory + "wake_log.txt";
+    static string previous_last_wake_file = wake_directory + "previous_wake.log";
+    static string current_last_wake_file = wake_directory + "current_wake.log";
+    static string last_wake_log_file = wake_directory + "wake_log.log";
     ofstream current_last_wake_clear(current_last_wake_file);
     if (current_last_wake_clear.is_open()) {
         current_last_wake_clear << "";

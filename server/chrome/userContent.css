@@ -8,5 +8,6 @@
     top: 0 !important; 
 }
 
-.toolbar * {
-visibility: collapse !important;}
+#toolbarContainer {
+    visibility: collapse !important;
+}

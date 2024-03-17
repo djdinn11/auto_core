@@ -13,18 +13,7 @@ void close_program() {
         UnhookWindowsHookEx(keyboard_hook);
     }
     PostThreadMessage(main_thread_id, WM_QUIT, 0, 0);
-    logg("end of close_program()");
-}
-BOOL WINAPI x_close_event(DWORD dwType) {
-    if (dwType == CTRL_CLOSE_EVENT && !program_closing) {
-        logg("x_close_event() called");
-        primary = false;
-        PostThreadMessage(main_thread_id, ac_numkey_1, 0, 0);
-        Sleep(250);
-        logg("end of x_close_event() - CTRL_CLOSE_EVENT");
-        return TRUE;
-    }
-    return FALSE;
+    log_end();
 }
 void activate_function_key() {
     primary = false;

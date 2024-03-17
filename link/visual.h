@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <conio.h>
 #include <array>
+#include <exception>
 #include <functional>
 #include <iomanip>
 #include <istream>

@@ -35,6 +35,7 @@ extern Taskbar taskbar;
 wstring get_window_title(HWND hwnd);
 wstring get_window_class(HWND hwnd);
 
+void set_positions();
 void activate_auto_core();
 void activate_folder();
 void activate_word();
