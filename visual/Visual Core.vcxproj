@@ -23,9 +23,9 @@
     <ClCompile Include="..\src\choice.cc" />
     <ClCompile Include="..\src\clipboard.cc" />
     <ClCompile Include="..\src\clock.cc" />
-    <ClCompile Include="..\src\close.cc" />
+    <ClCompile Include="..\src\end.cc" />
     <ClCompile Include="..\src\crash.cc" />
-    <ClCompile Include="..\src\dash.cc" />
+    <ClCompile Include="..\src\link.cc" />
     <ClCompile Include="..\src\itunes.cc" />
     <ClCompile Include="..\src\itunes_t.cc" />
     <ClCompile Include="..\src\keyboard.cc" />
@@ -48,30 +48,31 @@
     <ResourceCompile Include="..\sun\resource.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\link\auto_core.h" />
-    <ClInclude Include="..\link\choice.h" />
-    <ClInclude Include="..\link\clipboard.h" />
-    <ClInclude Include="..\link\clock.h" />
-    <ClInclude Include="..\link\close.h" />
-    <ClInclude Include="..\link\crash.h" />
-    <ClInclude Include="..\link\dash.h" />
-    <ClInclude Include="..\link\itunes.h" />
-    <ClInclude Include="..\link\itunes_t.h" />
-    <ClInclude Include="..\link\keyboard.h" />
-    <ClInclude Include="..\link\logger.h" />
-    <ClInclude Include="..\link\logger_c.h" />
-    <ClInclude Include="..\link\main.h" />
-    <ClInclude Include="..\link\numkey.h" />
-    <ClInclude Include="..\link\server.h" />
-    <ClInclude Include="..\link\slash.h" />
-    <ClInclude Include="..\link\slash_i.h" />
-    <ClInclude Include="..\link\spotify.h" />
-    <ClInclude Include="..\link\sp_thread.h" />
-    <ClInclude Include="..\link\star.h" />
-    <ClInclude Include="..\link\taskbar.h" />
-    <ClInclude Include="..\link\taskbar_11.h" />
-    <ClInclude Include="..\link\visual.h" />
-    <ClInclude Include="..\link\wake.h" />
+    <ClInclude Include="..\dash\auto_core.h" />
+    <ClInclude Include="..\dash\choice.h" />
+    <ClInclude Include="..\dash\clipboard.h" />
+    <ClInclude Include="..\dash\clock.h" />
+    <ClInclude Include="..\dash\end.h" />
+    <ClInclude Include="..\dash\crash.h" />
+    <ClInclude Include="..\dash\link.h" />
+    <ClInclude Include="..\dash\itunes.h" />
+    <ClInclude Include="..\dash\itunes_t.h" />
+    <ClInclude Include="..\dash\keyboard.h" />
+    <ClInclude Include="..\dash\logger.h" />
+    <ClInclude Include="..\dash\logger_c.h" />
+    <ClInclude Include="..\dash\main.h" />
+    <ClInclude Include="..\dash\numkey.h" />
+    <ClInclude Include="..\dash\server.h" />
+    <ClInclude Include="..\dash\slash.h" />
+    <ClInclude Include="..\dash\slash_i.h" />
+    <ClInclude Include="..\dash\spotify.h" />
+    <ClInclude Include="..\dash\sp_thread.h" />
+    <ClInclude Include="..\dash\star.h" />
+    <ClInclude Include="..\dash\taskbar.h" />
+    <ClInclude Include="..\dash\taskbar_11.h" />
+    <ClInclude Include="..\dash\visual.h" />
+    <ClInclude Include="..\dash\wake.h" />
+    <ClInclude Include="link.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -183,7 +184,7 @@
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <AdditionalIncludeDirectories>..\lib;..\sun;..\link;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\lib;..\sun;..\dash;</AdditionalIncludeDirectories>
       <AdditionalModuleDependencies>
       </AdditionalModuleDependencies>
       <BuildStlModules>false</BuildStlModules>

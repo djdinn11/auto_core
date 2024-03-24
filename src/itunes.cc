@@ -180,7 +180,7 @@ TrackInfo iTunes::get_track_info() {
 }
 void iTunes::play_pause() {
     if (!initialized) {
-        return;
+        initialize_com();
     }
     DISPID dispidPlayPause;
     const OLECHAR* szPlayPause = L"PlayPause";
@@ -192,7 +192,7 @@ void iTunes::play_pause() {
 }
 void iTunes::next_song() {
     if (!initialized) {
-        return;
+        initialize_com();
     }
     DISPID dispidNextTrack;
     const OLECHAR* szNextTrack = L"NextTrack";
@@ -204,7 +204,7 @@ void iTunes::next_song() {
 }
 void iTunes::prev_song() {
     if (!initialized) {
-        return;
+        initialize_com();
     }
     DISPID dispidPreviousTrack;
     const OLECHAR* szPreviousTrack = L"PreviousTrack";

@@ -21,7 +21,7 @@
     <ClCompile Include="..\src\clock.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\dash.cc">
+    <ClCompile Include="..\src\link.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\src\keyboard.cc">
@@ -84,7 +84,7 @@
     <ClCompile Include="..\src\slash_i.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\close.cc">
+    <ClCompile Include="..\src\end.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -94,76 +94,79 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\link\auto_core.h">
+    <ClInclude Include="link.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\choice.h">
+    <ClInclude Include="..\dash\auto_core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\clipboard.h">
+    <ClInclude Include="..\dash\choice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\clock.h">
+    <ClInclude Include="..\dash\clipboard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\crash.h">
+    <ClInclude Include="..\dash\clock.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\dash.h">
+    <ClInclude Include="..\dash\end.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\itunes.h">
+    <ClInclude Include="..\dash\crash.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\itunes_t.h">
+    <ClInclude Include="..\dash\itunes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\keyboard.h">
+    <ClInclude Include="..\dash\itunes_t.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\logger.h">
+    <ClInclude Include="..\dash\keyboard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\main.h">
+    <ClInclude Include="..\dash\logger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\numkey.h">
+    <ClInclude Include="..\dash\logger_c.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\server.h">
+    <ClInclude Include="..\dash\main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\slash.h">
+    <ClInclude Include="..\dash\numkey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\sp_thread.h">
+    <ClInclude Include="..\dash\server.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\spotify.h">
+    <ClInclude Include="..\dash\slash.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\star.h">
+    <ClInclude Include="..\dash\slash_i.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\taskbar.h">
+    <ClInclude Include="..\dash\sp_thread.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\taskbar_11.h">
+    <ClInclude Include="..\dash\spotify.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\visual.h">
+    <ClInclude Include="..\dash\star.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\wake.h">
+    <ClInclude Include="..\dash\taskbar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\logger_c.h">
+    <ClInclude Include="..\dash\taskbar_11.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\slash_i.h">
+    <ClInclude Include="..\dash\visual.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\link\close.h">
+    <ClInclude Include="..\dash\wake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dash\link.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

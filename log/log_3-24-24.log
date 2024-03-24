@@ -1,0 +1,89 @@
+Session started 3-24-24 at 10:44:25
+server started on port 8585
+sp_thread started
+positions map set
+Program ready
+wake state change detected at 10:44:25 on 3-24-24
+Wake History Count - 1
+Wake History [0]
+  Wake Source Count - 1
+  Wake Source [0]
+    Type: Device
+    Instance Path: PCI\VEN_8086&DEV_A36D&SUBSYS_12381025&REV_10\3&11583659&0&A0
+    Friendly Name: Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+    Description: USB xHCI Compliant Host Controller
+    Manufacturer: Generic USB xHCI Host Controller
+log thread sleeping for 35 seconds at 10:44:25
+iTunes_thread started
+vk_code = 98
+activate_word()
+multiple windows detected
+vk_code = 98
+cycle window
+vk_code = 98
+cycle window
+vk_code = 98
+cycle window
+vk_code = 96
+window selected
+vk_code = 96
+Function key activated
+vk_code = 106
+Star 1124
+3-24-24
+
+10:44
+vk_code = 100
+set_focus_auto_core()
+Enter number of choices: 3
+Daniel selects 0.
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: 3
+Star selects 3.
+vk_code = 96
+Function key activated
+vk_code = 109
+set_focus_auto_core()
+Enter number of choices: 3
+Jose selects 3.
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: 3
+Lily selects 0.
+vk_code = 96
+Function key activated
+vk_code = 112
+set_focus_auto_core()
+Enter number of choices: 5
+Eric selects 4.
+log thread sleeping for 60 seconds at 10:45:00
+vk_code = 96
+Function key activated
+vk_code = 105
+set_focus_auto_core()
+Enter number of choices: 5
+Lily selects 4.
+vk_code = 96
+Function key activated
+vk_code = 108
+set_focus_auto_core()
+Enter number of choices: 5
+Star selects 5.
+vk_code = 96
+Function key activated
+vk_code = 96
+Function key deactivated
+vk_code = 107
+set_focus_auto_core()
+Enter number of choices: 5
+Luna selects 2.
+log thread sleeping for 60 seconds at 10:46:00
+log thread sleeping for 60 seconds at 10:47:00
+log thread sleeping for 60 seconds at 10:48:00
+log thread sleeping for 60 seconds at 10:49:00
+log thread sleeping for 60 seconds at 10:50:00
